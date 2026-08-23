@@ -1,0 +1,114 @@
+# ============================================================
+#  Speech Emotion Recognition — .gitignore
+# ============================================================
+
+# ---- agent / planning scaffolding (not project source) ----
+CLAUDE.md
+tasks.md
+PROGRESS.md
+.claude/
+.cursor/
+.aider*
+.github/copilot-instructions.md
+*.mcp.json
+
+# ---- virtualenvs ----
+.venv/
+.venv-demo/
+venv/
+env/bin/
+env/lib/
+env/pyvenv.cfg
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+.eggs/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+
+# ---- jupyter ----
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ---- secrets — never commit ----
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+credentials.json
+secrets.*
+
+# ---- os / editor cruft ----
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- datasets: large and regenerable ----
+data/raw/
+data/wav/
+data/mel/
+data/interim/
+data/cache/
+
+# ---- model weights and binary artifacts ----
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# ---- audio / array caches ----
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.npy
+*.npz
+
+# ---- experiment tracking ----
+wandb/
+mlruns/
+lightning_logs/
+runs/
+tensorboard/
+outputs/
+*.tar.gz
+
+# ---- stray logs (artifact run logs re-admitted below) ----
+*.log
+
+# ============================================================
+#  Deliberate exceptions — keep these
+# ============================================================
+!data/manifests/
+!env/*.txt
+!env/*.lock
+!artifacts/**/*.log
+!artifacts/**/*.json
+!**/.gitkeep

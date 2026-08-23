@@ -1,0 +1,12 @@
+device=mps  params=1,209,322  train=7364  val=1277
+class counts: {'neutral': 1125, 'joy': 1224, 'sadness': 1223, 'anger': 1224, 'surprise': 120, 'fear': 1224, 'disgust': 1224}
+ep  1  loss 1.6558  UA 25.71  WA 29.13  F1 21.58  31.4s  *
+ep  2  loss 1.5606  UA 25.22  WA 28.58  F1 22.02  20.6s  *
+ep  3  loss 1.4692  UA 26.92  WA 30.54  F1 21.51  22.7s
+ep  4  loss 1.4097  UA 28.30  WA 32.11  F1 22.65  24.6s  *
+ep  5  loss 1.3432  UA 40.30  WA 39.00  F1 34.59  27.9s  *
+ep  6  loss 1.2782  UA 39.35  WA 42.83  F1 39.10  44.0s  *
+ep  7  loss 1.2336  UA 43.42  WA 42.29  F1 40.38  38.5s  *
+ep  8  loss 1.1880  UA 49.52  WA 43.23  F1 41.33  47.7s  *
+/Users/rishabh/.pyenv/versions/3.11.15/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 40 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

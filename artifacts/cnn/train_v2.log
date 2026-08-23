@@ -1,0 +1,65 @@
+device=mps  params=1,209,322  train=7364  val=1277
+class counts: {'neutral': 1125, 'joy': 1224, 'sadness': 1223, 'anger': 1224, 'surprise': 120, 'fear': 1224, 'disgust': 1224}
+ep  1  loss 1.6544  UA 20.43  WA 23.18  F1 12.19  31.8s  *
+ep  2  loss 1.5485  UA 26.02  WA 29.52  F1 19.44  20.0s  *
+ep  3  loss 1.5019  UA 25.40  WA 28.82  F1 18.43  20.1s
+ep  4  loss 1.4590  UA 27.73  WA 31.40  F1 22.30  20.2s  *
+ep  5  loss 1.4202  UA 31.32  WA 35.32  F1 24.94  20.1s  *
+ep  6  loss 1.3921  UA 29.01  WA 31.87  F1 24.11  19.9s
+ep  7  loss 1.3490  UA 33.79  WA 35.55  F1 29.50  20.2s  *
+ep  8  loss 1.3354  UA 39.04  WA 36.57  F1 31.20  20.0s  *
+ep  9  loss 1.3261  UA 35.63  WA 37.90  F1 31.34  20.1s  *
+ep 10  loss 1.2998  UA 38.97  WA 36.49  F1 32.03  20.7s  *
+ep 11  loss 1.2748  UA 40.80  WA 39.86  F1 36.44  22.7s  *
+ep 12  loss 1.2612  UA 42.89  WA 37.67  F1 33.55  23.9s
+ep 13  loss 1.2516  UA 43.07  WA 39.78  F1 36.21  23.6s
+ep 14  loss 1.2378  UA 41.12  WA 42.13  F1 38.34  23.4s  *
+ep 15  loss 1.2203  UA 43.10  WA 41.43  F1 37.44  22.4s
+ep 16  loss 1.1985  UA 45.37  WA 43.30  F1 39.51  22.7s  *
+ep 17  loss 1.1546  UA 42.99  WA 42.99  F1 39.62  23.1s  *
+ep 18  loss 1.1423  UA 45.35  WA 45.73  F1 44.89  23.1s  *
+ep 19  loss 1.1188  UA 48.08  WA 46.12  F1 44.47  23.1s
+ep 20  loss 1.0920  UA 50.85  WA 47.30  F1 45.37  23.4s  *
+ep 21  loss 1.0674  UA 44.12  WA 47.45  F1 43.15  23.4s
+ep 22  loss 1.0460  UA 48.56  WA 46.36  F1 45.78  23.6s  *
+ep 23  loss 1.0078  UA 53.36  WA 49.18  F1 48.88  23.4s  *
+ep 24  loss 1.0006  UA 54.96  WA 50.67  F1 49.29  23.7s  *
+ep 25  loss 0.9834  UA 51.86  WA 50.12  F1 51.26  23.7s  *
+ep 26  loss 0.9844  UA 52.42  WA 51.68  F1 51.41  24.5s  *
+ep 27  loss 0.9582  UA 52.06  WA 50.59  F1 48.72  23.9s
+ep 28  loss 0.9404  UA 54.00  WA 52.15  F1 51.96  24.0s  *
+ep 29  loss 0.9278  UA 53.90  WA 51.06  F1 50.21  23.7s
+ep 30  loss 0.9069  UA 56.19  WA 53.01  F1 53.17  23.5s  *
+ep 31  loss 0.9049  UA 56.15  WA 54.27  F1 54.52  23.7s  *
+ep 32  loss 0.8835  UA 56.44  WA 53.25  F1 52.46  24.1s
+ep 33  loss 0.8753  UA 55.54  WA 54.27  F1 54.34  24.2s
+ep 34  loss 0.8588  UA 57.48  WA 54.19  F1 54.82  24.2s  *
+ep 35  loss 0.8572  UA 59.08  WA 55.29  F1 55.21  23.9s  *
+ep 36  loss 0.8415  UA 58.50  WA 55.99  F1 56.44  26.1s  *
+ep 37  loss 0.8309  UA 58.49  WA 56.30  F1 57.14  25.3s  *
+ep 38  loss 0.8188  UA 57.64  WA 56.62  F1 56.35  25.5s
+ep 39  loss 0.8221  UA 56.85  WA 56.07  F1 56.05  24.7s
+ep 40  loss 0.7987  UA 58.80  WA 56.30  F1 56.46  24.1s
+ep 41  loss 0.7900  UA 58.76  WA 56.62  F1 57.83  24.6s  *
+ep 42  loss 0.7796  UA 59.16  WA 56.70  F1 57.12  25.5s
+ep 43  loss 0.7790  UA 58.81  WA 57.64  F1 58.47  25.2s  *
+ep 44  loss 0.7699  UA 59.50  WA 57.09  F1 57.23  24.4s
+ep 45  loss 0.7566  UA 60.48  WA 58.18  F1 58.58  24.6s  *
+ep 46  loss 0.7520  UA 60.11  WA 57.79  F1 58.13  24.7s
+ep 47  loss 0.7437  UA 60.18  WA 57.87  F1 58.61  25.6s  *
+ep 48  loss 0.7447  UA 60.58  WA 58.65  F1 58.73  24.6s  *
+ep 49  loss 0.7307  UA 59.81  WA 57.79  F1 58.24  24.8s
+ep 50  loss 0.7346  UA 59.45  WA 57.71  F1 58.13  26.0s
+ep 51  loss 0.7170  UA 61.29  WA 59.12  F1 59.72  29.4s  *
+ep 52  loss 0.7299  UA 61.14  WA 58.97  F1 59.64  26.4s
+ep 53  loss 0.7246  UA 61.07  WA 58.89  F1 59.66  23.4s
+ep 54  loss 0.7187  UA 60.57  WA 58.97  F1 59.71  25.2s
+ep 55  loss 0.7173  UA 60.49  WA 58.89  F1 59.46  27.0s
+ep 56  loss 0.7110  UA 60.78  WA 58.89  F1 59.56  25.6s
+ep 57  loss 0.7158  UA 60.63  WA 59.04  F1 59.58  23.2s
+ep 58  loss 0.7159  UA 60.57  WA 58.97  F1 59.51  23.5s
+ep 59  loss 0.7085  UA 60.85  WA 58.97  F1 59.58  23.7s
+ep 60  loss 0.7125  UA 60.85  WA 58.97  F1 59.57  23.4s
+
+BEST  epoch 51  F1 59.72  -> pretrain_seed0.pt
+final val: UA 61.29  WA 59.12  F1 59.72

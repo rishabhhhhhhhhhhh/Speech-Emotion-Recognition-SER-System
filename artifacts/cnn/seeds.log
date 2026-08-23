@@ -1,0 +1,4 @@
+seed 1 done
+bash: line 1:  4310 Terminated: 15          PYTORCH_ENABLE_MPS_FALLBACK=1 PYTHONUNBUFFERED=1 .venv/bin/python src/cnn/train.py --train acted_train --val acted_val --epochs 60 --lr 3e-4 --batch 64 --tag pretrain --seed $s > artifacts/cnn/train_seed$s.log 2>&1
+seed 2 done
+ALL_SEEDS_DONE

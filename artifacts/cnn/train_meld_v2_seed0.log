@@ -1,0 +1,9 @@
+balanced sampler ON - expected per-class share ~14.3% each
+warm-started from artifacts/cnn/pretrain_seed0.pt
+device=mps  params=1,209,322  train=9988  val=1108
+class counts: {'neutral': 4709, 'joy': 1743, 'sadness': 683, 'anger': 1109, 'surprise': 1205, 'fear': 268, 'disgust': 271}
+ep  1  loss 2.1318  UA 18.42  WA  8.75  F1  9.72  37.7s  *
+ep  2  loss 1.6247  UA 15.47  WA  4.69  F1  4.22  26.9s
+ep  3  loss 1.5106  UA 12.87  WA  3.07  F1  2.14  27.2s
+/Users/rishabh/.pyenv/versions/3.11.15/lib/python3.11/multiprocessing/resource_tracker.py:254: UserWarning: resource_tracker: There appear to be 40 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

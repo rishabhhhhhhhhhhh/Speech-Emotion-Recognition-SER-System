@@ -1,0 +1,43 @@
+warm-started from artifacts/cnn/pretrain_seed0.pt
+device=mps  params=1,209,322  train=9988  val=1108
+class counts: {'neutral': 4709, 'joy': 1743, 'sadness': 683, 'anger': 1109, 'surprise': 1205, 'fear': 268, 'disgust': 271}
+ep  1  loss 1.3605  UA 19.54  WA 30.51  F1 18.27  115.5s  *
+ep  2  loss 1.0399  UA 19.33  WA 36.19  F1 19.39  65.7s  *
+ep  3  loss 0.9017  UA 19.58  WA 41.70  F1 18.71  44.4s
+ep  4  loss 0.8661  UA 18.14  WA 42.69  F1 16.29  32.5s
+ep  5  loss 0.8523  UA 19.24  WA 42.96  F1 17.97  31.9s
+ep  6  loss 0.8422  UA 19.61  WA 42.24  F1 17.69  31.9s
+ep  7  loss 0.8372  UA 20.93  WA 43.50  F1 17.83  32.3s
+ep  8  loss 0.8350  UA 19.83  WA 44.04  F1 17.49  36.7s
+ep  9  loss 0.8310  UA 21.76  WA 42.60  F1 19.62  35.6s  *
+ep 10  loss 0.8257  UA 22.00  WA 44.49  F1 19.76  38.0s  *
+ep 11  loss 0.8257  UA 21.77  WA 42.78  F1 19.44  46.7s
+ep 12  loss 0.8234  UA 23.55  WA 42.78  F1 20.08  42.1s  *
+ep 13  loss 0.8161  UA 22.77  WA 43.50  F1 20.53  36.0s  *
+ep 14  loss 0.8158  UA 22.39  WA 43.86  F1 20.12  33.4s
+ep 15  loss 0.8126  UA 23.15  WA 44.40  F1 22.11  32.8s  *
+ep 16  loss 0.8117  UA 23.31  WA 41.88  F1 21.11  32.7s
+ep 17  loss 0.8067  UA 22.32  WA 41.43  F1 20.25  32.1s
+ep 18  loss 0.8046  UA 22.75  WA 42.60  F1 20.59  31.2s
+ep 19  loss 0.8044  UA 23.42  WA 42.78  F1 21.97  31.7s
+ep 20  loss 0.8014  UA 22.24  WA 43.23  F1 21.13  32.4s
+ep 21  loss 0.7986  UA 23.50  WA 42.51  F1 21.70  32.9s
+ep 22  loss 0.7961  UA 23.62  WA 41.43  F1 21.47  31.6s
+ep 23  loss 0.7932  UA 23.21  WA 41.70  F1 22.03  30.5s
+ep 24  loss 0.7883  UA 24.33  WA 39.53  F1 23.56  30.5s  *
+ep 25  loss 0.7942  UA 23.77  WA 41.79  F1 22.45  30.5s
+ep 26  loss 0.7898  UA 23.31  WA 43.68  F1 21.90  30.6s
+ep 27  loss 0.7843  UA 23.13  WA 43.59  F1 21.93  30.8s
+ep 28  loss 0.7874  UA 23.33  WA 42.42  F1 21.81  30.6s
+ep 29  loss 0.7873  UA 23.07  WA 41.43  F1 21.84  30.6s
+ep 30  loss 0.7793  UA 23.13  WA 42.42  F1 21.87  30.5s
+ep 31  loss 0.7780  UA 22.05  WA 41.06  F1 21.35  30.9s
+ep 32  loss 0.7818  UA 23.40  WA 40.52  F1 22.19  30.9s
+ep 33  loss 0.7803  UA 22.68  WA 40.52  F1 21.45  30.7s
+ep 34  loss 0.7815  UA 23.21  WA 41.97  F1 22.32  30.7s
+ep 35  loss 0.7789  UA 22.58  WA 40.88  F1 21.66  30.6s
+ep 36  loss 0.7807  UA 22.45  WA 40.88  F1 21.78  30.7s
+early stop (no F1 gain in 12 epochs)
+
+BEST  epoch 24  F1 23.56  -> meld_seed0.pt
+final val: UA 24.33  WA 39.53  F1 23.56

@@ -1,0 +1,36 @@
+# Mac env (ser-cnn) — Python 3.11.15 via pyenv, venv at ./.venv
+#
+# INSTALL IN THIS ORDER. Always pass -c env/constraints-mac.txt.
+# Exact resolved versions live in env/requirements-mac.lock — use that to reproduce.
+#
+#   1) numpy anchor first, alone
+#   2) torch + torchaudio in ONE pip command (let the resolver pair them;
+#      their version numbers are NO LONGER in lockstep - torch 2.13 / torchaudio 2.11)
+#   3) the librosa triple (numba/llvmlite/librosa) - the real breakage zone
+#   4) scientific stack   5) jupyter   6) augmentation
+#
+# NEVER install here: tensorflow, keras, vllm, bitsandbytes, flash-attn.
+
+numpy==1.26.4
+
+torch                     # unpinned: resolver picks the newest MPS-capable build
+torchaudio                # install together with torch, same command
+
+numba==0.60.0
+llvmlite==0.43.0
+librosa==0.10.2.post1
+soundfile==0.12.1
+
+scipy==1.12.0
+scikit-learn==1.5.2
+pandas==2.2.3
+pyarrow==17.0.0
+matplotlib==3.9.2
+seaborn==0.13.2
+tqdm
+
+jupyterlab==4.2.5
+ipykernel
+ipywidgets
+
+audiomentations==0.37.0

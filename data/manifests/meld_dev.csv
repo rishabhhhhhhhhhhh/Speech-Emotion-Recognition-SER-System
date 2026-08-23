@@ -1,0 +1,1109 @@
+uid,wav_path,corpus,speaker_id,gender,label,orig_label,label_id,transcript,duration,samplerate,dialogue_id,utterance_id,split
+meld_dev_dia0_utt0,data/raw/MELD_hf/dev/dia0_utt0.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Oh my God, he's lost it. He's totally lost it.",2.795,16000,0,0,dev
+meld_dev_dia0_utt1,data/raw/MELD_hf/dev/dia0_utt1.flac,meld,meld_Monica,unknown,surprise,surprise,4,What?,1.344,16000,0,1,dev
+meld_dev_dia1_utt0,data/raw/MELD_hf/dev/dia1_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Or! Or, we could go to the bank, close our accounts and cut them off at the source.",6.272,16000,1,0,dev
+meld_dev_dia1_utt1,data/raw/MELD_hf/dev/dia1_utt1.flac,meld,meld_Chandler,unknown,joy,joy,1,You're a genius!,1.643,16000,1,1,dev
+meld_dev_dia1_utt2,data/raw/MELD_hf/dev/dia1_utt2.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Aww, man, now we won't be bank buddies!",3.307,16000,1,2,dev
+meld_dev_dia1_utt3,data/raw/MELD_hf/dev/dia1_utt3.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Now, there's two reasons.",1.387,16000,1,3,dev
+meld_dev_dia1_utt4,data/raw/MELD_hf/dev/dia1_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Hey.,1.045,16000,1,4,dev
+meld_dev_dia1_utt5,data/raw/MELD_hf/dev/dia1_utt5.flac,meld,meld_All,unknown,joy,joy,1,Hey!,1.109,16000,1,5,dev
+meld_dev_dia1_utt6,data/raw/MELD_hf/dev/dia1_utt6.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Ohh, you guys, remember that cute client I told you about? I bit him.",5.525,16000,1,6,dev
+meld_dev_dia1_utt7,data/raw/MELD_hf/dev/dia1_utt7.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Where?!,2.261,16000,1,7,dev
+meld_dev_dia1_utt8,data/raw/MELD_hf/dev/dia1_utt8.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,On the touchy.,0.811,16000,1,8,dev
+meld_dev_dia1_utt9,data/raw/MELD_hf/dev/dia1_utt9.flac,meld,meld_Ross,unknown,neutral,neutral,0,And,2.176,16000,1,9,dev
+meld_dev_dia1_utt10,data/raw/MELD_hf/dev/dia1_utt10.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"No, I know!",2.688,16000,1,10,dev
+meld_dev_dia1_utt11,data/raw/MELD_hf/dev/dia1_utt11.flac,meld,meld_Phoebe,unknown,anger,anger,3,"I-I'm sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",10.987,16000,1,11,dev
+meld_dev_dia1_utt12,data/raw/MELD_hf/dev/dia1_utt12.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Well, next time your massaging him, you should try and distract yourself.",8.555,16000,1,12,dev
+meld_dev_dia1_utt13,data/raw/MELD_hf/dev/dia1_utt13.flac,meld,meld_Joey,unknown,joy,joy,1,Yeah! Yeah! Yeah! Like-like when I'm doing something exciting and I don't wanna get,7.36,16000,1,13,dev
+meld_dev_dia1_utt14,data/raw/MELD_hf/dev/dia1_utt14.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Thank you, Joey.",1.088,16000,1,14,dev
+meld_dev_dia1_utt15,data/raw/MELD_hf/dev/dia1_utt15.flac,meld,meld_Joey,unknown,neutral,neutral,0,"No-no, thank you.",1.109,16000,1,15,dev
+meld_dev_dia2_utt0,data/raw/MELD_hf/dev/dia2_utt0.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Hey Estelle, listen",3.989,16000,2,0,dev
+meld_dev_dia2_utt1,data/raw/MELD_hf/dev/dia2_utt1.flac,meld,meld_Estelle,unknown,surprise,surprise,4,Well! Well! Well! Joey Tribbiani! So you came back huh? They,7.979,16000,2,1,dev
+meld_dev_dia2_utt2,data/raw/MELD_hf/dev/dia2_utt2.flac,meld,meld_Joey,unknown,surprise,surprise,4,What are you talkin' about? I never left you! You've always been my agent!,4.928,16000,2,2,dev
+meld_dev_dia2_utt3,data/raw/MELD_hf/dev/dia2_utt3.flac,meld,meld_Estelle,unknown,surprise,surprise,4,Really?!,0.875,16000,2,3,dev
+meld_dev_dia2_utt4,data/raw/MELD_hf/dev/dia2_utt4.flac,meld,meld_Joey,unknown,joy,joy,1,Yeah!,1.237,16000,2,4,dev
+meld_dev_dia2_utt5,data/raw/MELD_hf/dev/dia2_utt5.flac,meld,meld_Estelle,unknown,neutral,neutral,0,"Oh well, no harm, no foul.",3.093,16000,2,5,dev
+meld_dev_dia3_utt0,data/raw/MELD_hf/dev/dia3_utt0.flac,meld,meld_Gary,unknown,neutral,neutral,0,"Okay, you guys free tonight?",1.344,16000,3,0,dev
+meld_dev_dia3_utt1,data/raw/MELD_hf/dev/dia3_utt1.flac,meld,meld_Ross,unknown,joy,joy,1,Yeah!!,1.685,16000,3,1,dev
+meld_dev_dia3_utt2,data/raw/MELD_hf/dev/dia3_utt2.flac,meld,meld_Chandler,unknown,surprise,surprise,4,Tonight? You-you didn't say it was going to be at nighttime.,2.88,16000,3,2,dev
+meld_dev_dia4_utt0,data/raw/MELD_hf/dev/dia4_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,Yes? Yes?! How can I help you?,2.752,16000,4,0,dev
+meld_dev_dia4_utt1,data/raw/MELD_hf/dev/dia4_utt1.flac,meld,meld_Guy,unknown,neutral,neutral,0,"Yeah, we were...we were just looking around.",1.813,16000,4,1,dev
+meld_dev_dia4_utt2,data/raw/MELD_hf/dev/dia4_utt2.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Oh-oh, you're-you're fellow scholars.",2.389,16000,4,2,dev
+meld_dev_dia4_utt3,data/raw/MELD_hf/dev/dia4_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,"What exactly were you looking for, hmm?",2.517,16000,4,3,dev
+meld_dev_dia4_utt4,data/raw/MELD_hf/dev/dia4_utt4.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Perhaps, perhaps Dr. Chester Stock's musings on the Smiledon Californicus?",7.189,16000,4,4,dev
+meld_dev_dia4_utt5,data/raw/MELD_hf/dev/dia4_utt5.flac,meld,meld_Guy,unknown,neutral,neutral,0,Uhh....,1.173,16000,4,5,dev
+meld_dev_dia4_utt6,data/raw/MELD_hf/dev/dia4_utt6.flac,meld,meld_Ross,unknown,anger,anger,3,"Ah... Ah...Get out of here! Uh, meeting someone? Or-or are you just here to brush up on Marion's views on evolution?",19.819,16000,4,6,dev
+meld_dev_dia4_utt7,data/raw/MELD_hf/dev/dia4_utt7.flac,meld,meld_Woman,unknown,neutral,neutral,0,"Uh, actually I find Marion's views far too progressionist.",4.608,16000,4,7,dev
+meld_dev_dia4_utt8,data/raw/MELD_hf/dev/dia4_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,I find Marion's views far too progressionist.,3.307,16000,4,8,dev
+meld_dev_dia4_utt9,data/raw/MELD_hf/dev/dia4_utt9.flac,meld,meld_Woman,unknown,surprise,surprise,4,"I'm sorry, who are you?",3.179,16000,4,9,dev
+meld_dev_dia4_utt10,data/raw/MELD_hf/dev/dia4_utt10.flac,meld,meld_Ross,unknown,neutral,neutral,0,"I'm a professor here uh, Ross...Geller.",2.219,16000,4,10,dev
+meld_dev_dia4_utt11,data/raw/MELD_hf/dev/dia4_utt11.flac,meld,meld_Woman,unknown,surprise,surprise,4,"Ross Geller, why do I know that name? It's uh-Wait! Did you write this?",10.389,16000,4,11,dev
+meld_dev_dia4_utt12,data/raw/MELD_hf/dev/dia4_utt12.flac,meld,meld_Ross,unknown,surprise,surprise,4,Yes! You're the person who checked out my book?!,8.597,16000,4,12,dev
+meld_dev_dia4_utt13,data/raw/MELD_hf/dev/dia4_utt13.flac,meld,meld_Woman,unknown,surprise,surprise,4,"Y'know, you look nothing like I would've thought. You're...you're so young.",1.493,16000,4,13,dev
+meld_dev_dia4_utt14,data/raw/MELD_hf/dev/dia4_utt14.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Well I uh, I skipped forth grade.",4.053,16000,4,14,dev
+meld_dev_dia5_utt0,data/raw/MELD_hf/dev/dia5_utt0.flac,meld,meld_Ross,unknown,anger,anger,3,You had no right to tell me you ever had feelings for me.,2.688,16000,5,0,dev
+meld_dev_dia5_utt1,data/raw/MELD_hf/dev/dia5_utt1.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What?,1.856,16000,5,1,dev
+meld_dev_dia5_utt2,data/raw/MELD_hf/dev/dia5_utt2.flac,meld,meld_Ross,unknown,anger,anger,3,I was doing great with Julie before I found out about you.,3.52,16000,5,2,dev
+meld_dev_dia5_utt3,data/raw/MELD_hf/dev/dia5_utt3.flac,meld,meld_Rachel,unknown,anger,anger,3,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",4.608,16000,5,3,dev
+meld_dev_dia5_utt4,data/raw/MELD_hf/dev/dia5_utt4.flac,meld,meld_Ross,unknown,anger,anger,3,The point is I...,1.195,16000,5,4,dev
+meld_dev_dia5_utt5,data/raw/MELD_hf/dev/dia5_utt5.flac,meld,meld_Ross,unknown,anger,anger,3,"I don't need this right now, OK.",1.664,16000,5,5,dev
+meld_dev_dia5_utt6,data/raw/MELD_hf/dev/dia5_utt6.flac,meld,meld_Ross,unknown,anger,anger,3,"It, it's too late, I'm with somebody else, I'm happy.",4.928,16000,5,6,dev
+meld_dev_dia5_utt7,data/raw/MELD_hf/dev/dia5_utt7.flac,meld,meld_Ross,unknown,anger,anger,3,This ship has sailed.,2.965,16000,5,7,dev
+meld_dev_dia5_utt8,data/raw/MELD_hf/dev/dia5_utt8.flac,meld,meld_Rachel,unknown,anger,anger,3,"Alright, fine, you go ahead and you do that, alright Ross.",2.411,16000,5,8,dev
+meld_dev_dia5_utt9,data/raw/MELD_hf/dev/dia5_utt9.flac,meld,meld_Ross,unknown,anger,anger,3,Fine.,0.128,16000,5,9,dev
+meld_dev_dia5_utt10,data/raw/MELD_hf/dev/dia5_utt10.flac,meld,meld_Rachel,unknown,anger,anger,3,Cause I don't need your stupid ship.,1.387,16000,5,10,dev
+meld_dev_dia5_utt11,data/raw/MELD_hf/dev/dia5_utt11.flac,meld,meld_Ross,unknown,anger,anger,3,Good.,1.045,16000,5,11,dev
+meld_dev_dia5_utt12,data/raw/MELD_hf/dev/dia5_utt12.flac,meld,meld_Rachel,unknown,anger,anger,3,Good.,0.811,16000,5,12,dev
+meld_dev_dia6_utt0,data/raw/MELD_hf/dev/dia6_utt0.flac,meld,meld_Phoebe,unknown,joy,joy,1,"Oh, it's so romantic to send people off on their honeymoon.",4.352,16000,6,0,dev
+meld_dev_dia6_utt1,data/raw/MELD_hf/dev/dia6_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Y'know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",10.261,16000,6,1,dev
+meld_dev_dia6_utt2,data/raw/MELD_hf/dev/dia6_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,All in good time my love.,3.008,16000,6,2,dev
+meld_dev_dia6_utt3,data/raw/MELD_hf/dev/dia6_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,All in good time.,3.115,16000,6,3,dev
+meld_dev_dia6_utt4,data/raw/MELD_hf/dev/dia6_utt4.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Oh shoot!,1.131,16000,6,4,dev
+meld_dev_dia6_utt5,data/raw/MELD_hf/dev/dia6_utt5.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,I left my guitar in their apartment.,1.984,16000,6,5,dev
+meld_dev_dia6_utt6,data/raw/MELD_hf/dev/dia6_utt6.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Well you can let me in later.,1.664,16000,6,6,dev
+meld_dev_dia6_utt7,data/raw/MELD_hf/dev/dia6_utt7.flac,meld,meld_Joey,unknown,neutral,neutral,0,"I don't have a key, they took mine to give to you.",2.347,16000,6,7,dev
+meld_dev_dia6_utt8,data/raw/MELD_hf/dev/dia6_utt8.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,What?! They took mine to give to you!,0.149,16000,6,8,dev
+meld_dev_dia6_utt9,data/raw/MELD_hf/dev/dia6_utt9.flac,meld,meld_Joey,unknown,surprise,surprise,4,Why would they take away our keys?,5.013,16000,6,9,dev
+meld_dev_dia7_utt0,data/raw/MELD_hf/dev/dia7_utt0.flac,meld,meld_Ross,unknown,joy,joy,1,Wow! It looks like we got a lot of good stuff.,1.856,16000,7,0,dev
+meld_dev_dia7_utt1,data/raw/MELD_hf/dev/dia7_utt1.flac,meld,meld_Rachel,unknown,joy,joy,1,"Oh we did, but my mom got us the greatest gift of all.",2.837,16000,7,1,dev
+meld_dev_dia7_utt2,data/raw/MELD_hf/dev/dia7_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,A,1.963,16000,7,2,dev
+meld_dev_dia7_utt3,data/raw/MELD_hf/dev/dia7_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,No. She's going to live with us for eight weeks.,4.139,16000,7,3,dev
+meld_dev_dia7_utt4,data/raw/MELD_hf/dev/dia7_utt4.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Uh, what?",1.408,16000,7,4,dev
+meld_dev_dia7_utt5,data/raw/MELD_hf/dev/dia7_utt5.flac,meld,meld_Rachel,unknown,joy,joy,1,Yes! She's gonna help us take care of the baby! Woo-hoo.,3.797,16000,7,5,dev
+meld_dev_dia7_utt6,data/raw/MELD_hf/dev/dia7_utt6.flac,meld,meld_Ross,unknown,surprise,surprise,4,What-You're not serious.,2.176,16000,7,6,dev
+meld_dev_dia7_utt7,data/raw/MELD_hf/dev/dia7_utt7.flac,meld,meld_Ross,unknown,anger,anger,3,"I mean she's a very nice woman, but there is no way we can take eight weeks of her.",4.352,16000,7,7,dev
+meld_dev_dia7_utt8,data/raw/MELD_hf/dev/dia7_utt8.flac,meld,meld_Ross,unknown,disgust,disgust,6,She'll drive us totally crazy.,1.579,16000,7,8,dev
+meld_dev_dia7_utt9,data/raw/MELD_hf/dev/dia7_utt9.flac,meld,meld_Mrs. Green,unknown,joy,joy,1,Hi Ross!,0.491,16000,7,9,dev
+meld_dev_dia7_utt10,data/raw/MELD_hf/dev/dia7_utt10.flac,meld,meld_Ross,unknown,joy,joy,1,Hi roomie!,2.219,16000,7,10,dev
+meld_dev_dia8_utt0,data/raw/MELD_hf/dev/dia8_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Hey! What did you decide to do about the movie?,2.517,16000,8,0,dev
+meld_dev_dia8_utt1,data/raw/MELD_hf/dev/dia8_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,I don't know!,2.389,16000,8,1,dev
+meld_dev_dia8_utt2,data/raw/MELD_hf/dev/dia8_utt2.flac,meld,meld_Joey,unknown,neutral,neutral,0,It's not like it's porn!,1.472,16000,8,2,dev
+meld_dev_dia8_utt3,data/raw/MELD_hf/dev/dia8_utt3.flac,meld,meld_Joey,unknown,neutral,neutral,0,"This is a serious, legitimate movie.",2.603,16000,8,3,dev
+meld_dev_dia8_utt4,data/raw/MELD_hf/dev/dia8_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,And the nudity is really important to the story.,2.432,16000,8,4,dev
+meld_dev_dia8_utt5,data/raw/MELD_hf/dev/dia8_utt5.flac,meld,meld_Monica,unknown,neutral,neutral,0,That's what you say about porn.,2.176,16000,8,5,dev
+meld_dev_dia8_utt6,data/raw/MELD_hf/dev/dia8_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,You're right. Maybe I shouldn't even go on the call back.,2.347,16000,8,6,dev
+meld_dev_dia8_utt7,data/raw/MELD_hf/dev/dia8_utt7.flac,meld,meld_Monica,unknown,joy,joy,1,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",6.805,16000,8,7,dev
+meld_dev_dia8_utt8,data/raw/MELD_hf/dev/dia8_utt8.flac,meld,meld_Joey,unknown,neutral,neutral,0,Well that's true.,1.024,16000,8,8,dev
+meld_dev_dia8_utt9,data/raw/MELD_hf/dev/dia8_utt9.flac,meld,meld_Joey,unknown,neutral,neutral,0,And I am only naked in one scene.,2.752,16000,8,9,dev
+meld_dev_dia8_utt10,data/raw/MELD_hf/dev/dia8_utt10.flac,meld,meld_Joey,unknown,neutral,neutral,0,Plus it sounds really great.,1.536,16000,8,10,dev
+meld_dev_dia8_utt11,data/raw/MELD_hf/dev/dia8_utt11.flac,meld,meld_Joey,unknown,neutral,neutral,0,My character's catholic and he falls in love with this Jewish girl.,3.093,16000,8,11,dev
+meld_dev_dia8_utt12,data/raw/MELD_hf/dev/dia8_utt12.flac,meld,meld_Joey,unknown,neutral,neutral,0,Who run away together and they get caught in this big rainstorm.,2.688,16000,8,12,dev
+meld_dev_dia8_utt13,data/raw/MELD_hf/dev/dia8_utt13.flac,meld,meld_Joey,unknown,neutral,neutral,0,So we go into this barn and undress each other and hold each other.,3.563,16000,8,13,dev
+meld_dev_dia8_utt14,data/raw/MELD_hf/dev/dia8_utt14.flac,meld,meld_Joey,unknown,joy,joy,1,It's really sweet and-and tender.,3.051,16000,8,14,dev
+meld_dev_dia9_utt0,data/raw/MELD_hf/dev/dia9_utt0.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Hey, what's up?",1.643,16000,9,0,dev
+meld_dev_dia9_utt1,data/raw/MELD_hf/dev/dia9_utt1.flac,meld,meld_Chandler,unknown,sadness,sadness,2,"Nothing, Monica and I had a stupid fight.",2.133,16000,9,1,dev
+meld_dev_dia9_utt2,data/raw/MELD_hf/dev/dia9_utt2.flac,meld,meld_Joey,unknown,neutral,neutral,0,"But you're still moving in together, right? Because my ad came out today.",3.435,16000,9,2,dev
+meld_dev_dia9_utt3,data/raw/MELD_hf/dev/dia9_utt3.flac,meld,meld_Chandler,unknown,joy,joy,1,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",3.435,16000,9,3,dev
+meld_dev_dia9_utt4,data/raw/MELD_hf/dev/dia9_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,Yeah?,1.515,16000,9,4,dev
+meld_dev_dia9_utt5,data/raw/MELD_hf/dev/dia9_utt5.flac,meld,meld_Joey,unknown,neutral,neutral,0,"I just figured y'know, after living with you it'd be an interesting change of pace to have a female roommate, y'know?",4.629,16000,9,5,dev
+meld_dev_dia9_utt6,data/raw/MELD_hf/dev/dia9_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Someone I can learn from, someone-someone who's different than me.",3.648,16000,9,6,dev
+meld_dev_dia9_utt7,data/raw/MELD_hf/dev/dia9_utt7.flac,meld,meld_Joey,unknown,neutral,neutral,0,And what's more different than me. A guy who's,3.669,16000,9,7,dev
+meld_dev_dia10_utt0,data/raw/MELD_hf/dev/dia10_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,So where are we going next?,1.003,16000,10,0,dev
+meld_dev_dia10_utt1,data/raw/MELD_hf/dev/dia10_utt1.flac,meld,meld_Gary,unknown,neutral,neutral,0,This witness won't return my calls so we're gonna see if we can surprise him coming home.,3.349,16000,10,1,dev
+meld_dev_dia10_utt2,data/raw/MELD_hf/dev/dia10_utt2.flac,meld,meld_Chandler,unknown,fear,fear,5,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",3.648,16000,10,2,dev
+meld_dev_dia10_utt3,data/raw/MELD_hf/dev/dia10_utt3.flac,meld,meld_Joey,unknown,joy,joy,1,"Come on man! Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",6.101,16000,10,3,dev
+meld_dev_dia10_utt4,data/raw/MELD_hf/dev/dia10_utt4.flac,meld,meld_Gary,unknown,anger,anger,3,It's a witness not a perp. And no one talks like that!,2.496,16000,10,4,dev
+meld_dev_dia10_utt5,data/raw/MELD_hf/dev/dia10_utt5.flac,meld,meld_Ross,unknown,anger,anger,3,"Yeah, no one talks like that!",0.128,16000,10,5,dev
+meld_dev_dia10_utt6,data/raw/MELD_hf/dev/dia10_utt6.flac,meld,meld_Joey,unknown,anger,anger,3,Oh what? Like your Mr. Cop!,1.749,16000,10,6,dev
+meld_dev_dia10_utt7,data/raw/MELD_hf/dev/dia10_utt7.flac,meld,meld_Ross,unknown,anger,anger,3,"Hey, I'm more cop than you two!",1.984,16000,10,7,dev
+meld_dev_dia10_utt8,data/raw/MELD_hf/dev/dia10_utt8.flac,meld,meld_Chandler,unknown,neutral,neutral,0,How do you figure that?,1.643,16000,10,8,dev
+meld_dev_dia10_utt9,data/raw/MELD_hf/dev/dia10_utt9.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Hello! I'm in the front seat, okay? I'm Gary's partner!",5.355,16000,10,9,dev
+meld_dev_dia11_utt0,data/raw/MELD_hf/dev/dia11_utt0.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I guess so.,1.131,16000,11,0,dev
+meld_dev_dia11_utt1,data/raw/MELD_hf/dev/dia11_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Here you go. Thank you!,2.389,16000,11,1,dev
+meld_dev_dia11_utt2,data/raw/MELD_hf/dev/dia11_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Wait, Rach! Where's the other one?",0.149,16000,11,2,dev
+meld_dev_dia11_utt3,data/raw/MELD_hf/dev/dia11_utt3.flac,meld,meld_Rachel,unknown,surprise,surprise,4,"Oh what, you-you want both of them?",2.688,16000,11,3,dev
+meld_dev_dia11_utt4,data/raw/MELD_hf/dev/dia11_utt4.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Rachel Karen Green, where's the other earring?!",2.475,16000,11,4,dev
+meld_dev_dia11_utt5,data/raw/MELD_hf/dev/dia11_utt5.flac,meld,meld_Rachel,unknown,fear,fear,5,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",3.008,16000,11,5,dev
+meld_dev_dia11_utt6,data/raw/MELD_hf/dev/dia11_utt6.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"I know it's in the apartment, but I",3.563,16000,11,6,dev
+meld_dev_dia11_utt7,data/raw/MELD_hf/dev/dia11_utt7.flac,meld,meld_Phoebe,unknown,fear,fear,5,"Well, what am I going to tell Monica? She wants to wear them tonight!",3.349,16000,11,7,dev
+meld_dev_dia11_utt8,data/raw/MELD_hf/dev/dia11_utt8.flac,meld,meld_Rachel,unknown,anger,anger,3,Tell her to wear her own earrings.,3.328,16000,11,8,dev
+meld_dev_dia11_utt9,data/raw/MELD_hf/dev/dia11_utt9.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,These,0.128,16000,11,9,dev
+meld_dev_dia11_utt10,data/raw/MELD_hf/dev/dia11_utt10.flac,meld,meld_Rachel,unknown,anger,anger,3,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,6.272,16000,11,10,dev
+meld_dev_dia11_utt11,data/raw/MELD_hf/dev/dia11_utt11.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Why not?,0.64,16000,11,11,dev
+meld_dev_dia11_utt12,data/raw/MELD_hf/dev/dia11_utt12.flac,meld,meld_Rachel,unknown,anger,anger,3,Because I lose her stuff!,1.728,16000,11,12,dev
+meld_dev_dia12_utt0,data/raw/MELD_hf/dev/dia12_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Uh Phoebe, can I see you for a second?",1.664,16000,12,0,dev
+meld_dev_dia12_utt1,data/raw/MELD_hf/dev/dia12_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Yeah!,1.877,16000,12,1,dev
+meld_dev_dia12_utt2,data/raw/MELD_hf/dev/dia12_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,What's going on?,1.749,16000,12,2,dev
+meld_dev_dia12_utt3,data/raw/MELD_hf/dev/dia12_utt3.flac,meld,meld_Ross,unknown,surprise,surprise,4,Chandler's gone again!,0.661,16000,12,3,dev
+meld_dev_dia12_utt4,data/raw/MELD_hf/dev/dia12_utt4.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,5.44,16000,12,4,dev
+meld_dev_dia13_utt0,data/raw/MELD_hf/dev/dia13_utt0.flac,meld,meld_Dr. Harad,unknown,neutral,neutral,0,Okay. You ready to push again?,1.963,16000,13,0,dev
+meld_dev_dia13_utt1,data/raw/MELD_hf/dev/dia13_utt1.flac,meld,meld_Phoebe,unknown,anger,anger,3,I already had a baby. Leave me alone.,2.304,16000,13,1,dev
+meld_dev_dia13_utt2,data/raw/MELD_hf/dev/dia13_utt2.flac,meld,meld_Frank,unknown,joy,joy,1,"Okay, okay, come on, you can do it. You can do it!",3.349,16000,13,2,dev
+meld_dev_dia13_utt3,data/raw/MELD_hf/dev/dia13_utt3.flac,meld,meld_Frank,unknown,joy,joy,1,Yeah!!,1.429,16000,13,3,dev
+meld_dev_dia13_utt4,data/raw/MELD_hf/dev/dia13_utt4.flac,meld,meld_Frank,unknown,joy,joy,1,Little Leslie is here!,1.963,16000,13,4,dev
+meld_dev_dia13_utt5,data/raw/MELD_hf/dev/dia13_utt5.flac,meld,meld_Frank,unknown,surprise,surprise,4,We got another one!,0.704,16000,13,5,dev
+meld_dev_dia13_utt6,data/raw/MELD_hf/dev/dia13_utt6.flac,meld,meld_Frank,unknown,surprise,surprise,4,"Oh my God, I can't believe I have two-two children.",3.52,16000,13,6,dev
+meld_dev_dia13_utt7,data/raw/MELD_hf/dev/dia13_utt7.flac,meld,meld_Frank,unknown,surprise,surprise,4,How scary is that?,1.877,16000,13,7,dev
+meld_dev_dia13_utt8,data/raw/MELD_hf/dev/dia13_utt8.flac,meld,meld_Frank,unknown,joy,joy,1,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",4.565,16000,13,8,dev
+meld_dev_dia13_utt9,data/raw/MELD_hf/dev/dia13_utt9.flac,meld,meld_Dr. Harad,unknown,joy,joy,1,"All right, he's coming. He's coming!",2.091,16000,13,9,dev
+meld_dev_dia13_utt10,data/raw/MELD_hf/dev/dia13_utt10.flac,meld,meld_Frank,unknown,surprise,surprise,4,"Hey, where's his thing?",1.92,16000,13,10,dev
+meld_dev_dia13_utt11,data/raw/MELD_hf/dev/dia13_utt11.flac,meld,meld_Frank,unknown,surprise,surprise,4,Chandler's a girl!,1.557,16000,13,11,dev
+meld_dev_dia13_utt12,data/raw/MELD_hf/dev/dia13_utt12.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"Oh God, kindergarten flashback.",2.475,16000,13,12,dev
+meld_dev_dia13_utt13,data/raw/MELD_hf/dev/dia13_utt13.flac,meld,meld_Frank,unknown,surprise,surprise,4,They musta read the sonogram wrong.,3.691,16000,13,13,dev
+meld_dev_dia13_utt14,data/raw/MELD_hf/dev/dia13_utt14.flac,meld,meld_Frank,unknown,surprise,surprise,4,"Cause they, 'cause they thought it was a boy, but Chandler's a girl!",5.973,16000,13,14,dev
+meld_dev_dia13_utt15,data/raw/MELD_hf/dev/dia13_utt15.flac,meld,meld_Frank,unknown,surprise,surprise,4,Chandler's a girl!,2.048,16000,13,15,dev
+meld_dev_dia13_utt16,data/raw/MELD_hf/dev/dia13_utt16.flac,meld,meld_Chandler,unknown,joy,joy,1,"Okay, keep saying it!",1.685,16000,13,16,dev
+meld_dev_dia13_utt17,data/raw/MELD_hf/dev/dia13_utt17.flac,meld,meld_Alice,unknown,neutral,neutral,0,Am I too late?!,3.008,16000,13,17,dev
+meld_dev_dia13_utt18,data/raw/MELD_hf/dev/dia13_utt18.flac,meld,meld_Frank,unknown,joy,joy,1,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",2.432,16000,13,18,dev
+meld_dev_dia13_utt19,data/raw/MELD_hf/dev/dia13_utt19.flac,meld,meld_Alice,unknown,surprise,surprise,4,We have our babies?,1.173,16000,13,19,dev
+meld_dev_dia13_utt20,data/raw/MELD_hf/dev/dia13_utt20.flac,meld,meld_Frank,unknown,joy,joy,1,Yeah.,1.045,16000,13,20,dev
+meld_dev_dia13_utt21,data/raw/MELD_hf/dev/dia13_utt21.flac,meld,meld_Alice,unknown,joy,joy,1,"Oh, we have our babies.",1.173,16000,13,21,dev
+meld_dev_dia14_utt0,data/raw/MELD_hf/dev/dia14_utt0.flac,meld,meld_Bob,unknown,joy,joy,1,Hey Toby!,0.576,16000,14,0,dev
+meld_dev_dia14_utt1,data/raw/MELD_hf/dev/dia14_utt1.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Hey Bobby.,1.216,16000,14,1,dev
+meld_dev_dia14_utt2,data/raw/MELD_hf/dev/dia14_utt2.flac,meld,meld_Bob,unknown,neutral,neutral,0,"It's Bob actually. Hey, you work up here, can you tell me where this Chandler",7.36,16000,14,2,dev
+meld_dev_dia14_utt3,data/raw/MELD_hf/dev/dia14_utt3.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Uhh yeah. Yeah, it's right, right down there. Right there, yeah. Can I ask you why?",8.555,16000,14,3,dev
+meld_dev_dia14_utt4,data/raw/MELD_hf/dev/dia14_utt4.flac,meld,meld_Bob,unknown,anger,anger,3,"I want to talk to that bastard, see what his problem is.",2.837,16000,14,4,dev
+meld_dev_dia14_utt5,data/raw/MELD_hf/dev/dia14_utt5.flac,meld,meld_Chandler,unknown,sadness,sadness,2,"Okay Bob listen uhh, I'm the reason you didn't get the job up here.",6.315,16000,14,5,dev
+meld_dev_dia14_utt6,data/raw/MELD_hf/dev/dia14_utt6.flac,meld,meld_Bob,unknown,sadness,sadness,2,Toby don't.,1.259,16000,14,6,dev
+meld_dev_dia14_utt7,data/raw/MELD_hf/dev/dia14_utt7.flac,meld,meld_Chandler,unknown,sadness,sadness,2,Bob!,0.683,16000,14,7,dev
+meld_dev_dia14_utt8,data/raw/MELD_hf/dev/dia14_utt8.flac,meld,meld_Bob,unknown,anger,anger,3,Toby! I'm not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,8.277,16000,14,8,dev
+meld_dev_dia15_utt0,data/raw/MELD_hf/dev/dia15_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,Thank you. Oh Joey and look at this crib! It's so cute!,9.067,16000,15,0,dev
+meld_dev_dia15_utt1,data/raw/MELD_hf/dev/dia15_utt1.flac,meld,meld_Joey,unknown,joy,joy,1,I know! I found it on the street.,2.048,16000,15,1,dev
+meld_dev_dia15_utt2,data/raw/MELD_hf/dev/dia15_utt2.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Are you serious-Really?! It's in such good condition.,4.053,16000,15,2,dev
+meld_dev_dia15_utt3,data/raw/MELD_hf/dev/dia15_utt3.flac,meld,meld_Joey,unknown,neutral,neutral,0,Yeah.,2.389,16000,15,3,dev
+meld_dev_dia15_utt4,data/raw/MELD_hf/dev/dia15_utt4.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Wow! Whoa-whoa what's under the covers?,2.432,16000,15,4,dev
+meld_dev_dia15_utt5,data/raw/MELD_hf/dev/dia15_utt5.flac,meld,meld_Joey,unknown,neutral,neutral,0,I don't know.,1.387,16000,15,5,dev
+meld_dev_dia15_utt6,data/raw/MELD_hf/dev/dia15_utt6.flac,meld,meld_Rachel,unknown,fear,fear,5,It's moving.,0.149,16000,15,6,dev
+meld_dev_dia15_utt7,data/raw/MELD_hf/dev/dia15_utt7.flac,meld,meld_Joey,unknown,disgust,disgust,6,Ew.,1.387,16000,15,7,dev
+meld_dev_dia15_utt8,data/raw/MELD_hf/dev/dia15_utt8.flac,meld,meld_Rachel,unknown,fear,fear,5,It's still--It's got a tail! Get it out of here! Get it out of here!!,1.621,16000,15,8,dev
+meld_dev_dia15_utt9,data/raw/MELD_hf/dev/dia15_utt9.flac,meld,meld_Joey,unknown,fear,fear,5,Ooh! Ah! Okay!,0.747,16000,15,9,dev
+meld_dev_dia16_utt0,data/raw/MELD_hf/dev/dia16_utt0.flac,meld,meld_Whitney,unknown,neutral,neutral,0,"Well, I went over to Kyle's last night to pick up a few things and we got to reminiscing",7.232,16000,16,0,dev
+meld_dev_dia16_utt1,data/raw/MELD_hf/dev/dia16_utt1.flac,meld,meld_Kyle,unknown,sadness,sadness,2,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,8.512,16000,16,1,dev
+meld_dev_dia16_utt2,data/raw/MELD_hf/dev/dia16_utt2.flac,meld,meld_Ross,unknown,surprise,surprise,4,Oh just say it Kyle!,1.685,16000,16,2,dev
+meld_dev_dia16_utt3,data/raw/MELD_hf/dev/dia16_utt3.flac,meld,meld_Kyle,unknown,joy,joy,1,We're gonna give it another try.,1.877,16000,16,3,dev
+meld_dev_dia16_utt4,data/raw/MELD_hf/dev/dia16_utt4.flac,meld,meld_Phoebe,unknown,anger,anger,3,What about her whining and her constant need for attention?!,3.648,16000,16,4,dev
+meld_dev_dia16_utt5,data/raw/MELD_hf/dev/dia16_utt5.flac,meld,meld_Whitney,unknown,neutral,neutral,0,I'm gonna work on that.,1.216,16000,16,5,dev
+meld_dev_dia16_utt6,data/raw/MELD_hf/dev/dia16_utt6.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Oh right, because you're so capable of change.",2.304,16000,16,6,dev
+meld_dev_dia16_utt7,data/raw/MELD_hf/dev/dia16_utt7.flac,meld,meld_Ross,unknown,anger,anger,3,"Y'know, he hums when he pees!",2.176,16000,16,7,dev
+meld_dev_dia16_utt8,data/raw/MELD_hf/dev/dia16_utt8.flac,meld,meld_Whitney,unknown,neutral,neutral,0,I do know.,1.173,16000,16,8,dev
+meld_dev_dia16_utt9,data/raw/MELD_hf/dev/dia16_utt9.flac,meld,meld_Ross,unknown,disgust,disgust,6,"It makes him miss the bowl, but whatever.",3.2,16000,16,9,dev
+meld_dev_dia16_utt10,data/raw/MELD_hf/dev/dia16_utt10.flac,meld,meld_Whitney,unknown,sadness,sadness,2,We're so sorry.,1.963,16000,16,10,dev
+meld_dev_dia16_utt11,data/raw/MELD_hf/dev/dia16_utt11.flac,meld,meld_Ross,unknown,anger,anger,3,"That's all right, we-we don't need you. In fact, hey I'm over it already.",3.84,16000,16,11,dev
+meld_dev_dia16_utt12,data/raw/MELD_hf/dev/dia16_utt12.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Yeah, and y'know what? I don't give a tiny rat's ass.",3.221,16000,16,12,dev
+meld_dev_dia16_utt13,data/raw/MELD_hf/dev/dia16_utt13.flac,meld,meld_Kyle,unknown,neutral,neutral,0,"Yeah, we're gonna go.",1.835,16000,16,13,dev
+meld_dev_dia16_utt14,data/raw/MELD_hf/dev/dia16_utt14.flac,meld,meld_Ross,unknown,sadness,sadness,2,"I'm sorry. Ugh, Pheebs, you were, you were right about her. Y'know, she",6.315,16000,16,14,dev
+meld_dev_dia16_utt15,data/raw/MELD_hf/dev/dia16_utt15.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Oh. Y'know, he hums while he does other stuff to.",3.093,16000,16,15,dev
+meld_dev_dia16_utt16,data/raw/MELD_hf/dev/dia16_utt16.flac,meld,meld_Ross,unknown,anger,anger,3,"Yeah, we're better off without them.",3.392,16000,16,16,dev
+meld_dev_dia16_utt17,data/raw/MELD_hf/dev/dia16_utt17.flac,meld,meld_Phoebe,unknown,anger,anger,3,"And y'know, even if they break up again, you'd better not let him in your sad men's club!",4.309,16000,16,17,dev
+meld_dev_dia16_utt18,data/raw/MELD_hf/dev/dia16_utt18.flac,meld,meld_Ross,unknown,sadness,sadness,2,Divorced men's club.,3.307,16000,16,18,dev
+meld_dev_dia17_utt0,data/raw/MELD_hf/dev/dia17_utt0.flac,meld,meld_Joey,unknown,anger,anger,3,Why isn't that valet back with my Porsche?,3.669,16000,17,0,dev
+meld_dev_dia17_utt1,data/raw/MELD_hf/dev/dia17_utt1.flac,meld,meld_Passerby,unknown,anger,anger,3,Maybe because you've got the keys?,1.92,16000,17,1,dev
+meld_dev_dia17_utt2,data/raw/MELD_hf/dev/dia17_utt2.flac,meld,meld_Rachel,unknown,anger,anger,3,This is totally your fault!,1.451,16000,17,2,dev
+meld_dev_dia17_utt3,data/raw/MELD_hf/dev/dia17_utt3.flac,meld,meld_Ross,unknown,anger,anger,3,My fault?! You threatened the judge!,2.496,16000,17,3,dev
+meld_dev_dia17_utt4,data/raw/MELD_hf/dev/dia17_utt4.flac,meld,meld_Rachel,unknown,anger,anger,3,"Well, you ripped the paper out of the court reporter's machine!!",2.923,16000,17,4,dev
+meld_dev_dia18_utt0,data/raw/MELD_hf/dev/dia18_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Phoebe!,0.725,16000,18,0,dev
+meld_dev_dia18_utt1,data/raw/MELD_hf/dev/dia18_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Yeah?,0.299,16000,18,1,dev
+meld_dev_dia18_utt2,data/raw/MELD_hf/dev/dia18_utt2.flac,meld,meld_Monica,unknown,neutral,neutral,0,Have you seen Chandler?!,0.875,16000,18,2,dev
+meld_dev_dia18_utt3,data/raw/MELD_hf/dev/dia18_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,No! Why?,0.789,16000,18,3,dev
+meld_dev_dia18_utt4,data/raw/MELD_hf/dev/dia18_utt4.flac,meld,meld_Monica,unknown,fear,fear,5,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,5.269,16000,18,4,dev
+meld_dev_dia18_utt5,data/raw/MELD_hf/dev/dia18_utt5.flac,meld,meld_Monica,unknown,fear,fear,5,I know!,0.363,16000,18,5,dev
+meld_dev_dia18_utt6,data/raw/MELD_hf/dev/dia18_utt6.flac,meld,meld_Monica,unknown,fear,fear,5,How bad is this?,1.493,16000,18,6,dev
+meld_dev_dia18_utt7,data/raw/MELD_hf/dev/dia18_utt7.flac,meld,meld_Phoebe,unknown,fear,fear,5,"Well for the regular guy, it's bad, but Chandler, Oh dear God!",4.139,16000,18,7,dev
+meld_dev_dia18_utt8,data/raw/MELD_hf/dev/dia18_utt8.flac,meld,meld_Monica,unknown,fear,fear,5,I know! I know! And he totally freaked out and I can't find him anywhere!,3.008,16000,18,8,dev
+meld_dev_dia18_utt9,data/raw/MELD_hf/dev/dia18_utt9.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,What are you gonna do?,0.96,16000,18,9,dev
+meld_dev_dia18_utt10,data/raw/MELD_hf/dev/dia18_utt10.flac,meld,meld_Monica,unknown,anger,anger,3,"Well, I'm never gonna listen to you again, that's for sure!",2.432,16000,18,10,dev
+meld_dev_dia18_utt11,data/raw/MELD_hf/dev/dia18_utt11.flac,meld,meld_Monica,unknown,neutral,neutral,0,"""Y'know, harm can it do if you go and put your name down?""",3.307,16000,18,11,dev
+meld_dev_dia18_utt12,data/raw/MELD_hf/dev/dia18_utt12.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Rachel said that!,1.173,16000,18,12,dev
+meld_dev_dia18_utt13,data/raw/MELD_hf/dev/dia18_utt13.flac,meld,meld_Monica,unknown,anger,anger,3,Well Rachel's not here!,1.024,16000,18,13,dev
+meld_dev_dia19_utt0,data/raw/MELD_hf/dev/dia19_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Come on, come on.",1.771,16000,19,0,dev
+meld_dev_dia19_utt1,data/raw/MELD_hf/dev/dia19_utt1.flac,meld,meld_Ross,unknown,anger,anger,3,"Damnit, damnit, damnit, damnit.",2.901,16000,19,1,dev
+meld_dev_dia19_utt2,data/raw/MELD_hf/dev/dia19_utt2.flac,meld,meld_Ross,unknown,anger,anger,3,This is all your fault.,0.96,16000,19,2,dev
+meld_dev_dia19_utt3,data/raw/MELD_hf/dev/dia19_utt3.flac,meld,meld_Ross,unknown,anger,anger,3,"This is supposed to be, like, the greatest day of my life, y'know?",2.688,16000,19,3,dev
+meld_dev_dia19_utt4,data/raw/MELD_hf/dev/dia19_utt4.flac,meld,meld_Ross,unknown,anger,anger,3,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",5.056,16000,19,4,dev
+meld_dev_dia19_utt5,data/raw/MELD_hf/dev/dia19_utt5.flac,meld,meld_Susan,unknown,anger,anger,3,The woman I love is having a baby today. I've been waiting for this just as much as you have.,3.349,16000,19,5,dev
+meld_dev_dia19_utt6,data/raw/MELD_hf/dev/dia19_utt6.flac,meld,meld_Ross,unknown,anger,anger,3,"No no no, believe me.",1.259,16000,19,6,dev
+meld_dev_dia19_utt7,data/raw/MELD_hf/dev/dia19_utt7.flac,meld,meld_Ross,unknown,anger,anger,3,"No one has been waiting for this as much as I have, ok?",1.941,16000,19,7,dev
+meld_dev_dia19_utt8,data/raw/MELD_hf/dev/dia19_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,And you know what the funny thing is?,1.728,16000,19,8,dev
+meld_dev_dia19_utt9,data/raw/MELD_hf/dev/dia19_utt9.flac,meld,meld_Ross,unknown,anger,anger,3,"When this day is over, you get to go home with the baby, ok?",2.603,16000,19,9,dev
+meld_dev_dia19_utt10,data/raw/MELD_hf/dev/dia19_utt10.flac,meld,meld_Ross,unknown,sadness,sadness,2,Where does that leave me?,0.747,16000,19,10,dev
+meld_dev_dia19_utt11,data/raw/MELD_hf/dev/dia19_utt11.flac,meld,meld_Susan,unknown,neutral,neutral,0,You get to be the baby's father.,1.707,16000,19,11,dev
+meld_dev_dia19_utt12,data/raw/MELD_hf/dev/dia19_utt12.flac,meld,meld_Susan,unknown,neutral,neutral,0,Everyone knows who you are.,1.131,16000,19,12,dev
+meld_dev_dia19_utt13,data/raw/MELD_hf/dev/dia19_utt13.flac,meld,meld_Susan,unknown,anger,anger,3,Who am I?,2.645,16000,19,13,dev
+meld_dev_dia19_utt14,data/raw/MELD_hf/dev/dia19_utt14.flac,meld,meld_Susan,unknown,sadness,sadness,2,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",2.304,16000,19,14,dev
+meld_dev_dia19_utt15,data/raw/MELD_hf/dev/dia19_utt15.flac,meld,meld_Ross,unknown,neutral,neutral,0,Every day is Lesbian Lover Day.,2.475,16000,19,15,dev
+meld_dev_dia19_utt16,data/raw/MELD_hf/dev/dia19_utt16.flac,meld,meld_Phoebe,unknown,joy,joy,1,This is so great.,1.771,16000,19,16,dev
+meld_dev_dia19_utt17,data/raw/MELD_hf/dev/dia19_utt17.flac,meld,meld_Ross,unknown,neutral,neutral,0,You wanna explain that?,1.6,16000,19,17,dev
+meld_dev_dia19_utt18,data/raw/MELD_hf/dev/dia19_utt18.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",10.389,16000,19,18,dev
+meld_dev_dia19_utt19,data/raw/MELD_hf/dev/dia19_utt19.flac,meld,meld_Phoebe,unknown,joy,joy,1,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,10.069,16000,19,19,dev
+meld_dev_dia19_utt20,data/raw/MELD_hf/dev/dia19_utt20.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,And it's not even born yet.,2.432,16000,19,20,dev
+meld_dev_dia19_utt21,data/raw/MELD_hf/dev/dia19_utt21.flac,meld,meld_Phoebe,unknown,joy,joy,1,"It's just, it's just the luckiest baby in the whole world.",2.56,16000,19,21,dev
+meld_dev_dia19_utt22,data/raw/MELD_hf/dev/dia19_utt22.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"I'm sorry, you were fighting.",2.091,16000,19,22,dev
+meld_dev_dia20_utt0,data/raw/MELD_hf/dev/dia20_utt0.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Okay, it's a typical New York City apartment. Two girls are just hanging out.",5.632,16000,20,0,dev
+meld_dev_dia20_utt1,data/raw/MELD_hf/dev/dia20_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Hi, how are you doing Kelly?",3.605,16000,20,1,dev
+meld_dev_dia20_utt2,data/raw/MELD_hf/dev/dia20_utt2.flac,meld,meld_Rachel,unknown,joy,joy,1,"I'm doing just fine! God, Tiffany, you smell so great!",2.752,16000,20,2,dev
+meld_dev_dia20_utt3,data/raw/MELD_hf/dev/dia20_utt3.flac,meld,meld_Monica,unknown,neutral,neutral,0,It's my new perfume. Why don't you come closer where you can,6.101,16000,20,3,dev
+meld_dev_dia20_utt4,data/raw/MELD_hf/dev/dia20_utt4.flac,meld,meld_Rachel,unknown,disgust,disgust,6,"Oh, y'know Joey, you are sick!",2.411,16000,20,4,dev
+meld_dev_dia20_utt5,data/raw/MELD_hf/dev/dia20_utt5.flac,meld,meld_Monica,unknown,disgust,disgust,6,This is disgusting!,0.512,16000,20,5,dev
+meld_dev_dia20_utt6,data/raw/MELD_hf/dev/dia20_utt6.flac,meld,meld_Rachel,unknown,disgust,disgust,6,I'm not reading this!,1.792,16000,20,6,dev
+meld_dev_dia20_utt7,data/raw/MELD_hf/dev/dia20_utt7.flac,meld,meld_Joey,unknown,surprise,surprise,4,What?! Wait-wait-wait! The handsome man was about to enter!!,4.224,16000,20,7,dev
+meld_dev_dia21_utt0,data/raw/MELD_hf/dev/dia21_utt0.flac,meld,meld_Joey,unknown,neutral,neutral,0,"All right, I'll give you this, Mr. Peanut is a better dresser.",3.52,16000,21,0,dev
+meld_dev_dia21_utt1,data/raw/MELD_hf/dev/dia21_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,"I mean he's got the monocle, he's got the top hat...",3.051,16000,21,1,dev
+meld_dev_dia21_utt2,data/raw/MELD_hf/dev/dia21_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,You know he's gay?,1.877,16000,21,2,dev
+meld_dev_dia21_utt3,data/raw/MELD_hf/dev/dia21_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,I just wanna clarify this: are you outing Mr. Peanut?,4.139,16000,21,3,dev
+meld_dev_dia21_utt4,data/raw/MELD_hf/dev/dia21_utt4.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",5.483,16000,21,4,dev
+meld_dev_dia21_utt5,data/raw/MELD_hf/dev/dia21_utt5.flac,meld,meld_All,unknown,neutral,neutral,0,Hi. Hi.,1.216,16000,21,5,dev
+meld_dev_dia21_utt6,data/raw/MELD_hf/dev/dia21_utt6.flac,meld,meld_Chandler,unknown,surprise,surprise,4,What are you doing here?,2.432,16000,21,6,dev
+meld_dev_dia22_utt0,data/raw/MELD_hf/dev/dia22_utt0.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Well, what?",0.704,16000,22,0,dev
+meld_dev_dia22_utt1,data/raw/MELD_hf/dev/dia22_utt1.flac,meld,meld_Chandler,unknown,neutral,neutral,0,What?,0.341,16000,22,1,dev
+meld_dev_dia22_utt2,data/raw/MELD_hf/dev/dia22_utt2.flac,meld,meld_Chandler,unknown,neutral,neutral,0,What is it?,0.512,16000,22,2,dev
+meld_dev_dia22_utt3,data/raw/MELD_hf/dev/dia22_utt3.flac,meld,meld_Chandler,unknown,surprise,surprise,4,That she left you?,0.789,16000,22,3,dev
+meld_dev_dia22_utt4,data/raw/MELD_hf/dev/dia22_utt4.flac,meld,meld_Chandler,unknown,neutral,neutral,0,That she likes women?,0.533,16000,22,4,dev
+meld_dev_dia22_utt5,data/raw/MELD_hf/dev/dia22_utt5.flac,meld,meld_Chandler,unknown,neutral,neutral,0,That she left you for another woman that likes women?,2.176,16000,22,5,dev
+meld_dev_dia22_utt6,data/raw/MELD_hf/dev/dia22_utt6.flac,meld,meld_Ross,unknown,anger,anger,3,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",4.395,16000,22,6,dev
+meld_dev_dia22_utt7,data/raw/MELD_hf/dev/dia22_utt7.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Then what?,1.088,16000,22,7,dev
+meld_dev_dia22_utt8,data/raw/MELD_hf/dev/dia22_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,My first time with Carol was...,2.688,16000,22,8,dev
+meld_dev_dia22_utt9,data/raw/MELD_hf/dev/dia22_utt9.flac,meld,meld_Joey,unknown,neutral,neutral,0,What?,1.429,16000,22,9,dev
+meld_dev_dia22_utt10,data/raw/MELD_hf/dev/dia22_utt10.flac,meld,meld_Ross,unknown,neutral,neutral,0,It was my,2.795,16000,22,10,dev
+meld_dev_dia22_utt11,data/raw/MELD_hf/dev/dia22_utt11.flac,meld,meld_Joey,unknown,surprise,surprise,4,With Carol? Oh.,1.835,16000,22,11,dev
+meld_dev_dia22_utt12,data/raw/MELD_hf/dev/dia22_utt12.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"So in your whole life, you've only been with one--oh.",2.837,16000,22,12,dev
+meld_dev_dia22_utt13,data/raw/MELD_hf/dev/dia22_utt13.flac,meld,meld_Joey,unknown,surprise,surprise,4,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",7.637,16000,22,13,dev
+meld_dev_dia23_utt0,data/raw/MELD_hf/dev/dia23_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,Hi. Where is everybody?,1.685,16000,23,0,dev
+meld_dev_dia23_utt1,data/raw/MELD_hf/dev/dia23_utt1.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Oh, it's already closed, Chris gave me the keys to lock up-what is wrong?",4.181,16000,23,1,dev
+meld_dev_dia23_utt2,data/raw/MELD_hf/dev/dia23_utt2.flac,meld,meld_Ross,unknown,sadness,sadness,2,"My marriage, I think my marriage is um, is kinda over.",6.805,16000,23,2,dev
+meld_dev_dia23_utt3,data/raw/MELD_hf/dev/dia23_utt3.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Oh no! Why?,1.835,16000,23,3,dev
+meld_dev_dia23_utt4,data/raw/MELD_hf/dev/dia23_utt4.flac,meld,meld_Ross,unknown,sadness,sadness,2,"'Cause Carol's a lesbian. And, and I'm not one. And apparently it's not a mix and match situation.",15.189,16000,23,4,dev
+meld_dev_dia23_utt5,data/raw/MELD_hf/dev/dia23_utt5.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Oh my God! I don't believe it! Oh, you poor bunny.",7.509,16000,23,5,dev
+meld_dev_dia23_utt6,data/raw/MELD_hf/dev/dia23_utt6.flac,meld,meld_Ross,unknown,disgust,disgust,6,I'm an idiot.,1.301,16000,23,6,dev
+meld_dev_dia23_utt7,data/raw/MELD_hf/dev/dia23_utt7.flac,meld,meld_Ross,unknown,sadness,sadness,2,"I mean shoulda seen it, I mean Carol and I'd be out and she'd, she'd see some beautiful woman, and, and she'd be Ross y'know look at her, and I'd think, God, my wife is cool!",10.176,16000,23,7,dev
+meld_dev_dia23_utt8,data/raw/MELD_hf/dev/dia23_utt8.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Aw! Hey, do you think that Susan person is her lover?",5.013,16000,23,8,dev
+meld_dev_dia23_utt9,data/raw/MELD_hf/dev/dia23_utt9.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Well, now I do!!",1.813,16000,23,9,dev
+meld_dev_dia23_utt10,data/raw/MELD_hf/dev/dia23_utt10.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,I'm sorry.,1.045,16000,23,10,dev
+meld_dev_dia23_utt11,data/raw/MELD_hf/dev/dia23_utt11.flac,meld,meld_Ross,unknown,sadness,sadness,2,Seven years.,1.685,16000,23,11,dev
+meld_dev_dia23_utt12,data/raw/MELD_hf/dev/dia23_utt12.flac,meld,meld_Ross,unknown,sadness,sadness,2,"I mean we've been together seven years, she's the only woman who's ever loved me, and the only woman I've-I've ever....",9.301,16000,23,12,dev
+meld_dev_dia23_utt13,data/raw/MELD_hf/dev/dia23_utt13.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Aw, God Ross. Oh.",1.344,16000,23,13,dev
+meld_dev_dia24_utt0,data/raw/MELD_hf/dev/dia24_utt0.flac,meld,meld_Cookie,unknown,neutral,neutral,0,I'll do it.,1.728,16000,24,0,dev
+meld_dev_dia24_utt1,data/raw/MELD_hf/dev/dia24_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,No you won't.,0.171,16000,24,1,dev
+meld_dev_dia24_utt2,data/raw/MELD_hf/dev/dia24_utt2.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Look he knows he did a terrible thing and I believe him, he's sorry.",5.568,16000,24,2,dev
+meld_dev_dia24_utt3,data/raw/MELD_hf/dev/dia24_utt3.flac,meld,meld_Joey,unknown,neutral,neutral,0,"But, you've got one more apology to make, all right, you've got to apologize to Mary-Angela.",5.547,16000,24,3,dev
+meld_dev_dia24_utt4,data/raw/MELD_hf/dev/dia24_utt4.flac,meld,meld_Chandler,unknown,joy,joy,1,"Okay, absolutely!",1.259,16000,24,4,dev
+meld_dev_dia24_utt5,data/raw/MELD_hf/dev/dia24_utt5.flac,meld,meld_Joey,unknown,neutral,neutral,0,All right.,0.725,16000,24,5,dev
+meld_dev_dia24_utt6,data/raw/MELD_hf/dev/dia24_utt6.flac,meld,meld_Chandler,unknown,neutral,neutral,0,You've got it.,0.939,16000,24,6,dev
+meld_dev_dia24_utt7,data/raw/MELD_hf/dev/dia24_utt7.flac,meld,meld_Joey,unknown,anger,anger,3,"Cookie, now you can punch him!",1.536,16000,24,7,dev
+meld_dev_dia24_utt8,data/raw/MELD_hf/dev/dia24_utt8.flac,meld,meld_Chandler,unknown,surprise,surprise,4,What?!,0.405,16000,24,8,dev
+meld_dev_dia25_utt0,data/raw/MELD_hf/dev/dia25_utt0.flac,meld,meld_Phoebe,unknown,anger,anger,3,"All right, that's it, I quit.",1.451,16000,25,0,dev
+meld_dev_dia25_utt1,data/raw/MELD_hf/dev/dia25_utt1.flac,meld,meld_Monica,unknown,surprise,surprise,4,What? I didn't say anything.,1.877,16000,25,1,dev
+meld_dev_dia25_utt2,data/raw/MELD_hf/dev/dia25_utt2.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Yeah, but this isn't the face of a person who trusts a person.",3.755,16000,25,2,dev
+meld_dev_dia25_utt3,data/raw/MELD_hf/dev/dia25_utt3.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Ok, this is the face of a person who, you know, doesn't trust a person.",5.227,16000,25,3,dev
+meld_dev_dia25_utt4,data/raw/MELD_hf/dev/dia25_utt4.flac,meld,meld_Monica,unknown,sadness,sadness,2,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",5.589,16000,25,4,dev
+meld_dev_dia25_utt5,data/raw/MELD_hf/dev/dia25_utt5.flac,meld,meld_Phoebe,unknown,anger,anger,3,Would you relax? I know what I am doing. This is how he wears it.,6.315,16000,25,5,dev
+meld_dev_dia26_utt0,data/raw/MELD_hf/dev/dia26_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Julie.,0.512,16000,26,0,dev
+meld_dev_dia26_utt1,data/raw/MELD_hf/dev/dia26_utt1.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What?!,0.555,16000,26,1,dev
+meld_dev_dia26_utt2,data/raw/MELD_hf/dev/dia26_utt2.flac,meld,meld_Monica,unknown,surprise,surprise,4,Jody!,1.493,16000,26,2,dev
+meld_dev_dia26_utt3,data/raw/MELD_hf/dev/dia26_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,You were with Julie?,3.712,16000,26,3,dev
+meld_dev_dia26_utt4,data/raw/MELD_hf/dev/dia26_utt4.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",5.675,16000,26,4,dev
+meld_dev_dia26_utt5,data/raw/MELD_hf/dev/dia26_utt5.flac,meld,meld_Monica,unknown,neutral,neutral,0,"And then, one thing led to another and, before I knew it, we were...shopping.",6.272,16000,26,5,dev
+meld_dev_dia26_utt6,data/raw/MELD_hf/dev/dia26_utt6.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Oh. Oh my God.,1.685,16000,26,6,dev
+meld_dev_dia26_utt7,data/raw/MELD_hf/dev/dia26_utt7.flac,meld,meld_Monica,unknown,sadness,sadness,2,"Honey, wait. We only did it once. It didn't mean anything to me.",5.76,16000,26,7,dev
+meld_dev_dia26_utt8,data/raw/MELD_hf/dev/dia26_utt8.flac,meld,meld_Rachel,unknown,anger,anger,3,"Yeah, right. Sure!",1.813,16000,26,8,dev
+meld_dev_dia26_utt9,data/raw/MELD_hf/dev/dia26_utt9.flac,meld,meld_Monica,unknown,sadness,sadness,2,"Really, Rachel, I was thinking of you the whole time.",2.88,16000,26,9,dev
+meld_dev_dia26_utt10,data/raw/MELD_hf/dev/dia26_utt10.flac,meld,meld_Monica,unknown,sadness,sadness,2,"Look, I'm sorry, all right.",3.008,16000,26,10,dev
+meld_dev_dia26_utt11,data/raw/MELD_hf/dev/dia26_utt11.flac,meld,meld_Monica,unknown,sadness,sadness,2,I never meant for you to find out!,1.28,16000,26,11,dev
+meld_dev_dia26_utt12,data/raw/MELD_hf/dev/dia26_utt12.flac,meld,meld_Rachel,unknown,anger,anger,3,"Oh, please, you wanted to get caught.",3.712,16000,26,12,dev
+meld_dev_dia26_utt13,data/raw/MELD_hf/dev/dia26_utt13.flac,meld,meld_Monica,unknown,anger,anger,3,That is not true!,1.259,16000,26,13,dev
+meld_dev_dia26_utt14,data/raw/MELD_hf/dev/dia26_utt14.flac,meld,meld_Rachel,unknown,anger,anger,3,"Oh, so you just sort of happened to leave it in here?",2.432,16000,26,14,dev
+meld_dev_dia26_utt15,data/raw/MELD_hf/dev/dia26_utt15.flac,meld,meld_Monica,unknown,anger,anger,3,Did it ever occur to you that I might just be that stupid?,3.712,16000,26,15,dev
+meld_dev_dia26_utt16,data/raw/MELD_hf/dev/dia26_utt16.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Ok, Monica. I just have to know one thing. Did you go with her to",8.149,16000,26,16,dev
+meld_dev_dia27_utt0,data/raw/MELD_hf/dev/dia27_utt0.flac,meld,meld_Monica,unknown,surprise,surprise,4,Yeah!,1.429,16000,27,0,dev
+meld_dev_dia27_utt1,data/raw/MELD_hf/dev/dia27_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I can't say.,1.387,16000,27,1,dev
+meld_dev_dia27_utt2,data/raw/MELD_hf/dev/dia27_utt2.flac,meld,meld_Monica,unknown,surprise,surprise,4,Why?!,0.811,16000,27,2,dev
+meld_dev_dia27_utt3,data/raw/MELD_hf/dev/dia27_utt3.flac,meld,meld_Chandler,unknown,sadness,sadness,2,Why not?,0.768,16000,27,3,dev
+meld_dev_dia27_utt4,data/raw/MELD_hf/dev/dia27_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I can't say because he's famous.,3.264,16000,27,4,dev
+meld_dev_dia27_utt5,data/raw/MELD_hf/dev/dia27_utt5.flac,meld,meld_Rachel,unknown,surprise,surprise,4,"Oh my God, who is it?!",1.685,16000,27,5,dev
+meld_dev_dia27_utt6,data/raw/MELD_hf/dev/dia27_utt6.flac,meld,meld_Monica,unknown,anger,anger,3,"Phoebe, come on, you have to tell us.",2.133,16000,27,6,dev
+meld_dev_dia27_utt7,data/raw/MELD_hf/dev/dia27_utt7.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Okay, okay. It's James Brolin. James Brolin is the father of my baby.",7.552,16000,27,7,dev
+meld_dev_dia27_utt8,data/raw/MELD_hf/dev/dia27_utt8.flac,meld,meld_Chandler,unknown,surprise,surprise,4,As in Barbara Streisand's husband James Brolin?,2.88,16000,27,8,dev
+meld_dev_dia27_utt9,data/raw/MELD_hf/dev/dia27_utt9.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,What?! Well he never said that to me!,3.925,16000,27,9,dev
+meld_dev_dia28_utt0,data/raw/MELD_hf/dev/dia28_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,In,2.133,16000,28,0,dev
+meld_dev_dia28_utt1,data/raw/MELD_hf/dev/dia28_utt1.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Oh, this life! Oh okay no, Chandler's is worse.",2.88,16000,28,1,dev
+meld_dev_dia28_utt2,data/raw/MELD_hf/dev/dia28_utt2.flac,meld,meld_Joey,unknown,joy,joy,1,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",5.227,16000,28,2,dev
+meld_dev_dia28_utt3,data/raw/MELD_hf/dev/dia28_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Of course you don't sweetie. You're brand new.,2.837,16000,28,3,dev
+meld_dev_dia28_utt4,data/raw/MELD_hf/dev/dia28_utt4.flac,meld,meld_Rachel,unknown,neutral,neutral,0,I know Monica's worst Thanksgiving.,2.048,16000,28,4,dev
+meld_dev_dia28_utt5,data/raw/MELD_hf/dev/dia28_utt5.flac,meld,meld_Monica,unknown,sadness,sadness,2,"Oh, let's not tell this story.",1.6,16000,28,5,dev
+meld_dev_dia28_utt6,data/raw/MELD_hf/dev/dia28_utt6.flac,meld,meld_All,unknown,sadness,sadness,2,"Oh, come on!",0.981,16000,28,6,dev
+meld_dev_dia28_utt7,data/raw/MELD_hf/dev/dia28_utt7.flac,meld,meld_Phoebe,unknown,joy,joy,1,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",5.525,16000,28,7,dev
+meld_dev_dia28_utt8,data/raw/MELD_hf/dev/dia28_utt8.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What?! Joey got a turkey stuck on his head?!,4.309,16000,28,8,dev
+meld_dev_dia28_utt9,data/raw/MELD_hf/dev/dia28_utt9.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Hey, it's not like it sounds.",0.768,16000,28,9,dev
+meld_dev_dia28_utt10,data/raw/MELD_hf/dev/dia28_utt10.flac,meld,meld_Chandler,unknown,neutral,neutral,0,It's,0.683,16000,28,10,dev
+meld_dev_dia29_utt0,data/raw/MELD_hf/dev/dia29_utt0.flac,meld,meld_Monica,unknown,anger,anger,3,"Wendy, we had a deal! Yeah, you promised! Wendy! Wendy! Wendy!",4.139,16000,29,0,dev
+meld_dev_dia29_utt1,data/raw/MELD_hf/dev/dia29_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Who was that?,1.643,16000,29,1,dev
+meld_dev_dia29_utt2,data/raw/MELD_hf/dev/dia29_utt2.flac,meld,meld_Monica,unknown,sadness,sadness,2,Wendy bailed. I have no waitress.,3.179,16000,29,2,dev
+meld_dev_dia29_utt3,data/raw/MELD_hf/dev/dia29_utt3.flac,meld,meld_Rachel,unknown,sadness,sadness,2,Oh... that's too bad. Bye bye.,4.011,16000,29,3,dev
+meld_dev_dia29_utt4,data/raw/MELD_hf/dev/dia29_utt4.flac,meld,meld_Monica,unknown,neutral,neutral,0,Ten dollars an hour.,1.088,16000,29,4,dev
+meld_dev_dia29_utt5,data/raw/MELD_hf/dev/dia29_utt5.flac,meld,meld_Rachel,unknown,neutral,neutral,0,No.,0.533,16000,29,5,dev
+meld_dev_dia29_utt6,data/raw/MELD_hf/dev/dia29_utt6.flac,meld,meld_Monica,unknown,neutral,neutral,0,Twelve dollars an hour.,1.131,16000,29,6,dev
+meld_dev_dia29_utt7,data/raw/MELD_hf/dev/dia29_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Mon. I wish I could, but I've made plans to walk around.",3.349,16000,29,7,dev
+meld_dev_dia29_utt8,data/raw/MELD_hf/dev/dia29_utt8.flac,meld,meld_Monica,unknown,anger,anger,3,"You know, Rachel, when you ran out of your wedding, I was there for you.",2.539,16000,29,8,dev
+meld_dev_dia29_utt9,data/raw/MELD_hf/dev/dia29_utt9.flac,meld,meld_Monica,unknown,anger,anger,3,"I put a roof over your head, and if that means nothing to you... twenty dollars an hour.",6.549,16000,29,9,dev
+meld_dev_dia29_utt10,data/raw/MELD_hf/dev/dia29_utt10.flac,meld,meld_Rachel,unknown,joy,joy,1,Done.,1.301,16000,29,10,dev
+meld_dev_dia30_utt0,data/raw/MELD_hf/dev/dia30_utt0.flac,meld,meld_Joey,unknown,fear,fear,5,"The reactor's gonna blow in three seconds, we're never gonna make it!",3.563,16000,30,0,dev
+meld_dev_dia30_utt1,data/raw/MELD_hf/dev/dia30_utt1.flac,meld,meld_Phoebe,unknown,fear,fear,5,You've got to get out of here! Save yourself!,3.093,16000,30,1,dev
+meld_dev_dia30_utt2,data/raw/MELD_hf/dev/dia30_utt2.flac,meld,meld_Joey,unknown,fear,fear,5,No! I won't leave you!,1.472,16000,30,2,dev
+meld_dev_dia30_utt3,data/raw/MELD_hf/dev/dia30_utt3.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Don't worry about me, I'm a robot! I'm just a machine!!",4.885,16000,30,3,dev
+meld_dev_dia30_utt4,data/raw/MELD_hf/dev/dia30_utt4.flac,meld,meld_Joey,unknown,anger,anger,3,No you're not! Not to me!,1.984,16000,30,4,dev
+meld_dev_dia30_utt5,data/raw/MELD_hf/dev/dia30_utt5.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Oh my God.,1.792,16000,30,5,dev
+meld_dev_dia30_utt6,data/raw/MELD_hf/dev/dia30_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,What?,0.661,16000,30,6,dev
+meld_dev_dia30_utt7,data/raw/MELD_hf/dev/dia30_utt7.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I am,2.539,16000,30,7,dev
+meld_dev_dia30_utt8,data/raw/MELD_hf/dev/dia30_utt8.flac,meld,meld_Joey,unknown,joy,joy,1,"Yeah, you're great! Okay, let's take it from",5.717,16000,30,8,dev
+meld_dev_dia30_utt9,data/raw/MELD_hf/dev/dia30_utt9.flac,meld,meld_Phoebe,unknown,joy,joy,1,"No, I mean I was really acting my ass off.",4.139,16000,30,9,dev
+meld_dev_dia30_utt10,data/raw/MELD_hf/dev/dia30_utt10.flac,meld,meld_Joey,unknown,joy,joy,1,"Yeah, I thought I was pretty good too.",1.771,16000,30,10,dev
+meld_dev_dia30_utt11,data/raw/MELD_hf/dev/dia30_utt11.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Oh yeah, you're solid. Yeah, you're just no me.",2.56,16000,30,11,dev
+meld_dev_dia30_utt12,data/raw/MELD_hf/dev/dia30_utt12.flac,meld,meld_Joey,unknown,neutral,neutral,0,Y'know what? I think that's enough for now. Yeah. I don't want to be over rehearsed.,4.48,16000,30,12,dev
+meld_dev_dia30_utt13,data/raw/MELD_hf/dev/dia30_utt13.flac,meld,meld_Phoebe,unknown,anger,anger,3,Fine!,0.661,16000,30,13,dev
+meld_dev_dia30_utt14,data/raw/MELD_hf/dev/dia30_utt14.flac,meld,meld_Phoebe,unknown,anger,anger,3,I'll do it without you!,2.048,16000,30,14,dev
+meld_dev_dia30_utt15,data/raw/MELD_hf/dev/dia30_utt15.flac,meld,meld_Phoebe,unknown,anger,anger,3,I don't need you or anybody else!,2.752,16000,30,15,dev
+meld_dev_dia30_utt16,data/raw/MELD_hf/dev/dia30_utt16.flac,meld,meld_Phoebe,unknown,anger,anger,3,I'm gonna make it on my own!,2.56,16000,30,16,dev
+meld_dev_dia30_utt17,data/raw/MELD_hf/dev/dia30_utt17.flac,meld,meld_Phoebe,unknown,anger,anger,3,You'll see!!,2.731,16000,30,17,dev
+meld_dev_dia30_utt18,data/raw/MELD_hf/dev/dia30_utt18.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,You'll,0.128,16000,30,18,dev
+meld_dev_dia31_utt0,data/raw/MELD_hf/dev/dia31_utt0.flac,meld,meld_Kori,unknown,sadness,sadness,2,I can't believe that Ross is gone. It is just so sad.,3.605,16000,31,0,dev
+meld_dev_dia31_utt1,data/raw/MELD_hf/dev/dia31_utt1.flac,meld,meld_Chandler,unknown,surprise,surprise,4,I didn't know Ross and you were so close.,2.048,16000,31,1,dev
+meld_dev_dia31_utt2,data/raw/MELD_hf/dev/dia31_utt2.flac,meld,meld_Kori,unknown,sadness,sadness,2,We weren't but we had one class together. He was such a great guy and he talked so passionately about science. I always remembered him.,11.392,16000,31,2,dev
+meld_dev_dia31_utt3,data/raw/MELD_hf/dev/dia31_utt3.flac,meld,meld_Chandler,unknown,neutral,neutral,0,I'm sure that would mean a lot to him.,3.648,16000,31,3,dev
+meld_dev_dia31_utt4,data/raw/MELD_hf/dev/dia31_utt4.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"And if heaven has a door, I'm sure he's pressing his ear up against it and listening intently.",5.76,16000,31,4,dev
+meld_dev_dia31_utt5,data/raw/MELD_hf/dev/dia31_utt5.flac,meld,meld_Kori,unknown,sadness,sadness,2,I thought so many times about calling him and asking him out. I guess I really missed my chance.,6.059,16000,31,5,dev
+meld_dev_dia31_utt6,data/raw/MELD_hf/dev/dia31_utt6.flac,meld,meld_Ross,unknown,joy,joy,1,But you didn't!,2.304,16000,31,6,dev
+meld_dev_dia31_utt7,data/raw/MELD_hf/dev/dia31_utt7.flac,meld,meld_Ross,unknown,joy,joy,1,I'm still alive!!,1.813,16000,31,7,dev
+meld_dev_dia31_utt8,data/raw/MELD_hf/dev/dia31_utt8.flac,meld,meld_Ross,unknown,joy,joy,1,"Kori, I know this is a big surprise for you.",2.517,16000,31,8,dev
+meld_dev_dia31_utt9,data/raw/MELD_hf/dev/dia31_utt9.flac,meld,meld_Ross,unknown,joy,joy,1,It's a long story but the things you just said really made my day!,4.139,16000,31,9,dev
+meld_dev_dia31_utt10,data/raw/MELD_hf/dev/dia31_utt10.flac,meld,meld_Ross,unknown,joy,joy,1,"I mean, the fact that you are here means more to me than if this room were filled with people!",5.419,16000,31,10,dev
+meld_dev_dia31_utt11,data/raw/MELD_hf/dev/dia31_utt11.flac,meld,meld_Kori,unknown,anger,anger,3,"You sick freak, who does that? I can't believe I had a crush on you!",4.309,16000,31,11,dev
+meld_dev_dia31_utt12,data/raw/MELD_hf/dev/dia31_utt12.flac,meld,meld_Ross,unknown,joy,joy,1,Did you hear that? Kori Weston had a crush on me!!,5.675,16000,31,12,dev
+meld_dev_dia32_utt0,data/raw/MELD_hf/dev/dia32_utt0.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,We'll do a quick check.,1.493,16000,32,0,dev
+meld_dev_dia32_utt1,data/raw/MELD_hf/dev/dia32_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,0.875,16000,32,1,dev
+meld_dev_dia32_utt2,data/raw/MELD_hf/dev/dia32_utt2.flac,meld,meld_Dr. Long,unknown,surprise,surprise,4,"So, eight days late huh?",1.941,16000,32,2,dev
+meld_dev_dia32_utt3,data/raw/MELD_hf/dev/dia32_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Yeah.,0.213,16000,32,3,dev
+meld_dev_dia32_utt4,data/raw/MELD_hf/dev/dia32_utt4.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,You must be a little uncomfortable.,1.515,16000,32,4,dev
+meld_dev_dia32_utt5,data/raw/MELD_hf/dev/dia32_utt5.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Eh, just a tad.",2.645,16000,32,5,dev
+meld_dev_dia32_utt6,data/raw/MELD_hf/dev/dia32_utt6.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,"You're about 80 percent effaced, so you're on your way.",2.795,16000,32,6,dev
+meld_dev_dia32_utt7,data/raw/MELD_hf/dev/dia32_utt7.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,It still could last a little while longer.,2.24,16000,32,7,dev
+meld_dev_dia32_utt8,data/raw/MELD_hf/dev/dia32_utt8.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,If you're anxious there are a few ways to help things along.,10.347,16000,32,8,dev
+meld_dev_dia32_utt9,data/raw/MELD_hf/dev/dia32_utt9.flac,meld,meld_Ross,unknown,anger,anger,3,Do them!!,5.099,16000,32,9,dev
+meld_dev_dia32_utt10,data/raw/MELD_hf/dev/dia32_utt10.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,"Actually, they're things you can do. Just some home remedies, but in my experience I've found that some of them are quite effective.",7.851,16000,32,10,dev
+meld_dev_dia32_utt11,data/raw/MELD_hf/dev/dia32_utt11.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Well, we are ready to try anything.",2.112,16000,32,11,dev
+meld_dev_dia32_utt12,data/raw/MELD_hf/dev/dia32_utt12.flac,meld,meld_Dr. Long,unknown,neutral,neutral,0,"Okay, there's an herbal tea you can drink.",2.965,16000,32,12,dev
+meld_dev_dia32_utt13,data/raw/MELD_hf/dev/dia32_utt13.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,1.045,16000,32,13,dev
+meld_dev_dia33_utt0,data/raw/MELD_hf/dev/dia33_utt0.flac,meld,meld_Chandler,unknown,sadness,sadness,2,What is wrong with Emma?,2.176,16000,33,0,dev
+meld_dev_dia33_utt1,data/raw/MELD_hf/dev/dia33_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Oh she misunderstood, she thought she was moving to Tulsa.",4.309,16000,33,1,dev
+meld_dev_dia34_utt0,data/raw/MELD_hf/dev/dia34_utt0.flac,meld,meld_Carol,unknown,neutral,neutral,0,Anytime you're ready.,1.387,16000,34,0,dev
+meld_dev_dia34_utt1,data/raw/MELD_hf/dev/dia34_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Ok, ok, here we go.",4.053,16000,34,1,dev
+meld_dev_dia34_utt2,data/raw/MELD_hf/dev/dia34_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Ok, where am I talking to, here?",4.053,16000,34,2,dev
+meld_dev_dia34_utt3,data/raw/MELD_hf/dev/dia34_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",4.8,16000,34,3,dev
+meld_dev_dia34_utt4,data/raw/MELD_hf/dev/dia34_utt4.flac,meld,meld_Carol,unknown,neutral,neutral,0,Just aim for the bump.,1.643,16000,34,4,dev
+meld_dev_dia34_utt5,data/raw/MELD_hf/dev/dia34_utt5.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Ok, ok, ok, ok, here goes.",5.973,16000,34,5,dev
+meld_dev_dia34_utt6,data/raw/MELD_hf/dev/dia34_utt6.flac,meld,meld_Ross,unknown,fear,fear,5,"You know, I, you know, can't do this.",2.752,16000,34,6,dev
+meld_dev_dia34_utt7,data/raw/MELD_hf/dev/dia34_utt7.flac,meld,meld_Ross,unknown,disgust,disgust,6,"Uh, this is too weird.",1.984,16000,34,7,dev
+meld_dev_dia34_utt8,data/raw/MELD_hf/dev/dia34_utt8.flac,meld,meld_Ross,unknown,sadness,sadness,2,I feel stupid.,1.131,16000,34,8,dev
+meld_dev_dia34_utt9,data/raw/MELD_hf/dev/dia34_utt9.flac,meld,meld_Carol,unknown,neutral,neutral,0,"So don't do it, it's fine. You don't have to do it just because Susan does it.",4.8,16000,34,9,dev
+meld_dev_dia34_utt10,data/raw/MELD_hf/dev/dia34_utt10.flac,meld,meld_Ross,unknown,joy,joy,1,"Hello, baby. Hello, hello.",4.672,16000,34,10,dev
+meld_dev_dia35_utt0,data/raw/MELD_hf/dev/dia35_utt0.flac,meld,meld_Mark,unknown,neutral,neutral,0,"Oh, hi. It's Mark.",2.133,16000,35,0,dev
+meld_dev_dia36_utt0,data/raw/MELD_hf/dev/dia36_utt0.flac,meld,meld_Ross,unknown,fear,fear,5,Easy. Easy. You have to go to the hospital. Okay?,4.011,16000,36,0,dev
+meld_dev_dia36_utt1,data/raw/MELD_hf/dev/dia36_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Okay, I do.",0.811,16000,36,1,dev
+meld_dev_dia36_utt2,data/raw/MELD_hf/dev/dia36_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay.,0.363,16000,36,2,dev
+meld_dev_dia36_utt3,data/raw/MELD_hf/dev/dia36_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,I really do.,0.832,16000,36,3,dev
+meld_dev_dia36_utt4,data/raw/MELD_hf/dev/dia36_utt4.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Okay, I'm gonna get your coat and then I'll-I'll put you in a cab.",2.475,16000,36,4,dev
+meld_dev_dia36_utt5,data/raw/MELD_hf/dev/dia36_utt5.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Okay. Oh wait, wait-wait, you're not gonna come with me?",1.835,16000,36,5,dev
+meld_dev_dia36_utt6,data/raw/MELD_hf/dev/dia36_utt6.flac,meld,meld_Ross,unknown,surprise,surprise,4,Of course I am. I just have to make a call.,4.267,16000,36,6,dev
+meld_dev_dia36_utt7,data/raw/MELD_hf/dev/dia36_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,0.811,16000,36,7,dev
+meld_dev_dia36_utt8,data/raw/MELD_hf/dev/dia36_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay?,0.299,16000,36,8,dev
+meld_dev_dia36_utt9,data/raw/MELD_hf/dev/dia36_utt9.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Thank you. Oww!!!! God!,6.805,16000,36,9,dev
+meld_dev_dia36_utt10,data/raw/MELD_hf/dev/dia36_utt10.flac,meld,meld_Ross,unknown,fear,fear,5,"What?! I wh-, what's wrong?",1.131,16000,36,10,dev
+meld_dev_dia36_utt11,data/raw/MELD_hf/dev/dia36_utt11.flac,meld,meld_Rachel,unknown,disgust,disgust,6,"I'm sorry, I just can't go to the hospital lookin' like this.",3.691,16000,36,11,dev
+meld_dev_dia37_utt0,data/raw/MELD_hf/dev/dia37_utt0.flac,meld,meld_TV Announcer,unknown,neutral,neutral,0,"Pete Becker is circling the ring now. It looks like, he's just trying to feel him out. Oh, Bruiser is just...",6.187,16000,37,0,dev
+meld_dev_dia37_utt1,data/raw/MELD_hf/dev/dia37_utt1.flac,meld,meld_Chandler,unknown,fear,fear,5,"Run! Run you crazy, rich freak!",2.688,16000,37,1,dev
+meld_dev_dia37_utt2,data/raw/MELD_hf/dev/dia37_utt2.flac,meld,meld_Rachel,unknown,fear,fear,5,"Oh, I can't watch this.",1.259,16000,37,2,dev
+meld_dev_dia37_utt3,data/raw/MELD_hf/dev/dia37_utt3.flac,meld,meld_Joey,unknown,surprise,surprise,4,"Check it out, he's winning! Pete's winning!",1.643,16000,37,3,dev
+meld_dev_dia37_utt4,data/raw/MELD_hf/dev/dia37_utt4.flac,meld,meld_Monica,unknown,surprise,surprise,4,Really?!,1.579,16000,37,4,dev
+meld_dev_dia37_utt5,data/raw/MELD_hf/dev/dia37_utt5.flac,meld,meld_Joey,unknown,fear,fear,5,No-o-o!!,0.448,16000,37,5,dev
+meld_dev_dia37_utt6,data/raw/MELD_hf/dev/dia37_utt6.flac,meld,meld_TV Announcer,unknown,fear,fear,5,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",4.437,16000,37,6,dev
+meld_dev_dia37_utt7,data/raw/MELD_hf/dev/dia37_utt7.flac,meld,meld_All,unknown,disgust,disgust,6,Oh! Oh!,1.259,16000,37,7,dev
+meld_dev_dia37_utt8,data/raw/MELD_hf/dev/dia37_utt8.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Wait, if that's his favourite area, why is he being so mean to it?",3.968,16000,37,8,dev
+meld_dev_dia37_utt9,data/raw/MELD_hf/dev/dia37_utt9.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Well, this is ironic.",1.259,16000,37,9,dev
+meld_dev_dia37_utt10,data/raw/MELD_hf/dev/dia37_utt10.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Of your last two boyfriends, Richard didn't want to have kids, and from the looks of it, now Pete can't.",5.525,16000,37,10,dev
+meld_dev_dia38_utt0,data/raw/MELD_hf/dev/dia38_utt0.flac,meld,meld_Joey,unknown,anger,anger,3,"Dude, you don't have to brag! We got nothing here!!",3.477,16000,38,0,dev
+meld_dev_dia39_utt0,data/raw/MELD_hf/dev/dia39_utt0.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Should we tell Rachel there's an empty private room right next door to hers?,3.797,16000,39,0,dev
+meld_dev_dia39_utt1,data/raw/MELD_hf/dev/dia39_utt1.flac,meld,meld_Monica,unknown,joy,joy,1,"We could, or we can have sex in it.",3.264,16000,39,1,dev
+meld_dev_dia39_utt2,data/raw/MELD_hf/dev/dia39_utt2.flac,meld,meld_Chandler,unknown,joy,joy,1,"Well let me think about that, while I remove my pants!",3.051,16000,39,2,dev
+meld_dev_dia40_utt0,data/raw/MELD_hf/dev/dia40_utt0.flac,meld,meld_Rachel,unknown,surprise,surprise,4,I thought I was a complete idiot.,3.264,16000,40,0,dev
+meld_dev_dia40_utt1,data/raw/MELD_hf/dev/dia40_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Hey, I'm with you. He even asked me if I thought you'd go out with him.",7.979,16000,40,1,dev
+meld_dev_dia40_utt2,data/raw/MELD_hf/dev/dia40_utt2.flac,meld,meld_Rachel,unknown,disgust,disgust,6,"Oh! Oh, I think I'm gonna throw up a little bit. What did you say?",4.757,16000,40,2,dev
+meld_dev_dia40_utt3,data/raw/MELD_hf/dev/dia40_utt3.flac,meld,meld_Joey,unknown,neutral,neutral,0,I said no.,1.621,16000,40,3,dev
+meld_dev_dia40_utt4,data/raw/MELD_hf/dev/dia40_utt4.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What?!,0.597,16000,40,4,dev
+meld_dev_dia40_utt5,data/raw/MELD_hf/dev/dia40_utt5.flac,meld,meld_Joey,unknown,surprise,surprise,4,What? I...I just figured since you're pregnant you're not gonna be seeing people.,5.973,16000,40,5,dev
+meld_dev_dia40_utt6,data/raw/MELD_hf/dev/dia40_utt6.flac,meld,meld_Rachel,unknown,anger,anger,3,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",1.877,16000,40,6,dev
+meld_dev_dia40_utt7,data/raw/MELD_hf/dev/dia40_utt7.flac,meld,meld_Joey,unknown,neutral,neutral,0,I didn't tell him. I didn't know if you were telling people. This is back when I thought Kash was still people.,5.888,16000,40,7,dev
+meld_dev_dia40_utt8,data/raw/MELD_hf/dev/dia40_utt8.flac,meld,meld_Rachel,unknown,fear,fear,5,"Good-good, don't tell him. Don't tell him. Just have him call me okay?",2.24,16000,40,8,dev
+meld_dev_dia40_utt9,data/raw/MELD_hf/dev/dia40_utt9.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Rach look, I really don't think that's such a great",1.579,16000,40,9,dev
+meld_dev_dia40_utt10,data/raw/MELD_hf/dev/dia40_utt10.flac,meld,meld_Rachel,unknown,joy,joy,1,"Okay, you go do it! I'll come back to that set! I'll meet more actors! I'll meet 'em all!",4.715,16000,40,10,dev
+meld_dev_dia41_utt0,data/raw/MELD_hf/dev/dia41_utt0.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Ohh, here you are. I was looking for you before. Joshua's gone so you and Emily are free to go.",6.016,16000,41,0,dev
+meld_dev_dia41_utt1,data/raw/MELD_hf/dev/dia41_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,That's okay.,1.515,16000,41,1,dev
+meld_dev_dia41_utt2,data/raw/MELD_hf/dev/dia41_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,"She's still in there enjoying her fake party and uh, it's too late to do any of the things I had planned, so",6.891,16000,41,2,dev
+meld_dev_dia42_utt0,data/raw/MELD_hf/dev/dia42_utt0.flac,meld,meld_Ross,unknown,anger,anger,3,Ah! Ah! I forgot my jacket!,2.005,16000,42,0,dev
+meld_dev_dia42_utt1,data/raw/MELD_hf/dev/dia42_utt1.flac,meld,meld_Ross,unknown,anger,anger,3,You tell them to wait!,2.304,16000,42,1,dev
+meld_dev_dia42_utt2,data/raw/MELD_hf/dev/dia42_utt2.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay. Wait! Wait!,3.264,16000,42,2,dev
+meld_dev_dia42_utt3,data/raw/MELD_hf/dev/dia42_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,Emily.,2.005,16000,42,3,dev
+meld_dev_dia42_utt4,data/raw/MELD_hf/dev/dia42_utt4.flac,meld,meld_Ross,unknown,anger,anger,3,Oh no-no-no! Oh-no! No! No! Emily!,6.677,16000,42,4,dev
+meld_dev_dia43_utt0,data/raw/MELD_hf/dev/dia43_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Hey. Call me when you get there. Okay?,2.091,16000,43,0,dev
+meld_dev_dia43_utt1,data/raw/MELD_hf/dev/dia43_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,1.003,16000,43,1,dev
+meld_dev_dia44_utt0,data/raw/MELD_hf/dev/dia44_utt0.flac,meld,meld_The Hot Girl,unknown,sadness,sadness,2,I know. You're the guy who wouldn't chip in for the handyman.,3.435,16000,44,0,dev
+meld_dev_dia44_utt1,data/raw/MELD_hf/dev/dia44_utt1.flac,meld,meld_Ross,unknown,anger,anger,3,Nevermind!,1.301,16000,44,1,dev
+meld_dev_dia44_utt2,data/raw/MELD_hf/dev/dia44_utt2.flac,meld,meld_The Hot Girl,unknown,neutral,neutral,0,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",5.888,16000,44,2,dev
+meld_dev_dia44_utt3,data/raw/MELD_hf/dev/dia44_utt3.flac,meld,meld_The Hot Girl,unknown,neutral,neutral,0,Jen.,1.643,16000,44,3,dev
+meld_dev_dia44_utt4,data/raw/MELD_hf/dev/dia44_utt4.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Jen, I know this may sound a little... But uh, would you maybe wanna grab a cup of coffee sometime, or",11.029,16000,44,4,dev
+meld_dev_dia44_utt5,data/raw/MELD_hf/dev/dia44_utt5.flac,meld,meld_Jen,unknown,joy,joy,1,Sure! That would be nice.,1.771,16000,44,5,dev
+meld_dev_dia44_utt6,data/raw/MELD_hf/dev/dia44_utt6.flac,meld,meld_Ross,unknown,neutral,neutral,0,Umm?,1.045,16000,44,6,dev
+meld_dev_dia44_utt7,data/raw/MELD_hf/dev/dia44_utt7.flac,meld,meld_Jen,unknown,joy,joy,1,Oh! My number is on there. Give me a call.,3.093,16000,44,7,dev
+meld_dev_dia44_utt8,data/raw/MELD_hf/dev/dia44_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,I will give you a call.,2.091,16000,44,8,dev
+meld_dev_dia44_utt9,data/raw/MELD_hf/dev/dia44_utt9.flac,meld,meld_Jen,unknown,neutral,neutral,0,I'll see you later.,0.96,16000,44,9,dev
+meld_dev_dia44_utt10,data/raw/MELD_hf/dev/dia44_utt10.flac,meld,meld_Ross,unknown,joy,joy,1,Okay!,0.939,16000,44,10,dev
+meld_dev_dia44_utt11,data/raw/MELD_hf/dev/dia44_utt11.flac,meld,meld_Jen,unknown,neutral,neutral,0,I forgot my paper.,2.133,16000,44,11,dev
+meld_dev_dia45_utt0,data/raw/MELD_hf/dev/dia45_utt0.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Here we go. Okay, brace yourselves.",3.093,16000,45,0,dev
+meld_dev_dia45_utt1,data/raw/MELD_hf/dev/dia45_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,What?,1.643,16000,45,1,dev
+meld_dev_dia45_utt2,data/raw/MELD_hf/dev/dia45_utt2.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,0.555,16000,45,2,dev
+meld_dev_dia45_utt3,data/raw/MELD_hf/dev/dia45_utt3.flac,meld,meld_Monica,unknown,surprise,surprise,4,Ow!,1.237,16000,45,3,dev
+meld_dev_dia45_utt4,data/raw/MELD_hf/dev/dia45_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Aren't you gonna go?,0.768,16000,45,4,dev
+meld_dev_dia45_utt5,data/raw/MELD_hf/dev/dia45_utt5.flac,meld,meld_Rachel,unknown,neutral,neutral,0,No. Thank you.,1.216,16000,45,5,dev
+meld_dev_dia45_utt6,data/raw/MELD_hf/dev/dia45_utt6.flac,meld,meld_Monica,unknown,neutral,neutral,0,"No, Rachel never pees in public restrooms.",2.731,16000,45,6,dev
+meld_dev_dia45_utt7,data/raw/MELD_hf/dev/dia45_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Well, they never have any paper in there y'know. So my rule is 'no tissue, no tuschy.' Well, if everybody's going.",13.888,16000,45,7,dev
+meld_dev_dia45_utt8,data/raw/MELD_hf/dev/dia45_utt8.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"No, y'know what don't close it 'cause the... keys...are in there.",2.389,16000,45,8,dev
+meld_dev_dia45_utt9,data/raw/MELD_hf/dev/dia45_utt9.flac,meld,meld_Chandler,unknown,fear,fear,5,"Oh, no-no-no-no-no-no!!",1.387,16000,45,9,dev
+meld_dev_dia45_utt10,data/raw/MELD_hf/dev/dia45_utt10.flac,meld,meld_Joey,unknown,neutral,neutral,0,What's going on?,0.64,16000,45,10,dev
+meld_dev_dia45_utt11,data/raw/MELD_hf/dev/dia45_utt11.flac,meld,meld_Chandler,unknown,fear,fear,5,My lighter's in there!,1.899,16000,45,11,dev
+meld_dev_dia46_utt0,data/raw/MELD_hf/dev/dia46_utt0.flac,meld,meld_Rachel,unknown,neutral,neutral,0,I promise.,1.045,16000,46,0,dev
+meld_dev_dia46_utt1,data/raw/MELD_hf/dev/dia46_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Although, don't feel like you can't visit.",1.92,16000,46,1,dev
+meld_dev_dia46_utt2,data/raw/MELD_hf/dev/dia46_utt2.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Hey, is, is, is Chandler here?",2.475,16000,46,2,dev
+meld_dev_dia46_utt3,data/raw/MELD_hf/dev/dia46_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,"No, no he's not.",1.344,16000,46,3,dev
+meld_dev_dia46_utt4,data/raw/MELD_hf/dev/dia46_utt4.flac,meld,meld_Monica,unknown,surprise,surprise,4,"You guys, Joey just saw Janice kissing her ex-husband.",4.629,16000,46,4,dev
+meld_dev_dia46_utt5,data/raw/MELD_hf/dev/dia46_utt5.flac,meld,meld_Ross,unknown,surprise,surprise,4,"What? So what are you going to do? I mean how, how are you going to tell Chandler?",4.437,16000,46,5,dev
+meld_dev_dia46_utt6,data/raw/MELD_hf/dev/dia46_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Well, I was thinking about that and I, I think the best way would be, to not.",4.48,16000,46,6,dev
+meld_dev_dia46_utt7,data/raw/MELD_hf/dev/dia46_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Joey, you can't keep this to yourself, if you know about this, you have to tell him.",3.456,16000,46,7,dev
+meld_dev_dia46_utt8,data/raw/MELD_hf/dev/dia46_utt8.flac,meld,meld_Joey,unknown,fear,fear,5,"It'll kill him. I mean it'll, it'll just kill him.",2.304,16000,46,8,dev
+meld_dev_dia46_utt9,data/raw/MELD_hf/dev/dia46_utt9.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Well, you could wait 'til I go to the dentist, maybe",2.88,16000,46,9,dev
+meld_dev_dia47_utt0,data/raw/MELD_hf/dev/dia47_utt0.flac,meld,meld_Carol,unknown,neutral,neutral,0,"Hey, what are you doing here?",2.048,16000,47,0,dev
+meld_dev_dia47_utt1,data/raw/MELD_hf/dev/dia47_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",6.635,16000,47,1,dev
+meld_dev_dia47_utt2,data/raw/MELD_hf/dev/dia47_utt2.flac,meld,meld_Carol,unknown,neutral,neutral,0,"Ah yeah, but now it's Susan and me in Mexico and the hostages coming home.",3.669,16000,47,2,dev
+meld_dev_dia47_utt3,data/raw/MELD_hf/dev/dia47_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,Where's Ben?,1.045,16000,47,3,dev
+meld_dev_dia47_utt4,data/raw/MELD_hf/dev/dia47_utt4.flac,meld,meld_Carol,unknown,neutral,neutral,0,He's sleeping.,1.259,16000,47,4,dev
+meld_dev_dia47_utt5,data/raw/MELD_hf/dev/dia47_utt5.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Ahh. Ooh, is this a ah, is this a bad time?",5.141,16000,47,5,dev
+meld_dev_dia47_utt6,data/raw/MELD_hf/dev/dia47_utt6.flac,meld,meld_Carol,unknown,joy,joy,1,"Umm, yeah, actually, Susan's gonna be home any minute, it's kinda an anniversary.",5.184,16000,47,6,dev
+meld_dev_dia47_utt7,data/raw/MELD_hf/dev/dia47_utt7.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Oh! I thought you guys got married in uh, January?",2.475,16000,47,7,dev
+meld_dev_dia47_utt8,data/raw/MELD_hf/dev/dia47_utt8.flac,meld,meld_Carol,unknown,neutral,neutral,0,It's not that kind of anniversary.,1.728,16000,47,8,dev
+meld_dev_dia47_utt9,data/raw/MELD_hf/dev/dia47_utt9.flac,meld,meld_Ross,unknown,surprise,surprise,4,Ah! Oh.,2.944,16000,47,9,dev
+meld_dev_dia47_utt10,data/raw/MELD_hf/dev/dia47_utt10.flac,meld,meld_Carol,unknown,neutral,neutral,0,Sooo!! Anyway...,2.709,16000,47,10,dev
+meld_dev_dia48_utt0,data/raw/MELD_hf/dev/dia48_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Where are we gonna find a tiny little hat?,4.843,16000,48,0,dev
+meld_dev_dia48_utt1,data/raw/MELD_hf/dev/dia48_utt1.flac,meld,meld_Rachel,unknown,joy,joy,1,"Oh, oh, oh, I'll get 'Rainy Day Bear'!!",1.685,16000,48,1,dev
+meld_dev_dia48_utt2,data/raw/MELD_hf/dev/dia48_utt2.flac,meld,meld_Monica,unknown,joy,joy,1,"Because he'll know what to do? Oh my God, you're a genius!",4.267,16000,48,2,dev
+meld_dev_dia48_utt3,data/raw/MELD_hf/dev/dia48_utt3.flac,meld,meld_Rachel,unknown,fear,fear,5,"Oh God, oh God, it's sowed on though.",1.92,16000,48,3,dev
+meld_dev_dia48_utt4,data/raw/MELD_hf/dev/dia48_utt4.flac,meld,meld_Monica,unknown,neutral,neutral,0,Give it. Give it.,1.472,16000,48,4,dev
+meld_dev_dia48_utt5,data/raw/MELD_hf/dev/dia48_utt5.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,1.003,16000,48,5,dev
+meld_dev_dia48_utt6,data/raw/MELD_hf/dev/dia48_utt6.flac,meld,meld_Monica and Rachel,unknown,surprise,surprise,4,Oh!!,1.216,16000,48,6,dev
+meld_dev_dia48_utt7,data/raw/MELD_hf/dev/dia48_utt7.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Oh, it's just like a bloodbath in here today.",3.52,16000,48,7,dev
+meld_dev_dia49_utt0,data/raw/MELD_hf/dev/dia49_utt0.flac,meld,meld_Ross,unknown,anger,anger,3,Please. This is so your fault.,3.627,16000,49,0,dev
+meld_dev_dia49_utt1,data/raw/MELD_hf/dev/dia49_utt1.flac,meld,meld_Susan,unknown,surprise,surprise,4,"How, how is this my fault?",0.149,16000,49,1,dev
+meld_dev_dia49_utt2,data/raw/MELD_hf/dev/dia49_utt2.flac,meld,meld_Ross,unknown,anger,anger,3,"Look, Carol never threw me out of a room before you came along.",2.965,16000,49,2,dev
+meld_dev_dia49_utt3,data/raw/MELD_hf/dev/dia49_utt3.flac,meld,meld_Susan,unknown,anger,anger,3,"Yeah? Well, there's a lot of things Carol never did before I came along.",3.605,16000,49,3,dev
+meld_dev_dia49_utt6,data/raw/MELD_hf/dev/dia49_utt6.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Hey, hey, ok, all right, that's it!",4.224,16000,49,6,dev
+meld_dev_dia49_utt7,data/raw/MELD_hf/dev/dia49_utt7.flac,meld,meld_Phoebe,unknown,anger,anger,3,Get in here.,1.515,16000,49,7,dev
+meld_dev_dia49_utt8,data/raw/MELD_hf/dev/dia49_utt8.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Come on.,1.003,16000,49,8,dev
+meld_dev_dia49_utt9,data/raw/MELD_hf/dev/dia49_utt9.flac,meld,meld_Phoebe,unknown,anger,anger,3,"My god, you guys, I don't believe you.",3.797,16000,49,9,dev
+meld_dev_dia49_utt10,data/raw/MELD_hf/dev/dia49_utt10.flac,meld,meld_Phoebe,unknown,anger,anger,3,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,6.891,16000,49,10,dev
+meld_dev_dia49_utt11,data/raw/MELD_hf/dev/dia49_utt11.flac,meld,meld_Phoebe,unknown,anger,anger,3,"So just stop all the yelling, just stop it!",2.475,16000,49,11,dev
+meld_dev_dia49_utt12,data/raw/MELD_hf/dev/dia49_utt12.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Yeah, Susan.",2.432,16000,49,12,dev
+meld_dev_dia49_utt13,data/raw/MELD_hf/dev/dia49_utt13.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Don't make me do this again, I don't like my voice like this.",3.712,16000,49,13,dev
+meld_dev_dia49_utt14,data/raw/MELD_hf/dev/dia49_utt14.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Ok, who wants to hear something ironic?",2.432,16000,49,14,dev
+meld_dev_dia50_utt0,data/raw/MELD_hf/dev/dia50_utt0.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Oh! Here it is! Ooh, Joey! Why did you sign it, ""Son of a bitch?""",4.523,16000,50,0,dev
+meld_dev_dia50_utt1,data/raw/MELD_hf/dev/dia50_utt1.flac,meld,meld_Joey,unknown,surprise,surprise,4,I didn't do that! Who would've done that?!,2.219,16000,50,1,dev
+meld_dev_dia50_utt2,data/raw/MELD_hf/dev/dia50_utt2.flac,meld,meld_The Dry Cleaner,unknown,anger,anger,3,Son of a bitch!,1.067,16000,50,2,dev
+meld_dev_dia50_utt3,data/raw/MELD_hf/dev/dia50_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Okay, maybe ask this guy.",2.219,16000,50,3,dev
+meld_dev_dia51_utt0,data/raw/MELD_hf/dev/dia51_utt0.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",8.107,16000,51,0,dev
+meld_dev_dia51_utt1,data/raw/MELD_hf/dev/dia51_utt1.flac,meld,meld_Chandler,unknown,joy,joy,1,"Y'know sometimes the good ideas are just right in front of you, aren't they?",3.712,16000,51,1,dev
+meld_dev_dia51_utt2,data/raw/MELD_hf/dev/dia51_utt2.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Okay, I know it sounds crazy, but I think it might work. Y'know? The only problem is, Carl's acting is",5.227,16000,51,2,dev
+meld_dev_dia51_utt3,data/raw/MELD_hf/dev/dia51_utt3.flac,meld,meld_Monica,unknown,neutral,neutral,0,The,2.261,16000,51,3,dev
+meld_dev_dia51_utt4,data/raw/MELD_hf/dev/dia51_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Yeah, he's the reason I didn't get that big",3.797,16000,51,4,dev
+meld_dev_dia51_utt5,data/raw/MELD_hf/dev/dia51_utt5.flac,meld,meld_Carl,unknown,neutral,neutral,0,"Hey, uh can I get a little piece of that cake?",2.645,16000,51,5,dev
+meld_dev_dia51_utt6,data/raw/MELD_hf/dev/dia51_utt6.flac,meld,meld_Joey,unknown,anger,anger,3,Pizza!! We like Pizza!! Get out!!!,2.965,16000,51,6,dev
+meld_dev_dia52_utt0,data/raw/MELD_hf/dev/dia52_utt0.flac,meld,meld_Waitress,unknown,neutral,neutral,0,"Hey Monica, there's a customer who wants to complement the chef, should I let him in?",3.435,16000,52,0,dev
+meld_dev_dia52_utt1,data/raw/MELD_hf/dev/dia52_utt1.flac,meld,meld_Monica,unknown,joy,joy,1,"Sure, I love this part!",2.389,16000,52,1,dev
+meld_dev_dia52_utt2,data/raw/MELD_hf/dev/dia52_utt2.flac,meld,meld_Waitress,unknown,neutral,neutral,0,Come on in.,2.432,16000,52,2,dev
+meld_dev_dia53_utt0,data/raw/MELD_hf/dev/dia53_utt0.flac,meld,meld_Joey,unknown,joy,joy,1,"Really? In the moment, I really wanted to kiss you too. In the moment.",6.891,16000,53,0,dev
+meld_dev_dia53_utt1,data/raw/MELD_hf/dev/dia53_utt1.flac,meld,meld_Janine,unknown,neutral,neutral,0,"In the moment, yeah.",1.024,16000,53,1,dev
+meld_dev_dia53_utt2,data/raw/MELD_hf/dev/dia53_utt2.flac,meld,meld_Joey,unknown,joy,joy,1,But only in the moment. So do ya wanna kiss again?,7.637,16000,53,2,dev
+meld_dev_dia53_utt3,data/raw/MELD_hf/dev/dia53_utt3.flac,meld,meld_Janine,unknown,neutral,neutral,0,"Sure, New Year's Eve is only two weeks away. Can you wait?",4.565,16000,53,3,dev
+meld_dev_dia53_utt4,data/raw/MELD_hf/dev/dia53_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,No.,1.429,16000,53,4,dev
+meld_dev_dia53_utt5,data/raw/MELD_hf/dev/dia53_utt5.flac,meld,meld_Janine,unknown,neutral,neutral,0,Me neither.,1.216,16000,53,5,dev
+meld_dev_dia53_utt6,data/raw/MELD_hf/dev/dia53_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,"3, 2,",1.941,16000,53,6,dev
+meld_dev_dia53_utt7,data/raw/MELD_hf/dev/dia53_utt7.flac,meld,meld_Janine,unknown,joy,joy,1,"Joey, you don't have to count down every time we kiss.",2.304,16000,53,7,dev
+meld_dev_dia53_utt8,data/raw/MELD_hf/dev/dia53_utt8.flac,meld,meld_Joey,unknown,joy,joy,1,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",7.979,16000,53,8,dev
+meld_dev_dia54_utt0,data/raw/MELD_hf/dev/dia54_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Alright. Phoebe?,0.96,16000,54,0,dev
+meld_dev_dia54_utt1,data/raw/MELD_hf/dev/dia54_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Okay, okay.",0.896,16000,54,1,dev
+meld_dev_dia54_utt2,data/raw/MELD_hf/dev/dia54_utt2.flac,meld,meld_Phoebe,unknown,joy,joy,1,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",10.155,16000,54,2,dev
+meld_dev_dia54_utt3,data/raw/MELD_hf/dev/dia54_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Yeah, see.. you took mine. Chandler, what about you?",5.355,16000,54,3,dev
+meld_dev_dia54_utt4,data/raw/MELD_hf/dev/dia54_utt4.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",3.435,16000,54,4,dev
+meld_dev_dia54_utt5,data/raw/MELD_hf/dev/dia54_utt5.flac,meld,meld_Rachel,unknown,disgust,disgust,6,"See, there's always one guy. ""If I had a wish, I'd wish for three more wishes.""",5.184,16000,54,5,dev
+meld_dev_dia54_utt6,data/raw/MELD_hf/dev/dia54_utt6.flac,meld,meld_All,unknown,neutral,neutral,0,"Hey Joey. Hi. Hey, buddy.",1.472,16000,54,6,dev
+meld_dev_dia54_utt7,data/raw/MELD_hf/dev/dia54_utt7.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Hey, Joey, what would you do if you were omnipotent?",2.133,16000,54,7,dev
+meld_dev_dia54_utt8,data/raw/MELD_hf/dev/dia54_utt8.flac,meld,meld_Joey,unknown,sadness,sadness,2,Probably kill myself!,2.304,16000,54,8,dev
+meld_dev_dia54_utt9,data/raw/MELD_hf/dev/dia54_utt9.flac,meld,meld_Monica,unknown,surprise,surprise,4,..Excuse me?,1.472,16000,54,9,dev
+meld_dev_dia54_utt10,data/raw/MELD_hf/dev/dia54_utt10.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Hey, if Little Joey's dead, then I got no reason to live!",3.669,16000,54,10,dev
+meld_dev_dia54_utt11,data/raw/MELD_hf/dev/dia54_utt11.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Joey, uh-",2.304,16000,54,11,dev
+meld_dev_dia54_utt12,data/raw/MELD_hf/dev/dia54_utt12.flac,meld,meld_Joey,unknown,neutral,neutral,0,You,1.963,16000,54,12,dev
+meld_dev_dia55_utt0,data/raw/MELD_hf/dev/dia55_utt0.flac,meld,meld_Kate,unknown,sadness,sadness,2,I'm sorry.,2.688,16000,55,0,dev
+meld_dev_dia56_utt0,data/raw/MELD_hf/dev/dia56_utt0.flac,meld,meld_Stage Manager,unknown,anger,anger,3,"Joey, onstage!",2.261,16000,56,0,dev
+meld_dev_dia56_utt1,data/raw/MELD_hf/dev/dia56_utt1.flac,meld,meld_Joey,unknown,sadness,sadness,2,Well can you at least stay to the end of the play?,2.176,16000,56,1,dev
+meld_dev_dia56_utt2,data/raw/MELD_hf/dev/dia56_utt2.flac,meld,meld_Joey,unknown,sadness,sadness,2,"I mean, I'll go to the airport with ya, I-I wanna say good bye.",2.795,16000,56,2,dev
+meld_dev_dia56_utt3,data/raw/MELD_hf/dev/dia56_utt3.flac,meld,meld_Lauren,unknown,neutral,neutral,0,Where are you Vic?,1.92,16000,56,3,dev
+meld_dev_dia56_utt4,data/raw/MELD_hf/dev/dia56_utt4.flac,meld,meld_Kate,unknown,sadness,sadness,2,Flight's in an hour. I-I gotta go.,2.176,16000,56,4,dev
+meld_dev_dia56_utt5,data/raw/MELD_hf/dev/dia56_utt5.flac,meld,meld_Lauren,unknown,anger,anger,3,Vic! Vic!,1.472,16000,56,5,dev
+meld_dev_dia56_utt6,data/raw/MELD_hf/dev/dia56_utt6.flac,meld,meld_Joey,unknown,anger,anger,3,In a minute!!,2.005,16000,56,6,dev
+meld_dev_dia56_utt7,data/raw/MELD_hf/dev/dia56_utt7.flac,meld,meld_Lauren,unknown,sadness,sadness,2,So this is it? Victor?,2.389,16000,56,7,dev
+meld_dev_dia56_utt8,data/raw/MELD_hf/dev/dia56_utt8.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Yeah, I guess it is.",2.965,16000,56,8,dev
+meld_dev_dia56_utt9,data/raw/MELD_hf/dev/dia56_utt9.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick 'cause this is killing me.",6.677,16000,56,9,dev
+meld_dev_dia56_utt10,data/raw/MELD_hf/dev/dia56_utt10.flac,meld,meld_Joey,unknown,sadness,sadness,2,"One thing you gotta know, is that I will never forget you.",4.608,16000,56,10,dev
+meld_dev_dia56_utt11,data/raw/MELD_hf/dev/dia56_utt11.flac,meld,meld_Joey,unknown,sadness,sadness,2,"But, you've got things you have to do now, and so do I.",5.184,16000,56,11,dev
+meld_dev_dia56_utt12,data/raw/MELD_hf/dev/dia56_utt12.flac,meld,meld_Joey,unknown,sadness,sadness,2,"And so... I'm gonna get on this spaceship, and I'm gonna go to Blargon 7 in search of alternative fuels.",16.811,16000,56,12,dev
+meld_dev_dia56_utt13,data/raw/MELD_hf/dev/dia56_utt13.flac,meld,meld_Joey,unknown,sadness,sadness,2,"But when I return, 200 years from now, you'll be long gone.",5.973,16000,56,13,dev
+meld_dev_dia56_utt14,data/raw/MELD_hf/dev/dia56_utt14.flac,meld,meld_Joey,unknown,neutral,neutral,0,But I won't have aged at all.,2.475,16000,56,14,dev
+meld_dev_dia56_utt15,data/raw/MELD_hf/dev/dia56_utt15.flac,meld,meld_Joey,unknown,neutral,neutral,0,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I'm gonna want to meet her.",14.72,16000,56,15,dev
+meld_dev_dia56_utt16,data/raw/MELD_hf/dev/dia56_utt16.flac,meld,meld_Lauren,unknown,sadness,sadness,2,"So long, Vic!",2.304,16000,56,16,dev
+meld_dev_dia57_utt0,data/raw/MELD_hf/dev/dia57_utt0.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Nooo Way! The most romantic song ever is,4.395,16000,57,0,dev
+meld_dev_dia57_utt1,data/raw/MELD_hf/dev/dia57_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"See, I-I think that one that Elton John wrote for, um, that guy on",5.184,16000,57,1,dev
+meld_dev_dia57_utt2,data/raw/MELD_hf/dev/dia57_utt2.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"What song was that, Pheebs?",1.963,16000,57,2,dev
+meld_dev_dia57_utt3,data/raw/MELD_hf/dev/dia57_utt3.flac,meld,meld_Phoebe,unknown,joy,joy,1,Hi Monica!,1.344,16000,57,3,dev
+meld_dev_dia57_utt4,data/raw/MELD_hf/dev/dia57_utt4.flac,meld,meld_Ross,unknown,joy,joy,1,Hey Mon!,0.768,16000,57,4,dev
+meld_dev_dia57_utt5,data/raw/MELD_hf/dev/dia57_utt5.flac,meld,meld_Rachel,unknown,joy,joy,1,Hey Mon!,0.939,16000,57,5,dev
+meld_dev_dia57_utt6,data/raw/MELD_hf/dev/dia57_utt6.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Oh my God, has she slept at all?",3.435,16000,57,6,dev
+meld_dev_dia57_utt7,data/raw/MELD_hf/dev/dia57_utt7.flac,meld,meld_Ross,unknown,neutral,neutral,0,Nope.,1.835,16000,57,7,dev
+meld_dev_dia57_utt8,data/raw/MELD_hf/dev/dia57_utt8.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"No, it's been three nights in a row.",1.92,16000,57,8,dev
+meld_dev_dia57_utt9,data/raw/MELD_hf/dev/dia57_utt9.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",5.141,16000,57,9,dev
+meld_dev_dia57_utt10,data/raw/MELD_hf/dev/dia57_utt10.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Oh, okay that explains it.",4.437,16000,57,10,dev
+meld_dev_dia57_utt11,data/raw/MELD_hf/dev/dia57_utt11.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",9.685,16000,57,11,dev
+meld_dev_dia57_utt12,data/raw/MELD_hf/dev/dia57_utt12.flac,meld,meld_Phoebe,unknown,joy,joy,1,But then I realized where would a mouse or a opossum get the money to make the phone call.,7.552,16000,57,12,dev
+meld_dev_dia58_utt0,data/raw/MELD_hf/dev/dia58_utt0.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"So uh, man, are you gonna go to the play with me tonight?",2.517,16000,58,0,dev
+meld_dev_dia58_utt1,data/raw/MELD_hf/dev/dia58_utt1.flac,meld,meld_Ross,unknown,disgust,disgust,6,"Y'know what, I don't know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",5.845,16000,58,1,dev
+meld_dev_dia58_utt2,data/raw/MELD_hf/dev/dia58_utt2.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Yeah, I know but",1.429,16000,58,2,dev
+meld_dev_dia58_utt3,data/raw/MELD_hf/dev/dia58_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Oh no-no-no, I'm there.",0.725,16000,58,3,dev
+meld_dev_dia58_utt4,data/raw/MELD_hf/dev/dia58_utt4.flac,meld,meld_Monica,unknown,surprise,surprise,4,Hey!,1.088,16000,58,4,dev
+meld_dev_dia58_utt5,data/raw/MELD_hf/dev/dia58_utt5.flac,meld,meld_Joey,unknown,joy,joy,1,Hey Mon! Want some pancakes?,3.435,16000,58,5,dev
+meld_dev_dia58_utt6,data/raw/MELD_hf/dev/dia58_utt6.flac,meld,meld_Monica,unknown,surprise,surprise,4,You made pancakes?,2.176,16000,58,6,dev
+meld_dev_dia58_utt7,data/raw/MELD_hf/dev/dia58_utt7.flac,meld,meld_Joey,unknown,joy,joy,1,Yep! Grab a plate.,1.792,16000,58,7,dev
+meld_dev_dia58_utt8,data/raw/MELD_hf/dev/dia58_utt8.flac,meld,meld_Joey,unknown,neutral,neutral,0,"No-no, stay right there. Gettin' closer.",5.803,16000,58,8,dev
+meld_dev_dia58_utt9,data/raw/MELD_hf/dev/dia58_utt9.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Okay, okay, but don't worry, because we also have cereals, muffins, waffles,",4.224,16000,58,9,dev
+meld_dev_dia58_utt10,data/raw/MELD_hf/dev/dia58_utt10.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Listen also we're uh, we're watching the game here Saturday night, if people want to come over.",3.093,16000,58,10,dev
+meld_dev_dia58_utt11,data/raw/MELD_hf/dev/dia58_utt11.flac,meld,meld_Ross,unknown,joy,joy,1,Oh yeah!,1.088,16000,58,11,dev
+meld_dev_dia59_utt0,data/raw/MELD_hf/dev/dia59_utt0.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Yes, if the foxhole was lined with sandwiches.",2.752,16000,59,0,dev
+meld_dev_dia59_utt1,data/raw/MELD_hf/dev/dia59_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Yeah, hero sandwiches.",2.219,16000,59,1,dev
+meld_dev_dia59_utt2,data/raw/MELD_hf/dev/dia59_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Well you all know that I'm a pacifist so I'm not interested in war in any way.,4.523,16000,59,2,dev
+meld_dev_dia59_utt3,data/raw/MELD_hf/dev/dia59_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"When the revolution comes, I will have to destroy you all.",3.307,16000,59,3,dev
+meld_dev_dia59_utt4,data/raw/MELD_hf/dev/dia59_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Not you Joey.,1.301,16000,59,4,dev
+meld_dev_dia60_utt0,data/raw/MELD_hf/dev/dia60_utt0.flac,meld,meld_Chandler,unknown,surprise,surprise,4,Oh my good God.,2.517,16000,60,0,dev
+meld_dev_dia60_utt1,data/raw/MELD_hf/dev/dia60_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",11.947,16000,60,1,dev
+meld_dev_dia60_utt2,data/raw/MELD_hf/dev/dia60_utt2.flac,meld,meld_Chandler,unknown,anger,anger,3,"Look, you have done enough! Okay? You have to stop this now.",3.477,16000,60,2,dev
+meld_dev_dia60_utt3,data/raw/MELD_hf/dev/dia60_utt3.flac,meld,meld_Monica,unknown,joy,joy,1,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",6.4,16000,60,3,dev
+meld_dev_dia60_utt4,data/raw/MELD_hf/dev/dia60_utt4.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Oh, the mixed tape.",1.792,16000,60,4,dev
+meld_dev_dia60_utt5,data/raw/MELD_hf/dev/dia60_utt5.flac,meld,meld_Monica,unknown,joy,joy,1,The Way You Look Tonight,2.389,16000,60,5,dev
+meld_dev_dia60_utt6,data/raw/MELD_hf/dev/dia60_utt6.flac,meld,meld_Monica,unknown,joy,joy,1,You are just the sweetest.,2.923,16000,60,6,dev
+meld_dev_dia61_utt0,data/raw/MELD_hf/dev/dia61_utt0.flac,meld,meld_Monica,unknown,joy,joy,1,Hey!,0.32,16000,61,0,dev
+meld_dev_dia61_utt1,data/raw/MELD_hf/dev/dia61_utt1.flac,meld,meld_Phoebe,unknown,joy,joy,1,Hey!,1.387,16000,61,1,dev
+meld_dev_dia61_utt2,data/raw/MELD_hf/dev/dia61_utt2.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Hey, guess what I'm doing tonight.",1.685,16000,61,2,dev
+meld_dev_dia61_utt3,data/raw/MELD_hf/dev/dia61_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,What?,1.003,16000,61,3,dev
+meld_dev_dia61_utt4,data/raw/MELD_hf/dev/dia61_utt4.flac,meld,meld_Monica,unknown,neutral,neutral,0,I'm checking out the restaurant with Pete.,1.963,16000,61,4,dev
+meld_dev_dia61_utt5,data/raw/MELD_hf/dev/dia61_utt5.flac,meld,meld_Phoebe,unknown,joy,joy,1,"Ohh, Monica, I am so excited for you.",3.52,16000,61,5,dev
+meld_dev_dia62_utt0,data/raw/MELD_hf/dev/dia62_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",8.149,16000,62,0,dev
+meld_dev_dia62_utt1,data/raw/MELD_hf/dev/dia62_utt1.flac,meld,meld_Carol,unknown,joy,joy,1,"Ooh, actually I've been making a list of all the women I know who might be into doing this!",3.712,16000,62,1,dev
+meld_dev_dia62_utt2,data/raw/MELD_hf/dev/dia62_utt2.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Oh. Wow! Huh. Boy! Well, someone's been doing their homework.",13.205,16000,62,2,dev
+meld_dev_dia62_utt3,data/raw/MELD_hf/dev/dia62_utt3.flac,meld,meld_Carol,unknown,neutral,neutral,0,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",4.267,16000,62,3,dev
+meld_dev_dia62_utt4,data/raw/MELD_hf/dev/dia62_utt4.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Oh, I know. Y'know, just-just talking about it is getting me kinda",7.851,16000,62,4,dev
+meld_dev_dia62_utt5,data/raw/MELD_hf/dev/dia62_utt5.flac,meld,meld_Carol,unknown,neutral,neutral,0,"Oh, me too.",2.133,16000,62,5,dev
+meld_dev_dia63_utt0,data/raw/MELD_hf/dev/dia63_utt0.flac,meld,meld_Ross,unknown,joy,joy,1,"and then, we could've gone from the ceremony to the reception with you in the sidecar!",6.187,16000,63,0,dev
+meld_dev_dia63_utt1,data/raw/MELD_hf/dev/dia63_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Ross, it just wouldn't have been feasible.",1.835,16000,63,1,dev
+meld_dev_dia63_utt2,data/raw/MELD_hf/dev/dia63_utt2.flac,meld,meld_Ross,unknown,anger,anger,3,But having a dove place the ring on your finger would've been no problem?,4.523,16000,63,2,dev
+meld_dev_dia63_utt3,data/raw/MELD_hf/dev/dia63_utt3.flac,meld,meld_Rachel,unknown,joy,joy,1,It was really fun being married to you tonight.,1.92,16000,63,3,dev
+meld_dev_dia63_utt4,data/raw/MELD_hf/dev/dia63_utt4.flac,meld,meld_Ross,unknown,joy,joy,1,"Yeah! And! And, it was the easiest 400 bucks I've ever made.",3.136,16000,63,4,dev
+meld_dev_dia63_utt5,data/raw/MELD_hf/dev/dia63_utt5.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Okay Ross, can I uh, can I ask you something?",2.795,16000,63,5,dev
+meld_dev_dia63_utt6,data/raw/MELD_hf/dev/dia63_utt6.flac,meld,meld_Ross,unknown,neutral,neutral,0,Yeah.,0.747,16000,63,6,dev
+meld_dev_dia63_utt7,data/raw/MELD_hf/dev/dia63_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"That proposal, at the planetarium",2.261,16000,63,7,dev
+meld_dev_dia63_utt8,data/raw/MELD_hf/dev/dia63_utt8.flac,meld,meld_Ross,unknown,sadness,sadness,2,"I know, I know it was stupid.",2.411,16000,63,8,dev
+meld_dev_dia63_utt9,data/raw/MELD_hf/dev/dia63_utt9.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Are you kidding?!,0.725,16000,63,9,dev
+meld_dev_dia63_utt10,data/raw/MELD_hf/dev/dia63_utt10.flac,meld,meld_Rachel,unknown,joy,joy,1,"With the, with the lilies, and-and the song, and the stars!",5.227,16000,63,10,dev
+meld_dev_dia63_utt11,data/raw/MELD_hf/dev/dia63_utt11.flac,meld,meld_Rachel,unknown,joy,joy,1,It was...really wonderful!,3.328,16000,63,11,dev
+meld_dev_dia63_utt12,data/raw/MELD_hf/dev/dia63_utt12.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Did you just make that up?,1.792,16000,63,12,dev
+meld_dev_dia63_utt13,data/raw/MELD_hf/dev/dia63_utt13.flac,meld,meld_Ross,unknown,neutral,neutral,0,"No, actually I thought about it when, when we were going out.",3.136,16000,63,13,dev
+meld_dev_dia63_utt14,data/raw/MELD_hf/dev/dia63_utt14.flac,meld,meld_Ross,unknown,neutral,neutral,0,"It's how I imagined I uh, I would ask you to marry me.",4.757,16000,63,14,dev
+meld_dev_dia63_utt15,data/raw/MELD_hf/dev/dia63_utt15.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Well, that would've been very hard to say no too.",4.523,16000,63,15,dev
+meld_dev_dia63_utt16,data/raw/MELD_hf/dev/dia63_utt16.flac,meld,meld_Ross,unknown,neutral,neutral,0,"It's a good thing I didn't do it, because it sounds like it would've been a very expensive wedding. Okay, good night",15.403,16000,63,16,dev
+meld_dev_dia63_utt17,data/raw/MELD_hf/dev/dia63_utt17.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Goodnight,1.003,16000,63,17,dev
+meld_dev_dia63_utt18,data/raw/MELD_hf/dev/dia63_utt18.flac,meld,meld_Ross,unknown,neutral,neutral,0,Even if the sidecar had a windscreen so your hair wouldn't get messed up?,4.757,16000,63,18,dev
+meld_dev_dia63_utt19,data/raw/MELD_hf/dev/dia63_utt19.flac,meld,meld_Rachel,unknown,neutral,neutral,0,I will think about it.,0.875,16000,63,19,dev
+meld_dev_dia63_utt20,data/raw/MELD_hf/dev/dia63_utt20.flac,meld,meld_Ross,unknown,neutral,neutral,0,That's all I'm askin',2.496,16000,63,20,dev
+meld_dev_dia64_utt0,data/raw/MELD_hf/dev/dia64_utt0.flac,meld,meld_Rachel,unknown,surprise,surprise,4,"You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn't feel bad!",9.259,16000,64,0,dev
+meld_dev_dia64_utt1,data/raw/MELD_hf/dev/dia64_utt1.flac,meld,meld_Monica,unknown,joy,joy,1,"Well actually, I-I didn't eat mine. It's still in the bathroom.",3.264,16000,64,1,dev
+meld_dev_dia64_utt2,data/raw/MELD_hf/dev/dia64_utt2.flac,meld,meld_Joey,unknown,neutral,neutral,0,"No it isn't, I ate that.",1.003,16000,64,2,dev
+meld_dev_dia64_utt3,data/raw/MELD_hf/dev/dia64_utt3.flac,meld,meld_Mrs. Geller,unknown,neutral,neutral,0,Well we left ours in Monica's bedroom.,2.091,16000,64,3,dev
+meld_dev_dia64_utt4,data/raw/MELD_hf/dev/dia64_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Nope, got it and I got yours too.",2.304,16000,64,4,dev
+meld_dev_dia65_utt0,data/raw/MELD_hf/dev/dia65_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,And that's I'm so glad... there's no problem.,2.219,16000,65,0,dev
+meld_dev_dia65_utt1,data/raw/MELD_hf/dev/dia65_utt1.flac,meld,meld_Joanna,unknown,neutral,neutral,0,"That's fine, actually I'm on the hiring committee, so there'll be at least one friendly face.",4.011,16000,65,1,dev
+meld_dev_dia65_utt2,data/raw/MELD_hf/dev/dia65_utt2.flac,meld,meld_Rachel,unknown,joy,joy,1,Ohh! That's great!,1.429,16000,65,2,dev
+meld_dev_dia65_utt3,data/raw/MELD_hf/dev/dia65_utt3.flac,meld,meld_Joanna,unknown,neutral,neutral,0,"You know, Junior Miss is where I started. Oh, I had to sleep with the",6.016,16000,65,3,dev
+meld_dev_dia65_utt4,data/raw/MELD_hf/dev/dia65_utt4.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Really?!,0.832,16000,65,4,dev
+meld_dev_dia65_utt5,data/raw/MELD_hf/dev/dia65_utt5.flac,meld,meld_Joanna,unknown,joy,joy,1,No-ho-ho!,2.752,16000,65,5,dev
+meld_dev_dia65_utt6,data/raw/MELD_hf/dev/dia65_utt6.flac,meld,meld_Joanna,unknown,neutral,neutral,0,Yeah.,1.6,16000,65,6,dev
+meld_dev_dia65_utt7,data/raw/MELD_hf/dev/dia65_utt7.flac,meld,meld_Joanna,unknown,neutral,neutral,0,"I mean, no-no-no-no-no, don't you worry, I'm sure with your qualifications you won't need to sleep with some guy to get that job.",6.229,16000,65,7,dev
+meld_dev_dia65_utt8,data/raw/MELD_hf/dev/dia65_utt8.flac,meld,meld_Joanna,unknown,neutral,neutral,0,"Although, I might need some convincing.",2.133,16000,65,8,dev
+meld_dev_dia65_utt9,data/raw/MELD_hf/dev/dia65_utt9.flac,meld,meld_Rachel,unknown,fear,fear,5,"Well, I, umm",1.003,16000,65,9,dev
+meld_dev_dia65_utt10,data/raw/MELD_hf/dev/dia65_utt10.flac,meld,meld_Joanna,unknown,joy,joy,1,"Kidding! God, I feel wild today!",5.397,16000,65,10,dev
+meld_dev_dia66_utt0,data/raw/MELD_hf/dev/dia66_utt0.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Oh my God! Chandler just left though!,3.051,16000,66,0,dev
+meld_dev_dia66_utt1,data/raw/MELD_hf/dev/dia66_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Yeah but, maybe it's not what we think. Maybe it's tell Monica I'm sorry I...drank the last of the milk.",6.635,16000,66,1,dev
+meld_dev_dia66_utt2,data/raw/MELD_hf/dev/dia66_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Or maybe he-he was writing to tell her that-that he's changed his name, y'know? Tell Monica I'm sorry.",8.384,16000,66,2,dev
+meld_dev_dia66_utt3,data/raw/MELD_hf/dev/dia66_utt3.flac,meld,meld_Ross,unknown,surprise,surprise,4,I think it means he freaked out and left!,5.056,16000,66,3,dev
+meld_dev_dia66_utt4,data/raw/MELD_hf/dev/dia66_utt4.flac,meld,meld_Phoebe,unknown,anger,anger,3,Don't be so negative! Good God! Isn't it possible that Sorry is sitting in there right now?!,5.397,16000,66,4,dev
+meld_dev_dia66_utt5,data/raw/MELD_hf/dev/dia66_utt5.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",4.011,16000,66,5,dev
+meld_dev_dia66_utt6,data/raw/MELD_hf/dev/dia66_utt6.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Look-Okay, I'm just gonna-I'm gonna have to go find him and bring him back!",3.52,16000,66,6,dev
+meld_dev_dia66_utt7,data/raw/MELD_hf/dev/dia66_utt7.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay?,0.405,16000,66,7,dev
+meld_dev_dia66_utt8,data/raw/MELD_hf/dev/dia66_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,"You-you make sure Monica does not find out, okay?",3.157,16000,66,8,dev
+meld_dev_dia66_utt11,data/raw/MELD_hf/dev/dia66_utt11.flac,meld,meld_Ross,unknown,neutral,neutral,0,"I will, I will find him.",1.835,16000,66,11,dev
+meld_dev_dia67_utt0,data/raw/MELD_hf/dev/dia67_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,Hey!,1.216,16000,67,0,dev
+meld_dev_dia67_utt1,data/raw/MELD_hf/dev/dia67_utt1.flac,meld,meld_All,unknown,joy,joy,1,Hi! Hey!,0.149,16000,67,1,dev
+meld_dev_dia67_utt2,data/raw/MELD_hf/dev/dia67_utt2.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Do you guys know any cute guys?,2.837,16000,67,2,dev
+meld_dev_dia67_utt3,data/raw/MELD_hf/dev/dia67_utt3.flac,meld,meld_Chandler,unknown,joy,joy,1,"Well, of course I do! My good friend Joey over here.",2.965,16000,67,3,dev
+meld_dev_dia67_utt4,data/raw/MELD_hf/dev/dia67_utt4.flac,meld,meld_Joey,unknown,joy,joy,1,"Oh, I'm sorry. Thank you Chandler.",3.477,16000,67,4,dev
+meld_dev_dia67_utt5,data/raw/MELD_hf/dev/dia67_utt5.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Anyway, there's this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",5.44,16000,67,5,dev
+meld_dev_dia67_utt6,data/raw/MELD_hf/dev/dia67_utt6.flac,meld,meld_Monica,unknown,neutral,neutral,0,What's the charity?,1.131,16000,67,6,dev
+meld_dev_dia67_utt7,data/raw/MELD_hf/dev/dia67_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"I don't know, something either trees or disease-Ralph mumbles a lot.",8.917,16000,67,7,dev
+meld_dev_dia67_utt8,data/raw/MELD_hf/dev/dia67_utt8.flac,meld,meld_Monica,unknown,neutral,neutral,0,Does Ralph mumble when you're not paying attention?,6.763,16000,67,8,dev
+meld_dev_dia67_utt9,data/raw/MELD_hf/dev/dia67_utt9.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Yeah! It's weird. But the thing is need to find a date.,6.507,16000,67,9,dev
+meld_dev_dia67_utt10,data/raw/MELD_hf/dev/dia67_utt10.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Well, what kind of guy are you looking for?",1.685,16000,67,10,dev
+meld_dev_dia68_utt0,data/raw/MELD_hf/dev/dia68_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,Hey!,1.045,16000,68,0,dev
+meld_dev_dia68_utt1,data/raw/MELD_hf/dev/dia68_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,What are you guys doing later?,1.771,16000,68,1,dev
+meld_dev_dia68_utt2,data/raw/MELD_hf/dev/dia68_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Oh, Rachel and I have appointments to get our hair cut.",2.347,16000,68,2,dev
+meld_dev_dia68_utt3,data/raw/MELD_hf/dev/dia68_utt3.flac,meld,meld_Rachel,unknown,surprise,surprise,4,We do?,0.299,16000,68,3,dev
+meld_dev_dia68_utt4,data/raw/MELD_hf/dev/dia68_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I want to see what he wants first.,2.283,16000,68,4,dev
+meld_dev_dia68_utt5,data/raw/MELD_hf/dev/dia68_utt5.flac,meld,meld_Ross,unknown,sadness,sadness,2,I just found out that Elizabeth's dad wants to meet me.,2.731,16000,68,5,dev
+meld_dev_dia68_utt6,data/raw/MELD_hf/dev/dia68_utt6.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"Wait a minute, hold the phone! You're not Elizabeth's dad?!",4.139,16000,68,6,dev
+meld_dev_dia68_utt7,data/raw/MELD_hf/dev/dia68_utt7.flac,meld,meld_Ross,unknown,fear,fear,5,"Come on guys, I-I really want this guy to like me.",2.304,16000,68,7,dev
+meld_dev_dia68_utt8,data/raw/MELD_hf/dev/dia68_utt8.flac,meld,meld_Ross,unknown,sadness,sadness,2,It-it would really help me out if you guys were here to make me look good.,4.928,16000,68,8,dev
+meld_dev_dia68_utt9,data/raw/MELD_hf/dev/dia68_utt9.flac,meld,meld_All,unknown,joy,joy,1,Of course we'll help! Yeah! We'll be here!,3.883,16000,68,9,dev
+meld_dev_dia68_utt10,data/raw/MELD_hf/dev/dia68_utt10.flac,meld,meld_Ross,unknown,joy,joy,1,Thanks!,1.557,16000,68,10,dev
+meld_dev_dia68_utt11,data/raw/MELD_hf/dev/dia68_utt11.flac,meld,meld_Monica,unknown,neutral,neutral,0,We know how tough those parent/teacher conferences can be.,2.837,16000,68,11,dev
+meld_dev_dia69_utt0,data/raw/MELD_hf/dev/dia69_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,"Oh, hi! How are you doing?",2.048,16000,69,0,dev
+meld_dev_dia69_utt1,data/raw/MELD_hf/dev/dia69_utt1.flac,meld,meld_Tag,unknown,sadness,sadness,2,I'm okay. I gotta go down to the police station and look at mug shots.,4.224,16000,69,1,dev
+meld_dev_dia69_utt2,data/raw/MELD_hf/dev/dia69_utt2.flac,meld,meld_Tag,unknown,neutral,neutral,0,"Thanks for having me over, you guys.",1.387,16000,69,2,dev
+meld_dev_dia69_utt3,data/raw/MELD_hf/dev/dia69_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,Tag?,2.773,16000,69,3,dev
+meld_dev_dia69_utt4,data/raw/MELD_hf/dev/dia69_utt4.flac,meld,meld_Ross,unknown,joy,joy,1,Y-You're going?,4.139,16000,69,4,dev
+meld_dev_dia69_utt5,data/raw/MELD_hf/dev/dia69_utt5.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Uh we didn't, uh we didn't get the chance to talk.",2.432,16000,69,5,dev
+meld_dev_dia69_utt6,data/raw/MELD_hf/dev/dia69_utt6.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Uh, so, where did you say you're from again?",2.389,16000,69,6,dev
+meld_dev_dia69_utt7,data/raw/MELD_hf/dev/dia69_utt7.flac,meld,meld_Tag,unknown,neutral,neutral,0,Colorado.,0.811,16000,69,7,dev
+meld_dev_dia69_utt8,data/raw/MELD_hf/dev/dia69_utt8.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Ah, what good are you.",1.685,16000,69,8,dev
+meld_dev_dia69_utt9,data/raw/MELD_hf/dev/dia69_utt9.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Look, um, I think we should talk about what happened on the terrace.",3.883,16000,69,9,dev
+meld_dev_dia69_utt10,data/raw/MELD_hf/dev/dia69_utt10.flac,meld,meld_Tag,unknown,neutral,neutral,0,Okay.,1.387,16000,69,10,dev
+meld_dev_dia69_utt11,data/raw/MELD_hf/dev/dia69_utt11.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Ah, I-I never should have said what I said.",1.771,16000,69,11,dev
+meld_dev_dia69_utt12,data/raw/MELD_hf/dev/dia69_utt12.flac,meld,meld_Rachel,unknown,neutral,neutral,0,It-y'know what?,0.747,16000,69,12,dev
+meld_dev_dia69_utt13,data/raw/MELD_hf/dev/dia69_utt13.flac,meld,meld_Rachel,unknown,sadness,sadness,2,It just doesn't matter how I feel.,1.323,16000,69,13,dev
+meld_dev_dia69_utt14,data/raw/MELD_hf/dev/dia69_utt14.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",14.933,16000,69,14,dev
+meld_dev_dia69_utt15,data/raw/MELD_hf/dev/dia69_utt15.flac,meld,meld_Tag,unknown,neutral,neutral,0,"Um, I'm not.",2.176,16000,69,15,dev
+meld_dev_dia69_utt16,data/raw/MELD_hf/dev/dia69_utt16.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Oh, god, I knew it, that I freaked you out.",3.349,16000,69,16,dev
+meld_dev_dia69_utt17,data/raw/MELD_hf/dev/dia69_utt17.flac,meld,meld_Tag,unknown,sadness,sadness,2,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",6.464,16000,69,17,dev
+meld_dev_dia69_utt18,data/raw/MELD_hf/dev/dia69_utt18.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Really?,1.28,16000,69,18,dev
+meld_dev_dia69_utt19,data/raw/MELD_hf/dev/dia69_utt19.flac,meld,meld_Tag,unknown,sadness,sadness,2,"Yeah, so, please don't fire me for doing this.",4.416,16000,69,19,dev
+meld_dev_dia70_utt0,data/raw/MELD_hf/dev/dia70_utt0.flac,meld,meld_Ross,unknown,anger,anger,3,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",6.635,16000,70,0,dev
+meld_dev_dia70_utt1,data/raw/MELD_hf/dev/dia70_utt1.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",3.648,16000,70,1,dev
+meld_dev_dia70_utt2,data/raw/MELD_hf/dev/dia70_utt2.flac,meld,meld_Ross,unknown,joy,joy,1,Pass it! Pass it!,2.304,16000,70,2,dev
+meld_dev_dia70_utt3,data/raw/MELD_hf/dev/dia70_utt3.flac,meld,meld_Chandler,unknown,joy,joy,1,He's open!,0.491,16000,70,3,dev
+meld_dev_dia70_utt4,data/raw/MELD_hf/dev/dia70_utt4.flac,meld,meld_All,unknown,joy,joy,1,Shoot! Shoot! Shoot!,3.392,16000,70,4,dev
+meld_dev_dia70_utt5,data/raw/MELD_hf/dev/dia70_utt5.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"Hey, look, we're on that TV thing!",3.349,16000,70,5,dev
+meld_dev_dia71_utt0,data/raw/MELD_hf/dev/dia71_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,I am so psyched I kept this chair for myself!,3.712,16000,71,0,dev
+meld_dev_dia71_utt1,data/raw/MELD_hf/dev/dia71_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Yeah, me too.",2.091,16000,71,1,dev
+meld_dev_dia71_utt2,data/raw/MELD_hf/dev/dia71_utt2.flac,meld,meld_Rachel,unknown,surprise,surprise,4,"Yeah? Wow! Y'know, that this thing has speakers in the headrest!",3.52,16000,71,2,dev
+meld_dev_dia71_utt3,data/raw/MELD_hf/dev/dia71_utt3.flac,meld,meld_Joey,unknown,surprise,surprise,4,No. Really?,1.429,16000,71,3,dev
+meld_dev_dia71_utt4,data/raw/MELD_hf/dev/dia71_utt4.flac,meld,meld_Rachel,unknown,joy,joy,1,Yeah! You can hook it up to your TV,2.517,16000,71,4,dev
+meld_dev_dia71_utt5,data/raw/MELD_hf/dev/dia71_utt5.flac,meld,meld_Joey,unknown,neutral,neutral,0,My chair heals itself.,2.176,16000,71,5,dev
+meld_dev_dia72_utt0,data/raw/MELD_hf/dev/dia72_utt0.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Tiger! Dragon! Iceberg!! Joseph, did you even study at all last night?",7.851,16000,72,0,dev
+meld_dev_dia72_utt1,data/raw/MELD_hf/dev/dia72_utt1.flac,meld,meld_Joey,unknown,sadness,sadness,2,"Yes! Yes, I did.",1.6,16000,72,1,dev
+meld_dev_dia72_utt2,data/raw/MELD_hf/dev/dia72_utt2.flac,meld,meld_Phoebe,unknown,anger,anger,3,Then do Iceberg!,1.173,16000,72,2,dev
+meld_dev_dia72_utt3,data/raw/MELD_hf/dev/dia72_utt3.flac,meld,meld_Joey,unknown,neutral,neutral,0,G-sharp.,0.747,16000,72,3,dev
+meld_dev_dia72_utt4,data/raw/MELD_hf/dev/dia72_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,G,2.155,16000,72,4,dev
+meld_dev_dia72_utt5,data/raw/MELD_hf/dev/dia72_utt5.flac,meld,meld_Joey,unknown,surprise,surprise,4,What?! I didn't touch a guitar!,2.091,16000,72,5,dev
+meld_dev_dia72_utt6,data/raw/MELD_hf/dev/dia72_utt6.flac,meld,meld_Phoebe,unknown,anger,anger,3,"No, but you're questioning my method!",2.176,16000,72,6,dev
+meld_dev_dia72_utt7,data/raw/MELD_hf/dev/dia72_utt7.flac,meld,meld_Joey,unknown,anger,anger,3,"No, I'm not questioning it, I'm saying it's stupid! What?!",5.44,16000,72,7,dev
+meld_dev_dia72_utt8,data/raw/MELD_hf/dev/dia72_utt8.flac,meld,meld_Monica,unknown,neutral,neutral,0,Thank you.,1.472,16000,72,8,dev
+meld_dev_dia72_utt9,data/raw/MELD_hf/dev/dia72_utt9.flac,meld,meld_Phoebe,unknown,anger,anger,3,Y'know none of my other student thought I was stupid.,5.056,16000,72,9,dev
+meld_dev_dia72_utt10,data/raw/MELD_hf/dev/dia72_utt10.flac,meld,meld_Joey,unknown,anger,anger,3,"Your other student, was you!",2.965,16000,72,10,dev
+meld_dev_dia72_utt11,data/raw/MELD_hf/dev/dia72_utt11.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Yeah, well, y'know maybe you just need to try a little harder!",4.011,16000,72,11,dev
+meld_dev_dia72_utt12,data/raw/MELD_hf/dev/dia72_utt12.flac,meld,meld_Joey,unknown,anger,anger,3,"Look, maybe I need to try a real teacher!",1.771,16000,72,12,dev
+meld_dev_dia72_utt13,data/raw/MELD_hf/dev/dia72_utt13.flac,meld,meld_Joey,unknown,anger,anger,3,Right here!,0.725,16000,72,13,dev
+meld_dev_dia72_utt14,data/raw/MELD_hf/dev/dia72_utt14.flac,meld,meld_Joey,unknown,anger,anger,3,Here!,2.176,16000,72,14,dev
+meld_dev_dia72_utt15,data/raw/MELD_hf/dev/dia72_utt15.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",5.355,16000,72,15,dev
+meld_dev_dia72_utt16,data/raw/MELD_hf/dev/dia72_utt16.flac,meld,meld_Phoebe,unknown,anger,anger,3,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,9.643,16000,72,16,dev
+meld_dev_dia72_utt17,data/raw/MELD_hf/dev/dia72_utt17.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"""Baddest man in the whole damn town.""",2.389,16000,72,17,dev
+meld_dev_dia72_utt18,data/raw/MELD_hf/dev/dia72_utt18.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Oh, fine! Take his side!",2.475,16000,72,18,dev
+meld_dev_dia73_utt0,data/raw/MELD_hf/dev/dia73_utt0.flac,meld,meld_Ross,unknown,anger,anger,3,"And shame on you! You should know better, Joey needs to work. Now come on!",5.803,16000,73,0,dev
+meld_dev_dia73_utt1,data/raw/MELD_hf/dev/dia73_utt1.flac,meld,meld_Joey,unknown,anger,anger,3,Hey!,1.003,16000,73,1,dev
+meld_dev_dia73_utt2,data/raw/MELD_hf/dev/dia73_utt2.flac,meld,meld_Ross,unknown,anger,anger,3,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done! Ahh!,4.352,16000,73,2,dev
+meld_dev_dia74_utt0,data/raw/MELD_hf/dev/dia74_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,Hi!,0.661,16000,74,0,dev
+meld_dev_dia74_utt1,data/raw/MELD_hf/dev/dia74_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,Hi.,0.789,16000,74,1,dev
+meld_dev_dia74_utt2,data/raw/MELD_hf/dev/dia74_utt2.flac,meld,meld_Rachel,unknown,joy,joy,1,"Hi. Umm, I think there's something that we really need to talk about.",5.483,16000,74,2,dev
+meld_dev_dia74_utt3,data/raw/MELD_hf/dev/dia74_utt3.flac,meld,meld_Ross,unknown,sadness,sadness,2,"I think we do. Why don't we go inside? Look uh, I know why you're here.",14.571,16000,74,3,dev
+meld_dev_dia74_utt4,data/raw/MELD_hf/dev/dia74_utt4.flac,meld,meld_Rachel,unknown,surprise,surprise,4,You do?,1.003,16000,74,4,dev
+meld_dev_dia74_utt5,data/raw/MELD_hf/dev/dia74_utt5.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",6.059,16000,74,5,dev
+meld_dev_dia74_utt6,data/raw/MELD_hf/dev/dia74_utt6.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Okay.,1.835,16000,74,6,dev
+meld_dev_dia74_utt7,data/raw/MELD_hf/dev/dia74_utt7.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Okay. Uh, Ross and Rachel. Rachel and Ross. That's been one heck of a see-saw hasn't it?",20.992,16000,74,7,dev
+meld_dev_dia74_utt8,data/raw/MELD_hf/dev/dia74_utt8.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What?,1.259,16000,74,8,dev
+meld_dev_dia74_utt9,data/raw/MELD_hf/dev/dia74_utt9.flac,meld,meld_Ross,unknown,sadness,sadness,2,"I mean look, that-that one night we had was fun and...and certainly passionate, but don't you think it's better if we just stayed friends?",10.176,16000,74,9,dev
+meld_dev_dia74_utt10,data/raw/MELD_hf/dev/dia74_utt10.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Seriously. What?!,1.92,16000,74,10,dev
+meld_dev_dia74_utt11,data/raw/MELD_hf/dev/dia74_utt11.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay.,0.875,16000,74,11,dev
+meld_dev_dia74_utt12,data/raw/MELD_hf/dev/dia74_utt12.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay.,0.96,16000,74,12,dev
+meld_dev_dia74_utt13,data/raw/MELD_hf/dev/dia74_utt13.flac,meld,meld_Ross,unknown,neutral,neutral,0,Y'know what?,1.6,16000,74,13,dev
+meld_dev_dia74_utt14,data/raw/MELD_hf/dev/dia74_utt14.flac,meld,meld_Ross,unknown,neutral,neutral,0,"If you want to, we can do it one more time.",3.925,16000,74,14,dev
+meld_dev_dia74_utt15,data/raw/MELD_hf/dev/dia74_utt15.flac,meld,meld_Ross,unknown,neutral,neutral,0,I mean I'd-I'd be okay with that.,1.92,16000,74,15,dev
+meld_dev_dia74_utt16,data/raw/MELD_hf/dev/dia74_utt16.flac,meld,meld_Ross,unknown,neutral,neutral,0,"In fact, I have some time right now.",3.733,16000,74,16,dev
+meld_dev_dia74_utt17,data/raw/MELD_hf/dev/dia74_utt17.flac,meld,meld_Rachel,unknown,joy,joy,1,"Okay, y'know what? Can I, can I talk now?",2.027,16000,74,17,dev
+meld_dev_dia74_utt18,data/raw/MELD_hf/dev/dia74_utt18.flac,meld,meld_Ross,unknown,neutral,neutral,0,Oh sure.,2.048,16000,74,18,dev
+meld_dev_dia74_utt19,data/raw/MELD_hf/dev/dia74_utt19.flac,meld,meld_Rachel,unknown,anger,anger,3,"I'm pregnant. Ross? Ross? Okay, whenever you're ready. And you're the father by the way-but you got that",28.544,16000,74,19,dev
+meld_dev_dia75_utt0,data/raw/MELD_hf/dev/dia75_utt0.flac,meld,meld_Rachel,unknown,neutral,neutral,0,We should defiantly play football more often. Maybe there's a like league we could join or something.,8.064,16000,75,0,dev
+meld_dev_dia76_utt0,data/raw/MELD_hf/dev/dia76_utt0.flac,meld,meld_Chandler,unknown,joy,joy,1,I know!,1.557,16000,76,0,dev
+meld_dev_dia76_utt1,data/raw/MELD_hf/dev/dia76_utt1.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Yes! Wow, well, that-that was easy. Okay, you-you go.",4.971,16000,76,1,dev
+meld_dev_dia76_utt2,data/raw/MELD_hf/dev/dia76_utt2.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Okay.,0.747,16000,76,2,dev
+meld_dev_dia76_utt3,data/raw/MELD_hf/dev/dia76_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay.,0.363,16000,76,3,dev
+meld_dev_dia76_utt4,data/raw/MELD_hf/dev/dia76_utt4.flac,meld,meld_Chandler,unknown,joy,joy,1,"Okay, you know, you know when your in bed, with a woman.",2.965,16000,76,4,dev
+meld_dev_dia76_utt5,data/raw/MELD_hf/dev/dia76_utt5.flac,meld,meld_Ross,unknown,neutral,neutral,0,Hmph.,1.088,16000,76,5,dev
+meld_dev_dia76_utt6,data/raw/MELD_hf/dev/dia76_utt6.flac,meld,meld_Chandler,unknown,joy,joy,1,"And, ah, you know, your fooling around with her.",3.349,16000,76,6,dev
+meld_dev_dia76_utt7,data/raw/MELD_hf/dev/dia76_utt7.flac,meld,meld_Chandler,unknown,joy,joy,1,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",6.272,16000,76,7,dev
+meld_dev_dia76_utt8,data/raw/MELD_hf/dev/dia76_utt8.flac,meld,meld_Ross,unknown,joy,joy,1,"With the belly-button ring? Oh, muhawa!",2.731,16000,76,8,dev
+meld_dev_dia76_utt9,data/raw/MELD_hf/dev/dia76_utt9.flac,meld,meld_Chandler,unknown,anger,anger,3,"I know, And then all of the sudden your Mom pops into your head.",2.603,16000,76,9,dev
+meld_dev_dia76_utt10,data/raw/MELD_hf/dev/dia76_utt10.flac,meld,meld_Chandler,unknown,anger,anger,3,"And your like 'Mom, get outta here!'",3.691,16000,76,10,dev
+meld_dev_dia76_utt11,data/raw/MELD_hf/dev/dia76_utt11.flac,meld,meld_Chandler,unknown,anger,anger,3,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",8.107,16000,76,11,dev
+meld_dev_dia76_utt12,data/raw/MELD_hf/dev/dia76_utt12.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"So it's kinda like, you're, you know.",8.107,16000,76,12,dev
+meld_dev_dia76_utt13,data/raw/MELD_hf/dev/dia76_utt13.flac,meld,meld_Chandler,unknown,surprise,surprise,4,You know.... You don't know!,4.608,16000,76,13,dev
+meld_dev_dia76_utt14,data/raw/MELD_hf/dev/dia76_utt14.flac,meld,meld_Ross,unknown,disgust,disgust,6,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",5.632,16000,76,14,dev
+meld_dev_dia76_utt15,data/raw/MELD_hf/dev/dia76_utt15.flac,meld,meld_Chandler,unknown,neutral,neutral,0,You said...,1.749,16000,76,15,dev
+meld_dev_dia76_utt16,data/raw/MELD_hf/dev/dia76_utt16.flac,meld,meld_Ross,unknown,neutral,neutral,0,I said ',1.323,16000,76,16,dev
+meld_dev_dia77_utt0,data/raw/MELD_hf/dev/dia77_utt0.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Oh!,1.003,16000,77,0,dev
+meld_dev_dia77_utt1,data/raw/MELD_hf/dev/dia77_utt1.flac,meld,meld_Ross,unknown,surprise,surprise,4,Look at Emma!,3.52,16000,77,1,dev
+meld_dev_dia77_utt2,data/raw/MELD_hf/dev/dia77_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"I just can't decide who she looks more alike, you or Rachel?",4.928,16000,77,2,dev
+meld_dev_dia77_utt3,data/raw/MELD_hf/dev/dia77_utt3.flac,meld,meld_Ross,unknown,joy,joy,1,"Oh what are you kidding? She's gorgeous, it's all Rachel.",3.755,16000,77,3,dev
+meld_dev_dia77_utt4,data/raw/MELD_hf/dev/dia77_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"I'm sorry, for the last time, why aren't you two together again?",4.608,16000,77,4,dev
+meld_dev_dia77_utt5,data/raw/MELD_hf/dev/dia77_utt5.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"No, I know.",0.597,16000,77,5,dev
+meld_dev_dia77_utt6,data/raw/MELD_hf/dev/dia77_utt6.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"I know, because you're not in that place.",2.603,16000,77,6,dev
+meld_dev_dia77_utt7,data/raw/MELD_hf/dev/dia77_utt7.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Which would be fine, except you totally are.",3.136,16000,77,7,dev
+meld_dev_dia77_utt8,data/raw/MELD_hf/dev/dia77_utt8.flac,meld,meld_Ross,unknown,sadness,sadness,2,It's...it's complicated okay?,3.349,16000,77,8,dev
+meld_dev_dia77_utt9,data/raw/MELD_hf/dev/dia77_utt9.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Yeah that's true. Yeah, you love her. You always have. You have a child together. There is no right answer.",6.805,16000,77,9,dev
+meld_dev_dia77_utt10,data/raw/MELD_hf/dev/dia77_utt10.flac,meld,meld_Ross,unknown,sadness,sadness,2,"Look, we've been together.",1.173,16000,77,10,dev
+meld_dev_dia77_utt11,data/raw/MELD_hf/dev/dia77_utt11.flac,meld,meld_Ross,unknown,neutral,neutral,0,Okay?,1.621,16000,77,11,dev
+meld_dev_dia77_utt12,data/raw/MELD_hf/dev/dia77_utt12.flac,meld,meld_Ross,unknown,sadness,sadness,2,"And then apart, and then together, and then apart, and now we have a baby.",4.565,16000,77,12,dev
+meld_dev_dia77_utt13,data/raw/MELD_hf/dev/dia77_utt13.flac,meld,meld_Ross,unknown,sadness,sadness,2,It's just if-if we got together again and it didn't work out...I could never do that to Emma.,8.981,16000,77,13,dev
+meld_dev_dia77_utt14,data/raw/MELD_hf/dev/dia77_utt14.flac,meld,meld_Ross,unknown,sadness,sadness,2,I mean she-she thinking everything- Oh that's...now me.,5.483,16000,77,14,dev
+meld_dev_dia77_utt15,data/raw/MELD_hf/dev/dia77_utt15.flac,meld,meld_Ross,unknown,neutral,neutral,0,What do they put something in the water in this place?,3.648,16000,77,15,dev
+meld_dev_dia77_utt16,data/raw/MELD_hf/dev/dia77_utt16.flac,meld,meld_Ross,unknown,sadness,sadness,2,"Since Rachel and I we're doing really, we're doing really well right now.",3.605,16000,77,16,dev
+meld_dev_dia77_utt17,data/raw/MELD_hf/dev/dia77_utt17.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",4.053,16000,77,17,dev
+meld_dev_dia77_utt18,data/raw/MELD_hf/dev/dia77_utt18.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Yeah, exactly.",2.219,16000,77,18,dev
+meld_dev_dia77_utt19,data/raw/MELD_hf/dev/dia77_utt19.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Right. Or you might get everything you've wanted since you were fifteen.,3.883,16000,77,19,dev
+meld_dev_dia78_utt0,data/raw/MELD_hf/dev/dia78_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,God. I forgot how much I love driving. I have,2.965,16000,78,0,dev
+meld_dev_dia78_utt1,data/raw/MELD_hf/dev/dia78_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,You don't have a,3.968,16000,78,1,dev
+meld_dev_dia78_utt2,data/raw/MELD_hf/dev/dia78_utt2.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Oh Ross you're so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",8.341,16000,78,2,dev
+meld_dev_dia78_utt3,data/raw/MELD_hf/dev/dia78_utt3.flac,meld,meld_Ross,unknown,anger,anger,3,What-what are you doing?! Are you-Okay that's not funny! Just stop horsing around!,3.84,16000,78,3,dev
+meld_dev_dia78_utt4,data/raw/MELD_hf/dev/dia78_utt4.flac,meld,meld_Rachel,unknown,joy,joy,1,"I am not horsing around, okay? I am Porsching around.",2.261,16000,78,4,dev
+meld_dev_dia78_utt5,data/raw/MELD_hf/dev/dia78_utt5.flac,meld,meld_Rachel,unknown,fear,fear,5,Uh-oh.,2.048,16000,78,5,dev
+meld_dev_dia78_utt6,data/raw/MELD_hf/dev/dia78_utt6.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",5.141,16000,78,6,dev
+meld_dev_dia78_utt7,data/raw/MELD_hf/dev/dia78_utt7.flac,meld,meld_Rachel,unknown,fear,fear,5,Really? You think so?,1.429,16000,78,7,dev
+meld_dev_dia78_utt8,data/raw/MELD_hf/dev/dia78_utt8.flac,meld,meld_Ross,unknown,anger,anger,3,I was talking to myself! You're going down!,2.795,16000,78,8,dev
+meld_dev_dia79_utt0,data/raw/MELD_hf/dev/dia79_utt0.flac,meld,meld_Monica,unknown,joy,joy,1,Hey honey! I missed you today!,2.389,16000,79,0,dev
+meld_dev_dia79_utt1,data/raw/MELD_hf/dev/dia79_utt1.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"Oh, yeah?",2.517,16000,79,1,dev
+meld_dev_dia79_utt2,data/raw/MELD_hf/dev/dia79_utt2.flac,meld,meld_Monica,unknown,neutral,neutral,0,Yeah. What d'you wanna do tonight?,1.195,16000,79,2,dev
+meld_dev_dia79_utt3,data/raw/MELD_hf/dev/dia79_utt3.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Oh, well... Maybe we could...",3.669,16000,79,3,dev
+meld_dev_dia79_utt4,data/raw/MELD_hf/dev/dia79_utt4.flac,meld,meld_Monica,unknown,joy,joy,1,"Ok, trying to turn me on by making a mess?",3.52,16000,79,4,dev
+meld_dev_dia79_utt5,data/raw/MELD_hf/dev/dia79_utt5.flac,meld,meld_Monica,unknown,joy,joy,1,Know your audience!,1.6,16000,79,5,dev
+meld_dev_dia79_utt6,data/raw/MELD_hf/dev/dia79_utt6.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Besides, tomorrow we're doing those fertility tests and until then you need to keep your tadpoles in the tank.",6.464,16000,79,6,dev
+meld_dev_dia79_utt7,data/raw/MELD_hf/dev/dia79_utt7.flac,meld,meld_Chandler,unknown,sadness,sadness,2,We really need to take those tests?,2.133,16000,79,7,dev
+meld_dev_dia79_utt8,data/raw/MELD_hf/dev/dia79_utt8.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Honey, we've been trying to have a baby for over a year.",2.091,16000,79,8,dev
+meld_dev_dia79_utt9,data/raw/MELD_hf/dev/dia79_utt9.flac,meld,meld_Monica,unknown,neutral,neutral,0,I think it's a good idea to find out if everything's ok. Just a few routine tests.,7.147,16000,79,9,dev
+meld_dev_dia79_utt10,data/raw/MELD_hf/dev/dia79_utt10.flac,meld,meld_Chandler,unknown,sadness,sadness,2,But I don't wanna do it in a cup!,4.053,16000,79,10,dev
+meld_dev_dia80_utt0,data/raw/MELD_hf/dev/dia80_utt0.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Oh, hi Max! Hey, do you know everybody?",2.176,16000,80,0,dev
+meld_dev_dia80_utt1,data/raw/MELD_hf/dev/dia80_utt1.flac,meld,meld_Max,unknown,neutral,neutral,0,No. Have you seen David?,1.877,16000,80,1,dev
+meld_dev_dia80_utt2,data/raw/MELD_hf/dev/dia80_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"No, no, he hasn't been around.",1.301,16000,80,2,dev
+meld_dev_dia80_utt3,data/raw/MELD_hf/dev/dia80_utt3.flac,meld,meld_Max,unknown,neutral,neutral,0,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",3.605,16000,80,3,dev
+meld_dev_dia80_utt4,data/raw/MELD_hf/dev/dia80_utt4.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Minsk?,0.576,16000,80,4,dev
+meld_dev_dia80_utt5,data/raw/MELD_hf/dev/dia80_utt5.flac,meld,meld_Max,unknown,neutral,neutral,0,Minsk. It's in Russia.,2.133,16000,80,5,dev
+meld_dev_dia80_utt6,data/raw/MELD_hf/dev/dia80_utt6.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I know where Minsk is.,1.963,16000,80,6,dev
+meld_dev_dia80_utt7,data/raw/MELD_hf/dev/dia80_utt7.flac,meld,meld_Max,unknown,joy,joy,1,"We got the grant. Three years, all expenses paid.",5.141,16000,80,7,dev
+meld_dev_dia80_utt8,data/raw/MELD_hf/dev/dia80_utt8.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"So when, when do you leave?",1.259,16000,80,8,dev
+meld_dev_dia80_utt9,data/raw/MELD_hf/dev/dia80_utt9.flac,meld,meld_Max,unknown,neutral,neutral,0,January first,1.685,16000,80,9,dev
+meld_dev_dia81_utt0,data/raw/MELD_hf/dev/dia81_utt0.flac,meld,meld_Elizabeth,unknown,joy,joy,1,You wanted to see me Professor Geller?,1.557,16000,81,0,dev
+meld_dev_dia81_utt1,data/raw/MELD_hf/dev/dia81_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Yes. Yes! Please, come in.",2.773,16000,81,1,dev
+meld_dev_dia81_utt2,data/raw/MELD_hf/dev/dia81_utt2.flac,meld,meld_Ross,unknown,joy,joy,1,Oo-oo!,1.216,16000,81,2,dev
+meld_dev_dia82_utt0,data/raw/MELD_hf/dev/dia82_utt0.flac,meld,meld_Joey,unknown,joy,joy,1,Pretty great! Except I did get a little attitude from the robot.,3.648,16000,82,0,dev
+meld_dev_dia82_utt1,data/raw/MELD_hf/dev/dia82_utt1.flac,meld,meld_Chandler,unknown,anger,anger,3,"Damn those robots, they're supposed to be our",3.349,16000,82,1,dev
+meld_dev_dia82_utt2,data/raw/MELD_hf/dev/dia82_utt2.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Anyway, it wasn't the robot, it was the guy who controls him.",2.517,16000,82,2,dev
+meld_dev_dia82_utt3,data/raw/MELD_hf/dev/dia82_utt3.flac,meld,meld_Joey,unknown,anger,anger,3,"Yeah, he doesn't like me.",3.157,16000,82,3,dev
+meld_dev_dia82_utt4,data/raw/MELD_hf/dev/dia82_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,He had C.H.E.E.S.E.,0.213,16000,82,4,dev
+meld_dev_dia82_utt5,data/raw/MELD_hf/dev/dia82_utt5.flac,meld,meld_Joey,unknown,anger,anger,3,knock over the sandwich right when I was reaching for one!,4.544,16000,82,5,dev
+meld_dev_dia82_utt6,data/raw/MELD_hf/dev/dia82_utt6.flac,meld,meld_Joey,unknown,surprise,surprise,4,Ohh!,1.003,16000,82,6,dev
+meld_dev_dia82_utt7,data/raw/MELD_hf/dev/dia82_utt7.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Well, why don't you just get him fired?",1.685,16000,82,7,dev
+meld_dev_dia82_utt8,data/raw/MELD_hf/dev/dia82_utt8.flac,meld,meld_Joey,unknown,anger,anger,3,"I may have to, I hate to do it, but I'm the star!",2.923,16000,82,8,dev
+meld_dev_dia82_utt9,data/raw/MELD_hf/dev/dia82_utt9.flac,meld,meld_Joey,unknown,neutral,neutral,0,Y'know?,0.789,16000,82,9,dev
+meld_dev_dia82_utt10,data/raw/MELD_hf/dev/dia82_utt10.flac,meld,meld_Joey,unknown,neutral,neutral,0,There's a limit to how many sandwiches I can eat off the floor.,3.307,16000,82,10,dev
+meld_dev_dia82_utt11,data/raw/MELD_hf/dev/dia82_utt11.flac,meld,meld_Joey,unknown,neutral,neutral,0,Excuse me.,2.304,16000,82,11,dev
+meld_dev_dia82_utt12,data/raw/MELD_hf/dev/dia82_utt12.flac,meld,meld_Joey,unknown,neutral,neutral,0,Joey Tribbiani.,2.304,16000,82,12,dev
+meld_dev_dia82_utt13,data/raw/MELD_hf/dev/dia82_utt13.flac,meld,meld_Estelle,unknown,joy,joy,1,"Joe! I'm glad I found ya, I got an audition for ya!",3.712,16000,82,13,dev
+meld_dev_dia82_utt14,data/raw/MELD_hf/dev/dia82_utt14.flac,meld,meld_Joey,unknown,surprise,surprise,4,Wow!,0.704,16000,82,14,dev
+meld_dev_dia82_utt15,data/raw/MELD_hf/dev/dia82_utt15.flac,meld,meld_Estelle,unknown,neutral,neutral,0,The thing is it's kinda on the Q.T.,2.325,16000,82,15,dev
+meld_dev_dia82_utt16,data/raw/MELD_hf/dev/dia82_utt16.flac,meld,meld_Estelle,unknown,neutral,neutral,0,The actor who has the part doesn't know he might be fired.,3.925,16000,82,16,dev
+meld_dev_dia82_utt17,data/raw/MELD_hf/dev/dia82_utt17.flac,meld,meld_Estelle,unknown,neutral,neutral,0,"It's the lead in a series, Mac and C.H.E.E.S.E.",3.947,16000,82,17,dev
+meld_dev_dia82_utt18,data/raw/MELD_hf/dev/dia82_utt18.flac,meld,meld_Joey,unknown,anger,anger,3,I'm the lead in Mac and C.H.E.E.S.E.!!,1.771,16000,82,18,dev
+meld_dev_dia83_utt0,data/raw/MELD_hf/dev/dia83_utt0.flac,meld,meld_Monica,unknown,anger,anger,3,Oh good God! If you want a baby so bad just go steal it!,3.52,16000,83,0,dev
+meld_dev_dia83_utt1,data/raw/MELD_hf/dev/dia83_utt1.flac,meld,meld_Monica,unknown,surprise,surprise,4,What is going on with you? Since when are you so crazy about babies?,3.307,16000,83,1,dev
+meld_dev_dia83_utt2,data/raw/MELD_hf/dev/dia83_utt2.flac,meld,meld_Chandler,unknown,joy,joy,1,I'm not crazy about babies. I'm crazy about us.,4.352,16000,83,2,dev
+meld_dev_dia83_utt3,data/raw/MELD_hf/dev/dia83_utt3.flac,meld,meld_Monica,unknown,surprise,surprise,4,What?,1.045,16000,83,3,dev
+meld_dev_dia83_utt4,data/raw/MELD_hf/dev/dia83_utt4.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Look, we've always talked about having babies someday.",3.755,16000,83,4,dev
+meld_dev_dia83_utt5,data/raw/MELD_hf/dev/dia83_utt5.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"I'm not saying it has to be right now, but I'm starting to think that we can handle it.",5.227,16000,83,5,dev
+meld_dev_dia83_utt6,data/raw/MELD_hf/dev/dia83_utt6.flac,meld,meld_Chandler,unknown,neutral,neutral,0,We're good.,1.003,16000,83,6,dev
+meld_dev_dia83_utt7,data/raw/MELD_hf/dev/dia83_utt7.flac,meld,meld_Chandler,unknown,joy,joy,1,We're really good.,2.688,16000,83,7,dev
+meld_dev_dia84_utt0,data/raw/MELD_hf/dev/dia84_utt0.flac,meld,meld_Monica,unknown,surprise,surprise,4,"Oh, did you catch him?!",2.261,16000,84,0,dev
+meld_dev_dia84_utt1,data/raw/MELD_hf/dev/dia84_utt1.flac,meld,meld_Ross,unknown,surprise,surprise,4,Wh-what did he say?!,2.261,16000,84,1,dev
+meld_dev_dia84_utt2,data/raw/MELD_hf/dev/dia84_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"He said, ""Nice to meet you Glenda."" Well, obviously I couldn't give him my real name?",6.592,16000,84,2,dev
+meld_dev_dia84_utt3,data/raw/MELD_hf/dev/dia84_utt3.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Why?! Why not?!,1.088,16000,84,3,dev
+meld_dev_dia84_utt4,data/raw/MELD_hf/dev/dia84_utt4.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Come on, you saw the way he ran out of here!",1.472,16000,84,4,dev
+meld_dev_dia84_utt5,data/raw/MELD_hf/dev/dia84_utt5.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,He's gonna stick around and talk to the daughter he abandoned!,2.795,16000,84,5,dev
+meld_dev_dia84_utt6,data/raw/MELD_hf/dev/dia84_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,What did you say to him?,1.728,16000,84,6,dev
+meld_dev_dia84_utt7,data/raw/MELD_hf/dev/dia84_utt7.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",7.317,16000,84,7,dev
+meld_dev_dia85_utt0,data/raw/MELD_hf/dev/dia85_utt0.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Oh yeah, sure.",1.835,16000,85,0,dev
+meld_dev_dia85_utt1,data/raw/MELD_hf/dev/dia85_utt1.flac,meld,meld_Rachel,unknown,joy,joy,1,"Okay, in about ten seconds you're gonna see him kiss me.",2.603,16000,85,1,dev
+meld_dev_dia85_utt2,data/raw/MELD_hf/dev/dia85_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,And in about five seconds you're gonna see why.,4.139,16000,85,2,dev
+meld_dev_dia85_utt3,data/raw/MELD_hf/dev/dia85_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Ross did I ever tell you about the time that I went backpacking through Western Europe?,5.973,16000,85,3,dev
+meld_dev_dia85_utt4,data/raw/MELD_hf/dev/dia85_utt4.flac,meld,meld_Rachel,unknown,joy,joy,1,"Okay, get ready to see some beggin'!",3.008,16000,85,4,dev
+meld_dev_dia85_utt5,data/raw/MELD_hf/dev/dia85_utt5.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Oh, you came on to Ross!",2.517,16000,85,5,dev
+meld_dev_dia85_utt6,data/raw/MELD_hf/dev/dia85_utt6.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What?!,2.069,16000,85,6,dev
+meld_dev_dia85_utt7,data/raw/MELD_hf/dev/dia85_utt7.flac,meld,meld_Ross,unknown,joy,joy,1,Now I'm so happy.,1.173,16000,85,7,dev
+meld_dev_dia85_utt8,data/raw/MELD_hf/dev/dia85_utt8.flac,meld,meld_Rachel,unknown,surprise,surprise,4,What are you talking about?!,1.621,16000,85,8,dev
+meld_dev_dia85_utt9,data/raw/MELD_hf/dev/dia85_utt9.flac,meld,meld_Monica,unknown,joy,joy,1,You used the Europe story!,1.877,16000,85,9,dev
+meld_dev_dia85_utt10,data/raw/MELD_hf/dev/dia85_utt10.flac,meld,meld_Chandler,unknown,anger,anger,3,That's the magic story you use when you wanna have sex!,3.477,16000,85,10,dev
+meld_dev_dia85_utt11,data/raw/MELD_hf/dev/dia85_utt11.flac,meld,meld_Rachel,unknown,surprise,surprise,4,How do you know about that story?!,4.309,16000,85,11,dev
+meld_dev_dia85_utt12,data/raw/MELD_hf/dev/dia85_utt12.flac,meld,meld_Joey,unknown,neutral,neutral,0,How do,1.109,16000,85,12,dev
+meld_dev_dia85_utt13,data/raw/MELD_hf/dev/dia85_utt13.flac,meld,meld_Rachel,unknown,neutral,neutral,0,I heard it from my friend Irene who heard it from some guy!,3.392,16000,85,13,dev
+meld_dev_dia85_utt14,data/raw/MELD_hf/dev/dia85_utt14.flac,meld,meld_Joey,unknown,surprise,surprise,4,Some guy!!,2.261,16000,85,14,dev
+meld_dev_dia85_utt15,data/raw/MELD_hf/dev/dia85_utt15.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"No. No, she told me his name was Ken Adams.",2.688,16000,85,15,dev
+meld_dev_dia85_utt16,data/raw/MELD_hf/dev/dia85_utt16.flac,meld,meld_Joey,unknown,surprise,surprise,4,Ken Adams!!,1.429,16000,85,16,dev
+meld_dev_dia86_utt0,data/raw/MELD_hf/dev/dia86_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,"How we doing, you guys ready?",1.557,16000,86,0,dev
+meld_dev_dia86_utt1,data/raw/MELD_hf/dev/dia86_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,5.355,16000,86,1,dev
+meld_dev_dia86_utt2,data/raw/MELD_hf/dev/dia86_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,Some days it's all I can think about.,2.261,16000,86,2,dev
+meld_dev_dia86_utt3,data/raw/MELD_hf/dev/dia86_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Hi, sorry I'm late, I couldn't find my bearings.",3.008,16000,86,3,dev
+meld_dev_dia87_utt0,data/raw/MELD_hf/dev/dia87_utt0.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Oh... ok, fine.",0.64,16000,87,0,dev
+meld_dev_dia87_utt1,data/raw/MELD_hf/dev/dia87_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,But... ehm...,1.323,16000,87,1,dev
+meld_dev_dia87_utt2,data/raw/MELD_hf/dev/dia87_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,"I just have one question for you, ehm...",1.856,16000,87,2,dev
+meld_dev_dia87_utt3,data/raw/MELD_hf/dev/dia87_utt3.flac,meld,meld_Ross,unknown,neutral,neutral,0,"When we exit should we walk, or run, or prance, or stroll...",5.632,16000,87,3,dev
+meld_dev_dia87_utt4,data/raw/MELD_hf/dev/dia87_utt4.flac,meld,meld_Charlie,unknown,joy,joy,1,"Stop it, stop it! He talks slow but he might pee fast! Ok, let's go!!",4.843,16000,87,4,dev
+meld_dev_dia88_utt0,data/raw/MELD_hf/dev/dia88_utt0.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,I can't believe this! How long as this been going on?,2.411,16000,88,0,dev
+meld_dev_dia88_utt1,data/raw/MELD_hf/dev/dia88_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Well umm, Alexandra has been",2.539,16000,88,1,dev
+meld_dev_dia88_utt2,data/raw/MELD_hf/dev/dia88_utt2.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Oh, it has a name?",0.896,16000,88,2,dev
+meld_dev_dia88_utt3,data/raw/MELD_hf/dev/dia88_utt3.flac,meld,meld_Monica,unknown,sadness,sadness,2,"Phoebe, don't get upset!",1.643,16000,88,3,dev
+meld_dev_dia88_utt4,data/raw/MELD_hf/dev/dia88_utt4.flac,meld,meld_Phoebe,unknown,anger,anger,3,Okay-Oop! Too late! I'm leaving! Come on Chandler let's go!,5.056,16000,88,4,dev
+meld_dev_dia88_utt5,data/raw/MELD_hf/dev/dia88_utt5.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Well, Phoebe I thought I'd--Yeah, what the hell.",3.819,16000,88,5,dev
+meld_dev_dia89_utt0,data/raw/MELD_hf/dev/dia89_utt0.flac,meld,meld_Joey,unknown,fear,fear,5,Ben!,1.003,16000,89,0,dev
+meld_dev_dia89_utt1,data/raw/MELD_hf/dev/dia89_utt1.flac,meld,meld_Chandler,unknown,anger,anger,3,"Oh, that's good. Maybe he'll hear you and pull the cord.",3.797,16000,89,1,dev
+meld_dev_dia89_utt2,data/raw/MELD_hf/dev/dia89_utt2.flac,meld,meld_Joey,unknown,fear,fear,5,Stop the bus! Wait! Wait! Wait!,4.8,16000,89,2,dev
+meld_dev_dia89_utt3,data/raw/MELD_hf/dev/dia89_utt3.flac,meld,meld_Monica,unknown,neutral,neutral,0,Are you sure he didn't break it because it really hurts?,2.432,16000,89,3,dev
+meld_dev_dia89_utt4,data/raw/MELD_hf/dev/dia89_utt4.flac,meld,meld_Doctor,unknown,neutral,neutral,0,"No, it's just a good bone bruise. And, right here is the puncture wound from your ring.",7.189,16000,89,4,dev
+meld_dev_dia89_utt5,data/raw/MELD_hf/dev/dia89_utt5.flac,meld,meld_Ross,unknown,sadness,sadness,2,"Oh, I'm sorry, I'm really sorry.",2.389,16000,89,5,dev
+meld_dev_dia89_utt6,data/raw/MELD_hf/dev/dia89_utt6.flac,meld,meld_Ross,unknown,sadness,sadness,2,Sorry.,0.448,16000,89,6,dev
+meld_dev_dia89_utt7,data/raw/MELD_hf/dev/dia89_utt7.flac,meld,meld_Ross,unknown,sadness,sadness,2,Sorry!,0.128,16000,89,7,dev
+meld_dev_dia89_utt8,data/raw/MELD_hf/dev/dia89_utt8.flac,meld,meld_Ross,unknown,joy,joy,1,I got my s's back!,3.648,16000,89,8,dev
+meld_dev_dia89_utt9,data/raw/MELD_hf/dev/dia89_utt9.flac,meld,meld_Ross,unknown,neutral,neutral,0,Which we can celebrate later.,2.645,16000,89,9,dev
+meld_dev_dia89_utt10,data/raw/MELD_hf/dev/dia89_utt10.flac,meld,meld_Ross,unknown,neutral,neutral,0,Celebrate.,2.091,16000,89,10,dev
+meld_dev_dia90_utt0,data/raw/MELD_hf/dev/dia90_utt0.flac,meld,meld_Rachel,unknown,joy,joy,1,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",5.675,16000,90,0,dev
+meld_dev_dia90_utt1,data/raw/MELD_hf/dev/dia90_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Rachel, how did this happen?",1.643,16000,90,1,dev
+meld_dev_dia90_utt2,data/raw/MELD_hf/dev/dia90_utt2.flac,meld,meld_Rachel,unknown,fear,fear,5,"I don't know, I just kinda ran into him last night.",2.347,16000,90,2,dev
+meld_dev_dia90_utt3,data/raw/MELD_hf/dev/dia90_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Where?,1.387,16000,90,3,dev
+meld_dev_dia90_utt4,data/raw/MELD_hf/dev/dia90_utt4.flac,meld,meld_Rachel,unknown,neutral,neutral,0,At his apartment. Is this juice?,3.093,16000,90,4,dev
+meld_dev_dia90_utt5,data/raw/MELD_hf/dev/dia90_utt5.flac,meld,meld_Joey,unknown,anger,anger,3,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",3.755,16000,90,5,dev
+meld_dev_dia90_utt6,data/raw/MELD_hf/dev/dia90_utt6.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Oh God, I know I'm a pathetic loser.",3.136,16000,90,6,dev
+meld_dev_dia91_utt0,data/raw/MELD_hf/dev/dia91_utt0.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"I licked my arm, what?",1.792,16000,91,0,dev
+meld_dev_dia91_utt1,data/raw/MELD_hf/dev/dia91_utt1.flac,meld,meld_Ross,unknown,neutral,neutral,0,It's breast milk.,2.347,16000,91,1,dev
+meld_dev_dia91_utt2,data/raw/MELD_hf/dev/dia91_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,So?,1.259,16000,91,2,dev
+meld_dev_dia91_utt3,data/raw/MELD_hf/dev/dia91_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Phoebe, that is juice, squeezed from a person.",4.096,16000,91,3,dev
+meld_dev_dia91_utt4,data/raw/MELD_hf/dev/dia91_utt4.flac,meld,meld_Joey,unknown,anger,anger,3,What is the big deal?,2.795,16000,91,4,dev
+meld_dev_dia91_utt5,data/raw/MELD_hf/dev/dia91_utt5.flac,meld,meld_Chandler,unknown,surprise,surprise,4,What did you just do?,1.643,16000,91,5,dev
+meld_dev_dia91_utt6,data/raw/MELD_hf/dev/dia91_utt6.flac,meld,meld_Ross,unknown,disgust,disgust,6,"Ok, would people stop drinking the breast milk?",3.435,16000,91,6,dev
+meld_dev_dia91_utt7,data/raw/MELD_hf/dev/dia91_utt7.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,You won't even taste it?,1.92,16000,91,7,dev
+meld_dev_dia91_utt8,data/raw/MELD_hf/dev/dia91_utt8.flac,meld,meld_Ross,unknown,disgust,disgust,6,No!,1.024,16000,91,8,dev
+meld_dev_dia91_utt9,data/raw/MELD_hf/dev/dia91_utt9.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Not even if you just pretend that it's milk?,2.219,16000,91,9,dev
+meld_dev_dia91_utt10,data/raw/MELD_hf/dev/dia91_utt10.flac,meld,meld_Ross,unknown,disgust,disgust,6,Not even if Carol's breast had a picture of a missing child on it.,3.349,16000,91,10,dev
+meld_dev_dia92_utt0,data/raw/MELD_hf/dev/dia92_utt0.flac,meld,meld_All,unknown,surprise,surprise,4,Aww!,1.429,16000,92,0,dev
+meld_dev_dia92_utt1,data/raw/MELD_hf/dev/dia92_utt1.flac,meld,meld_Ross,unknown,disgust,disgust,6,"Hey Pheebs, could you please not put your feet up on my new......old sheet?",5.184,16000,92,1,dev
+meld_dev_dia92_utt2,data/raw/MELD_hf/dev/dia92_utt2.flac,meld,meld_Phoebe,unknown,joy,joy,1,Oh sure! Noo!,1.515,16000,92,2,dev
+meld_dev_dia92_utt3,data/raw/MELD_hf/dev/dia92_utt3.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Ohh!!,1.045,16000,92,3,dev
+meld_dev_dia92_utt4,data/raw/MELD_hf/dev/dia92_utt4.flac,meld,meld_Ross,unknown,surprise,surprise,4,My apothecary table!!!,1.813,16000,92,4,dev
+meld_dev_dia92_utt5,data/raw/MELD_hf/dev/dia92_utt5.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,What?!,0.64,16000,92,5,dev
+meld_dev_dia92_utt6,data/raw/MELD_hf/dev/dia92_utt6.flac,meld,meld_Rachel,unknown,fear,fear,5,Noooooo!!,1.451,16000,92,6,dev
+meld_dev_dia92_utt7,data/raw/MELD_hf/dev/dia92_utt7.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"Ross, where did you get this?!",3.136,16000,92,7,dev
+meld_dev_dia92_utt8,data/raw/MELD_hf/dev/dia92_utt8.flac,meld,meld_Rachel,unknown,anger,anger,3,"Oh my God, Phoebe,",1.877,16000,92,8,dev
+meld_dev_dia92_utt9,data/raw/MELD_hf/dev/dia92_utt9.flac,meld,meld_Phoebe,unknown,anger,anger,3,"Wow! Oh my God, well if they've ripped off our table ours must be much more than one and fifty dollars!",6.357,16000,92,9,dev
+meld_dev_dia92_utt10,data/raw/MELD_hf/dev/dia92_utt10.flac,meld,meld_Phoebe,unknown,disgust,disgust,6,Well this doesn't even smell like opium.,2.389,16000,92,10,dev
+meld_dev_dia92_utt11,data/raw/MELD_hf/dev/dia92_utt11.flac,meld,meld_Ross,unknown,anger,anger,3,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",5.184,16000,92,11,dev
+meld_dev_dia93_utt0,data/raw/MELD_hf/dev/dia93_utt0.flac,meld,meld_Rachel,unknown,sadness,sadness,2,How is she?,1.643,16000,93,0,dev
+meld_dev_dia93_utt1,data/raw/MELD_hf/dev/dia93_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"It's too soon to tell. She's resting, which is a good sign.",5.675,16000,93,1,dev
+meld_dev_dia93_utt2,data/raw/MELD_hf/dev/dia93_utt2.flac,meld,meld_Ross,unknown,neutral,neutral,0,How's the hair?,2.603,16000,93,2,dev
+meld_dev_dia93_utt3,data/raw/MELD_hf/dev/dia93_utt3.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"I'm not gonna lie to you, Ross, it doesn't look good.",4.523,16000,93,3,dev
+meld_dev_dia93_utt4,data/raw/MELD_hf/dev/dia93_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"I put a clip on one side, which seems to have stopped the curling.",3.221,16000,93,4,dev
+meld_dev_dia93_utt5,data/raw/MELD_hf/dev/dia93_utt5.flac,meld,meld_Joey,unknown,neutral,neutral,0,Can we see her?,1.131,16000,93,5,dev
+meld_dev_dia93_utt6,data/raw/MELD_hf/dev/dia93_utt6.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",5.504,16000,93,6,dev
+meld_dev_dia93_utt7,data/raw/MELD_hf/dev/dia93_utt7.flac,meld,meld_Joey,unknown,sadness,sadness,2,How're you doing?,2.517,16000,93,7,dev
+meld_dev_dia94_utt0,data/raw/MELD_hf/dev/dia94_utt0.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Of course the packaging does appeal to grown-ups and kids alike.,3.392,16000,94,0,dev
+meld_dev_dia94_utt1,data/raw/MELD_hf/dev/dia94_utt1.flac,meld,meld_Carol,unknown,joy,joy,1,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",5.632,16000,94,1,dev
+meld_dev_dia94_utt2,data/raw/MELD_hf/dev/dia94_utt2.flac,meld,meld_Ross,unknown,disgust,disgust,6,That would be no.,1.835,16000,94,2,dev
+meld_dev_dia94_utt3,data/raw/MELD_hf/dev/dia94_utt3.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Come on. It doesn't taste bad.,3.968,16000,94,3,dev
+meld_dev_dia94_utt4,data/raw/MELD_hf/dev/dia94_utt4.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Yeah, it's kinda sweet, sorta like, uh...",2.923,16000,94,4,dev
+meld_dev_dia94_utt5,data/raw/MELD_hf/dev/dia94_utt5.flac,meld,meld_Susan,unknown,joy,joy,1,Cantaloupe juice.,2.133,16000,94,5,dev
+meld_dev_dia94_utt6,data/raw/MELD_hf/dev/dia94_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,Exactly.,1.557,16000,94,6,dev
+meld_dev_dia94_utt7,data/raw/MELD_hf/dev/dia94_utt7.flac,meld,meld_Ross,unknown,surprise,surprise,4,You've tasted it? You've tasted it.,3.797,16000,94,7,dev
+meld_dev_dia94_utt8,data/raw/MELD_hf/dev/dia94_utt8.flac,meld,meld_Susan,unknown,neutral,neutral,0,Uh huh.,1.301,16000,94,8,dev
+meld_dev_dia94_utt9,data/raw/MELD_hf/dev/dia94_utt9.flac,meld,meld_Ross,unknown,anger,anger,3,"Oh, you've tasted it.",1.856,16000,94,9,dev
+meld_dev_dia94_utt10,data/raw/MELD_hf/dev/dia94_utt10.flac,meld,meld_Susan,unknown,neutral,neutral,0,"You can keep saying it, but it won't stop being true.",2.965,16000,94,10,dev
+meld_dev_dia94_utt11,data/raw/MELD_hf/dev/dia94_utt11.flac,meld,meld_Ross,unknown,anger,anger,3,Gimme the bottle. Gimme the towel.,1.429,16000,94,11,dev
+meld_dev_dia95_utt0,data/raw/MELD_hf/dev/dia95_utt0.flac,meld,meld_Monica,unknown,anger,anger,3,I still don't get why Greg and Jenny would give us a fake number.,3.051,16000,95,0,dev
+meld_dev_dia95_utt1,data/raw/MELD_hf/dev/dia95_utt1.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Y'know, if they knew what they were doing they probably didn't give you real names either.",6.059,16000,95,1,dev
+meld_dev_dia95_utt2,data/raw/MELD_hf/dev/dia95_utt2.flac,meld,meld_Monica,unknown,anger,anger,3,"Okay, maybe people give out fake numbers, but they don't give out fake names.",3.84,16000,95,2,dev
+meld_dev_dia95_utt3,data/raw/MELD_hf/dev/dia95_utt3.flac,meld,meld_Joey,unknown,neutral,neutral,0,"Oh yeah? Hi, Ken Adams, nice to meet you.",3.755,16000,95,3,dev
+meld_dev_dia95_utt4,data/raw/MELD_hf/dev/dia95_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,Regina Philange.,2.688,16000,95,4,dev
+meld_dev_dia95_utt5,data/raw/MELD_hf/dev/dia95_utt5.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"I still don't get it, we didn't do anything wrong.",2.688,16000,95,5,dev
+meld_dev_dia95_utt6,data/raw/MELD_hf/dev/dia95_utt6.flac,meld,meld_Monica,unknown,anger,anger,3,"I know! Although, you did tell an awful lot of jokes.",3.563,16000,95,6,dev
+meld_dev_dia95_utt7,data/raw/MELD_hf/dev/dia95_utt7.flac,meld,meld_Chandler,unknown,surprise,surprise,4,I thought you said those jokes were funny. Joke! Joke! Joke!,3.84,16000,95,7,dev
+meld_dev_dia95_utt8,data/raw/MELD_hf/dev/dia95_utt8.flac,meld,meld_Monica,unknown,anger,anger,3,Joke. Joke. Blah! Blah!,2.752,16000,95,8,dev
+meld_dev_dia95_utt9,data/raw/MELD_hf/dev/dia95_utt9.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Well maybe it was all of your questions.,1.963,16000,95,9,dev
+meld_dev_dia95_utt10,data/raw/MELD_hf/dev/dia95_utt10.flac,meld,meld_Monica,unknown,neutral,neutral,0,What about my questions?,1.109,16000,95,10,dev
+meld_dev_dia96_utt0,data/raw/MELD_hf/dev/dia96_utt0.flac,meld,meld_Cliff,unknown,neutral,neutral,0,"No, I'm sorry. It's just my foot itches like crazy.",2.923,16000,96,0,dev
+meld_dev_dia96_utt1,data/raw/MELD_hf/dev/dia96_utt1.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Oh, I'll get it.",2.475,16000,96,1,dev
+meld_dev_dia96_utt2,data/raw/MELD_hf/dev/dia96_utt2.flac,meld,meld_Cliff,unknown,surprise,surprise,4,Wow! I usually get to know a girl a little better before I let her spoon me.,3.84,16000,96,2,dev
+meld_dev_dia96_utt3,data/raw/MELD_hf/dev/dia96_utt3.flac,meld,meld_Phoebe,unknown,joy,joy,1,"Relax, it's not like we're forking.",2.603,16000,96,3,dev
+meld_dev_dia97_utt0,data/raw/MELD_hf/dev/dia97_utt0.flac,meld,meld_Monica,unknown,joy,joy,1,"Look at it! Ohhh! Wallpaper's a little faded, that's okay. Carpet's a little loose. Hardwood floors!!",8.896,16000,97,0,dev
+meld_dev_dia97_utt1,data/raw/MELD_hf/dev/dia97_utt1.flac,meld,meld_Phoebe,unknown,joy,joy,1,Hey!,0.491,16000,97,1,dev
+meld_dev_dia97_utt2,data/raw/MELD_hf/dev/dia97_utt2.flac,meld,meld_Chandler,unknown,neutral,neutral,0,Hello.,2.005,16000,97,2,dev
+meld_dev_dia97_utt3,data/raw/MELD_hf/dev/dia97_utt3.flac,meld,meld_Phoebe,unknown,joy,joy,1,Oh! Ooh! Oh Monica! It's so beautiful.,5.013,16000,97,3,dev
+meld_dev_dia97_utt4,data/raw/MELD_hf/dev/dia97_utt4.flac,meld,meld_Monica,unknown,joy,joy,1,I know!!!,2.005,16000,97,4,dev
+meld_dev_dia97_utt5,data/raw/MELD_hf/dev/dia97_utt5.flac,meld,meld_Phoebe,unknown,joy,joy,1,"So, I'm here, ready to play.",1.707,16000,97,5,dev
+meld_dev_dia97_utt6,data/raw/MELD_hf/dev/dia97_utt6.flac,meld,meld_Monica,unknown,neutral,neutral,0,Okay.,1.003,16000,97,6,dev
+meld_dev_dia97_utt7,data/raw/MELD_hf/dev/dia97_utt7.flac,meld,meld_Phoebe,unknown,joy,joy,1,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",4.48,16000,97,7,dev
+meld_dev_dia97_utt8,data/raw/MELD_hf/dev/dia97_utt8.flac,meld,meld_Monica,unknown,surprise,surprise,4,What's this?,1.088,16000,97,8,dev
+meld_dev_dia97_utt9,data/raw/MELD_hf/dev/dia97_utt9.flac,meld,meld_Phoebe,unknown,joy,joy,1,"That's a dog, every house should have a dog.",2.347,16000,97,9,dev
+meld_dev_dia97_utt10,data/raw/MELD_hf/dev/dia97_utt10.flac,meld,meld_Monica,unknown,surprise,surprise,4,Not one that can pee on the roof.,1.877,16000,97,10,dev
+meld_dev_dia97_utt11,data/raw/MELD_hf/dev/dia97_utt11.flac,meld,meld_Phoebe,unknown,joy,joy,1,"Well, maybe it's so big because the house was built on radioactive waste.",5.931,16000,97,11,dev
+meld_dev_dia97_utt12,data/raw/MELD_hf/dev/dia97_utt12.flac,meld,meld_Chandler,unknown,surprise,surprise,4,And is this in case the house sneezes?,3.605,16000,97,12,dev
+meld_dev_dia97_utt13,data/raw/MELD_hf/dev/dia97_utt13.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"No, no, that's the ghost for the attic.",3.52,16000,97,13,dev
+meld_dev_dia97_utt14,data/raw/MELD_hf/dev/dia97_utt14.flac,meld,meld_Monica,unknown,fear,fear,5,I don't want a ghost.,3.797,16000,97,14,dev
+meld_dev_dia97_utt15,data/raw/MELD_hf/dev/dia97_utt15.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Well, nobody wants a ghost. But you've got one, because the house is sitting on an ancient Indian burial ground.",5.888,16000,97,15,dev
+meld_dev_dia97_utt16,data/raw/MELD_hf/dev/dia97_utt16.flac,meld,meld_Ross,unknown,surprise,surprise,4,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",8.341,16000,97,16,dev
+meld_dev_dia97_utt17,data/raw/MELD_hf/dev/dia97_utt17.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Okay, obviously you don't know much about the U.S. government.",3.84,16000,97,17,dev
+meld_dev_dia97_utt18,data/raw/MELD_hf/dev/dia97_utt18.flac,meld,meld_Rachel,unknown,surprise,surprise,4,Hey!,1.877,16000,97,18,dev
+meld_dev_dia97_utt19,data/raw/MELD_hf/dev/dia97_utt19.flac,meld,meld_All,unknown,neutral,neutral,0,Hello.,0.491,16000,97,19,dev
+meld_dev_dia97_utt20,data/raw/MELD_hf/dev/dia97_utt20.flac,meld,meld_Rachel,unknown,joy,joy,1,I need to talk to you!,1.536,16000,97,20,dev
+meld_dev_dia97_utt21,data/raw/MELD_hf/dev/dia97_utt21.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Sure, what's up?",1.493,16000,97,21,dev
+meld_dev_dia98_utt0,data/raw/MELD_hf/dev/dia98_utt0.flac,meld,meld_Jeannine,unknown,anger,anger,3,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",7.552,16000,98,0,dev
+meld_dev_dia98_utt1,data/raw/MELD_hf/dev/dia98_utt1.flac,meld,meld_Monica,unknown,disgust,disgust,6,"Please, I'm not going for anything.",3.648,16000,98,1,dev
+meld_dev_dia98_utt2,data/raw/MELD_hf/dev/dia98_utt2.flac,meld,meld_Jeannine,unknown,anger,anger,3,"Well, if you don't, I will.",1.685,16000,98,2,dev
+meld_dev_dia98_utt3,data/raw/MELD_hf/dev/dia98_utt3.flac,meld,meld_Monica,unknown,joy,joy,1,Would you please go?,1.557,16000,98,3,dev
+meld_dev_dia98_utt4,data/raw/MELD_hf/dev/dia98_utt4.flac,meld,meld_Ross,unknown,anger,anger,3,I would!,0.192,16000,98,4,dev
+meld_dev_dia99_utt0,data/raw/MELD_hf/dev/dia99_utt0.flac,meld,meld_Monica,unknown,joy,joy,1,"Hey, guys, guys, did you see my new, china cabinet?!",4.053,16000,99,0,dev
+meld_dev_dia99_utt1,data/raw/MELD_hf/dev/dia99_utt1.flac,meld,meld_Ross and Rachel,unknown,neutral,neutral,0,Uh-huh.,1.045,16000,99,1,dev
+meld_dev_dia99_utt2,data/raw/MELD_hf/dev/dia99_utt2.flac,meld,meld_Phoebe,unknown,joy,joy,1,"Watch, watch.",1.045,16000,99,2,dev
+meld_dev_dia99_utt3,data/raw/MELD_hf/dev/dia99_utt3.flac,meld,meld_Ross and Rachel,unknown,surprise,surprise,4,Ooohhhh!!,0.064,16000,99,3,dev
+meld_dev_dia99_utt4,data/raw/MELD_hf/dev/dia99_utt4.flac,meld,meld_Phoebe,unknown,joy,joy,1,"And, and!",2.133,16000,99,4,dev
+meld_dev_dia99_utt5,data/raw/MELD_hf/dev/dia99_utt5.flac,meld,meld_Ross and Rachel,unknown,surprise,surprise,4,Ahhhh!!,2.389,16000,99,5,dev
+meld_dev_dia99_utt6,data/raw/MELD_hf/dev/dia99_utt6.flac,meld,meld_Chandler,unknown,surprise,surprise,4,"Hey, my Father's house does that!",2.731,16000,99,6,dev
+meld_dev_dia99_utt7,data/raw/MELD_hf/dev/dia99_utt7.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"O-o-o-okay, how did it go? Tell me everything.",2.795,16000,99,7,dev
+meld_dev_dia99_utt8,data/raw/MELD_hf/dev/dia99_utt8.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Well, the movie was great, dinner was great, and there's nothing like a cool, crisp New York evening.",6.187,16000,99,8,dev
+meld_dev_dia100_utt0,data/raw/MELD_hf/dev/dia100_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Okay. It's Emma.,2.56,16000,100,0,dev
+meld_dev_dia101_utt0,data/raw/MELD_hf/dev/dia101_utt0.flac,meld,meld_Rachel,unknown,sadness,sadness,2,Emma! See? I don't want it.,8.149,16000,101,0,dev
+meld_dev_dia102_utt0,data/raw/MELD_hf/dev/dia102_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Take it.,1.685,16000,102,0,dev
+meld_dev_dia102_utt1,data/raw/MELD_hf/dev/dia102_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,What?,1.472,16000,102,1,dev
+meld_dev_dia103_utt0,data/raw/MELD_hf/dev/dia103_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,It's clearly an Emma.,2.048,16000,103,0,dev
+meld_dev_dia103_utt1,data/raw/MELD_hf/dev/dia103_utt1.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"Oh honey, but you love that name.",2.219,16000,103,1,dev
+meld_dev_dia103_utt2,data/raw/MELD_hf/dev/dia103_utt2.flac,meld,meld_Monica,unknown,joy,joy,1,"Yeah, but I love you more.",2.176,16000,103,2,dev
+meld_dev_dia103_utt3,data/raw/MELD_hf/dev/dia103_utt3.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Besides y'know, nothing goes with Bing.",2.816,16000,103,3,dev
+meld_dev_dia103_utt4,data/raw/MELD_hf/dev/dia103_utt4.flac,meld,meld_Monica,unknown,joy,joy,1,So I'm screwed.,1.557,16000,103,4,dev
+meld_dev_dia104_utt0,data/raw/MELD_hf/dev/dia104_utt0.flac,meld,meld_Chandler,unknown,joy,joy,1,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" I'm happy all the time!",3.477,16000,104,0,dev
+meld_dev_dia104_utt1,data/raw/MELD_hf/dev/dia104_utt1.flac,meld,meld_Chandler,unknown,sadness,sadness,2,Nice try.,1.131,16000,104,1,dev
+meld_dev_dia104_utt2,data/raw/MELD_hf/dev/dia104_utt2.flac,meld,meld_Monica,unknown,joy,joy,1,"Wait, wait, wait!",1.835,16000,104,2,dev
+meld_dev_dia104_utt3,data/raw/MELD_hf/dev/dia104_utt3.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Look, Monica",0.811,16000,104,3,dev
+meld_dev_dia104_utt4,data/raw/MELD_hf/dev/dia104_utt4.flac,meld,meld_Monica,unknown,surprise,surprise,4,Look!,0.427,16000,104,4,dev
+meld_dev_dia104_utt5,data/raw/MELD_hf/dev/dia104_utt5.flac,meld,meld_Chandler,unknown,anger,anger,3,This is not going to work.,1.344,16000,104,5,dev
+meld_dev_dia104_utt6,data/raw/MELD_hf/dev/dia104_utt6.flac,meld,meld_Monica,unknown,joy,joy,1,I bet this will work!,1.813,16000,104,6,dev
+meld_dev_dia104_utt7,data/raw/MELD_hf/dev/dia104_utt7.flac,meld,meld_Chandler,unknown,joy,joy,1,You are so great! I love you!,2.688,16000,104,7,dev
+meld_dev_dia104_utt8,data/raw/MELD_hf/dev/dia104_utt8.flac,meld,meld_Monica,unknown,surprise,surprise,4,What?,1.344,16000,104,8,dev
+meld_dev_dia104_utt9,data/raw/MELD_hf/dev/dia104_utt9.flac,meld,meld_Chandler,unknown,fear,fear,5,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",3.925,16000,104,9,dev
+meld_dev_dia104_utt10,data/raw/MELD_hf/dev/dia104_utt10.flac,meld,meld_Monica,unknown,surprise,surprise,4,You said you loved me! I can't believe this!,2.261,16000,104,10,dev
+meld_dev_dia104_utt11,data/raw/MELD_hf/dev/dia104_utt11.flac,meld,meld_Chandler,unknown,fear,fear,5,No I didn't!,1.131,16000,104,11,dev
+meld_dev_dia104_utt12,data/raw/MELD_hf/dev/dia104_utt12.flac,meld,meld_Monica,unknown,surprise,surprise,4,"Yes, you did!",2.112,16000,104,12,dev
+meld_dev_dia104_utt13,data/raw/MELD_hf/dev/dia104_utt13.flac,meld,meld_Chandler,unknown,fear,fear,5,No I didn't!,0.384,16000,104,13,dev
+meld_dev_dia104_utt14,data/raw/MELD_hf/dev/dia104_utt14.flac,meld,meld_Monica,unknown,joy,joy,1,You love me!,1.557,16000,104,14,dev
+meld_dev_dia104_utt15,data/raw/MELD_hf/dev/dia104_utt15.flac,meld,meld_Chandler,unknown,anger,anger,3,No I don't! Stop it! Stop it! Stop it! Stop it!,2.965,16000,104,15,dev
+meld_dev_dia105_utt0,data/raw/MELD_hf/dev/dia105_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,Hello Greg?,2.944,16000,105,0,dev
+meld_dev_dia105_utt1,data/raw/MELD_hf/dev/dia105_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Hi, this is Monica from the plane?",0.171,16000,105,1,dev
+meld_dev_dia105_utt2,data/raw/MELD_hf/dev/dia105_utt2.flac,meld,meld_Monica,unknown,anger,anger,3,"Listen, the number that you gave me 853-5... That is their old number!",7.147,16000,105,2,dev
+meld_dev_dia105_utt3,data/raw/MELD_hf/dev/dia105_utt3.flac,meld,meld_Monica,unknown,anger,anger,3,Jenny's been giving it out since they moved!,3.051,16000,105,3,dev
+meld_dev_dia105_utt4,data/raw/MELD_hf/dev/dia105_utt4.flac,meld,meld_Chandler,unknown,joy,joy,1,Jenny! That is so Jenny!,3.968,16000,105,4,dev
+meld_dev_dia105_utt5,data/raw/MELD_hf/dev/dia105_utt5.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Hey listen umm, how would you like to get together?",3.925,16000,105,5,dev
+meld_dev_dia105_utt6,data/raw/MELD_hf/dev/dia105_utt6.flac,meld,meld_Monica,unknown,neutral,neutral,0,Say next Saturday?,1.941,16000,105,6,dev
+meld_dev_dia105_utt7,data/raw/MELD_hf/dev/dia105_utt7.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Okay, how about Sunday?",2.219,16000,105,7,dev
+meld_dev_dia105_utt8,data/raw/MELD_hf/dev/dia105_utt8.flac,meld,meld_Monica,unknown,joy,joy,1,"Okay umm, the week after that?",1.067,16000,105,8,dev
+meld_dev_dia105_utt9,data/raw/MELD_hf/dev/dia105_utt9.flac,meld,meld_Monica,unknown,joy,joy,1,The week after that?,1.685,16000,105,9,dev
+meld_dev_dia105_utt10,data/raw/MELD_hf/dev/dia105_utt10.flac,meld,meld_Monica,unknown,anger,anger,3,Y'know what Greg?,1.472,16000,105,10,dev
+meld_dev_dia105_utt11,data/raw/MELD_hf/dev/dia105_utt11.flac,meld,meld_Monica,unknown,anger,anger,3,"We are good, interesting, funny people with",4.309,16000,105,11,dev
+meld_dev_dia106_utt0,data/raw/MELD_hf/dev/dia106_utt0.flac,meld,meld_Joey,unknown,neutral,neutral,0,Hey Chandler! Y'know that girl you went to college with who-who became a movie director?,4.011,16000,106,0,dev
+meld_dev_dia106_utt1,data/raw/MELD_hf/dev/dia106_utt1.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Oh yeah, Dana Keystone. She was in my Movement class.",3.392,16000,106,1,dev
+meld_dev_dia106_utt2,data/raw/MELD_hf/dev/dia106_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,What's a Movement class?,1.643,16000,106,2,dev
+meld_dev_dia106_utt3,data/raw/MELD_hf/dev/dia106_utt3.flac,meld,meld_Monica,unknown,neutral,neutral,0,It's Chandler's way of pretending he didn't take mime.,3.392,16000,106,3,dev
+meld_dev_dia106_utt4,data/raw/MELD_hf/dev/dia106_utt4.flac,meld,meld_Joey,unknown,joy,joy,1,"Oh well listen, anyway she's directing the new Al Pacino movie. You gotta get me an audition!",7.424,16000,106,4,dev
+meld_dev_dia106_utt5,data/raw/MELD_hf/dev/dia106_utt5.flac,meld,meld_Chandler,unknown,neutral,neutral,0,"Oh, I don't know man. I haven't talked to her in like ten years.",3.477,16000,106,5,dev
+meld_dev_dia107_utt0,data/raw/MELD_hf/dev/dia107_utt0.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,I am.,1.579,16000,107,0,dev
+meld_dev_dia107_utt1,data/raw/MELD_hf/dev/dia107_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Joey, what are you talking about? You're a terrific actor.",2.88,16000,107,1,dev
+meld_dev_dia107_utt2,data/raw/MELD_hf/dev/dia107_utt2.flac,meld,meld_Joey,unknown,surprise,surprise,4,You really think so?,0.704,16000,107,2,dev
+meld_dev_dia107_utt3,data/raw/MELD_hf/dev/dia107_utt3.flac,meld,meld_Rachel,unknown,surprise,surprise,4,"Ugh, how can you even ask that question?!",2.667,16000,107,3,dev
+meld_dev_dia108_utt0,data/raw/MELD_hf/dev/dia108_utt0.flac,meld,meld_Joey,unknown,surprise,surprise,4,Ross! Get a shot of this. (He's carrying an issue of the,3.477,16000,108,0,dev
+meld_dev_dia108_utt1,data/raw/MELD_hf/dev/dia108_utt1.flac,meld,meld_Phoebe,unknown,fear,fear,5,"Oh, okay, I'm having another one!",2.56,16000,108,1,dev
+meld_dev_dia108_utt2,data/raw/MELD_hf/dev/dia108_utt2.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,"This one doesn't hurt either-Ooh, yes it does!",2.88,16000,108,2,dev
+meld_dev_dia108_utt3,data/raw/MELD_hf/dev/dia108_utt3.flac,meld,meld_Phoebe,unknown,anger,anger,3,Ow!,1.003,16000,108,3,dev
+meld_dev_dia108_utt4,data/raw/MELD_hf/dev/dia108_utt4.flac,meld,meld_Phoebe,unknown,anger,anger,3,Ow!,0.32,16000,108,4,dev
+meld_dev_dia108_utt5,data/raw/MELD_hf/dev/dia108_utt5.flac,meld,meld_Phoebe,unknown,anger,anger,3,Ow!,0.064,16000,108,5,dev
+meld_dev_dia108_utt6,data/raw/MELD_hf/dev/dia108_utt6.flac,meld,meld_Phoebe,unknown,anger,anger,3,Ow!,1.579,16000,108,6,dev
+meld_dev_dia108_utt7,data/raw/MELD_hf/dev/dia108_utt7.flac,meld,meld_Phoebe,unknown,surprise,surprise,4,Ooh!,1.728,16000,108,7,dev
+meld_dev_dia108_utt8,data/raw/MELD_hf/dev/dia108_utt8.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"Oh, I was kinda hoping that was it.",2.005,16000,108,8,dev
+meld_dev_dia108_utt9,data/raw/MELD_hf/dev/dia108_utt9.flac,meld,meld_Ross,unknown,neutral,neutral,0,"Hey, where are Monica and Rachel anyway?",2.261,16000,108,9,dev
+meld_dev_dia108_utt10,data/raw/MELD_hf/dev/dia108_utt10.flac,meld,meld_Frank,unknown,joy,joy,1,"Yeah, I love you. Okay, bye! Hi!",3.051,16000,108,10,dev
+meld_dev_dia108_utt11,data/raw/MELD_hf/dev/dia108_utt11.flac,meld,meld_Rachel,unknown,joy,joy,1,Hi!,1.088,16000,108,11,dev
+meld_dev_dia108_utt12,data/raw/MELD_hf/dev/dia108_utt12.flac,meld,meld_Frank,unknown,fear,fear,5,"That was Alice's mom, she said she left five hours ago. She should be here by now!",4.48,16000,108,12,dev
+meld_dev_dia108_utt13,data/raw/MELD_hf/dev/dia108_utt13.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Oh, honey, don't worry. She's gonna make it on time.",1.728,16000,108,13,dev
+meld_dev_dia108_utt14,data/raw/MELD_hf/dev/dia108_utt14.flac,meld,meld_Frank,unknown,neutral,neutral,0,Yeah.,1.429,16000,108,14,dev
+meld_dev_dia109_utt0,data/raw/MELD_hf/dev/dia109_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,I guess I set up the video camera to try and entice Joey.,4.267,16000,109,0,dev
+meld_dev_dia109_utt1,data/raw/MELD_hf/dev/dia109_utt1.flac,meld,meld_Joey,unknown,joy,joy,1,But sadly I could not be enticed.,2.965,16000,109,1,dev
+meld_dev_dia109_utt2,data/raw/MELD_hf/dev/dia109_utt2.flac,meld,meld_Ross,unknown,disgust,disgust,6,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,6.848,16000,109,2,dev
+meld_dev_dia109_utt3,data/raw/MELD_hf/dev/dia109_utt3.flac,meld,meld_Monica,unknown,sadness,sadness,2,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,8.597,16000,109,3,dev
+meld_dev_dia109_utt4,data/raw/MELD_hf/dev/dia109_utt4.flac,meld,meld_Joey,unknown,anger,anger,3,"Well, I think we've all learned something about who's disgusting and who's not.",5.269,16000,109,4,dev
+meld_dev_dia109_utt5,data/raw/MELD_hf/dev/dia109_utt5.flac,meld,meld_Joey,unknown,neutral,neutral,0,Eh?,1.429,16000,109,5,dev
+meld_dev_dia109_utt6,data/raw/MELD_hf/dev/dia109_utt6.flac,meld,meld_Joey,unknown,neutral,neutral,0,"All right, now, I'm going to get back to my bucket.",4.096,16000,109,6,dev
+meld_dev_dia109_utt7,data/raw/MELD_hf/dev/dia109_utt7.flac,meld,meld_Joey,unknown,neutral,neutral,0,"I'm only eating the skin, so the chicken's up for grabs.",3.221,16000,109,7,dev
+meld_dev_dia110_utt0,data/raw/MELD_hf/dev/dia110_utt0.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Ohh, okay, they gave you the old time pricing.",2.453,16000,110,0,dev
+meld_dev_dia110_utt1,data/raw/MELD_hf/dev/dia110_utt1.flac,meld,meld_Rachel,unknown,neutral,neutral,0,Yeah.,1.237,16000,110,1,dev
+meld_dev_dia110_utt2,data/raw/MELD_hf/dev/dia110_utt2.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Well, what period is it from?",1.771,16000,110,2,dev
+meld_dev_dia110_utt3,data/raw/MELD_hf/dev/dia110_utt3.flac,meld,meld_Rachel,unknown,neutral,neutral,0,"Uh, it's from yore. Like the days of yore. Y'know?",4.053,16000,110,3,dev
+meld_dev_dia110_utt4,data/raw/MELD_hf/dev/dia110_utt4.flac,meld,meld_Phoebe,unknown,neutral,neutral,0,"Yes, yes I do.",2.176,16000,110,4,dev
+meld_dev_dia110_utt5,data/raw/MELD_hf/dev/dia110_utt5.flac,meld,meld_Phoebe,unknown,joy,joy,1,"God, oh it's just perfect!",3.307,16000,110,5,dev
+meld_dev_dia110_utt6,data/raw/MELD_hf/dev/dia110_utt6.flac,meld,meld_Phoebe,unknown,joy,joy,1,I bet it has a great story behind it too.,2.219,16000,110,6,dev
+meld_dev_dia110_utt8,data/raw/MELD_hf/dev/dia110_utt8.flac,meld,meld_Rachel,unknown,joy,joy,1,"Yes! That I know, this is from White Plains.",2.88,16000,110,8,dev
+meld_dev_dia110_utt9,data/raw/MELD_hf/dev/dia110_utt9.flac,meld,meld_Phoebe,unknown,joy,joy,1,"White Plains. Oh, it sounds like such a magical place.",4.437,16000,110,9,dev
+meld_dev_dia111_utt0,data/raw/MELD_hf/dev/dia111_utt0.flac,meld,meld_Chandler,unknown,anger,anger,3,"So, you still don't think I'm boyfriend material?",4.715,16000,111,0,dev
+meld_dev_dia111_utt1,data/raw/MELD_hf/dev/dia111_utt1.flac,meld,meld_Monica,unknown,neutral,neutral,0,Huh?,1.045,16000,111,1,dev
+meld_dev_dia111_utt2,data/raw/MELD_hf/dev/dia111_utt2.flac,meld,meld_Chandler,unknown,neutral,neutral,0,I saw you checking me out during the game last night.,3.349,16000,111,2,dev
+meld_dev_dia112_utt0,data/raw/MELD_hf/dev/dia112_utt0.flac,meld,meld_Phoebe,unknown,anger,anger,3,"I, umm, shut up!",2.219,16000,112,0,dev
+meld_dev_dia112_utt1,data/raw/MELD_hf/dev/dia112_utt1.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,"""Good-bye Phoebe and Ursula. I'll miss you. P.S. Your Mom lives in Montauk."" You just wrote this!",8.064,16000,112,1,dev
+meld_dev_dia112_utt2,data/raw/MELD_hf/dev/dia112_utt2.flac,meld,meld_Ursula,unknown,neutral,neutral,0,"Well, it's pretty much the gist. Well, except for the poem. You read the poem, right?",7.36,16000,112,2,dev
+meld_dev_dia112_utt3,data/raw/MELD_hf/dev/dia112_utt3.flac,meld,meld_Phoebe,unknown,sadness,sadness,2,Noooo!!,1.685,16000,112,3,dev
+meld_dev_dia112_utt4,data/raw/MELD_hf/dev/dia112_utt4.flac,meld,meld_Ursula,unknown,neutral,neutral,0,"All right, hang on!",1.835,16000,112,4,dev
+meld_dev_dia113_utt0,data/raw/MELD_hf/dev/dia113_utt0.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Rachel, it's going to happen. Chandler is gonna move in here.",6.4,16000,113,0,dev
+meld_dev_dia113_utt1,data/raw/MELD_hf/dev/dia113_utt1.flac,meld,meld_Rachel,unknown,sadness,sadness,2,But I,0.491,16000,113,1,dev
+meld_dev_dia113_utt2,data/raw/MELD_hf/dev/dia113_utt2.flac,meld,meld_Monica,unknown,neutral,neutral,0,"No-no, wait!",2.112,16000,113,2,dev
+meld_dev_dia113_utt3,data/raw/MELD_hf/dev/dia113_utt3.flac,meld,meld_Monica,unknown,sadness,sadness,2,"Just let me finish, okay?",0.32,16000,113,3,dev
+meld_dev_dia113_utt4,data/raw/MELD_hf/dev/dia113_utt4.flac,meld,meld_Monica,unknown,neutral,neutral,0,"This isn't something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",6.549,16000,113,4,dev
+meld_dev_dia113_utt5,data/raw/MELD_hf/dev/dia113_utt5.flac,meld,meld_Monica,unknown,neutral,neutral,0,And it,2.56,16000,113,5,dev
+meld_dev_dia113_utt6,data/raw/MELD_hf/dev/dia113_utt6.flac,meld,meld_Rachel,unknown,surprise,surprise,4,It is? Really?,4.843,16000,113,6,dev
+meld_dev_dia113_utt7,data/raw/MELD_hf/dev/dia113_utt7.flac,meld,meld_Monica,unknown,neutral,neutral,0,"Yeah, sweetie.",1.685,16000,113,7,dev
+meld_dev_dia113_utt8,data/raw/MELD_hf/dev/dia113_utt8.flac,meld,meld_Rachel,unknown,sadness,sadness,2,"I mean we're not, we're not gonna live together anymore?",3.925,16000,113,8,dev
+meld_dev_dia113_utt9,data/raw/MELD_hf/dev/dia113_utt9.flac,meld,meld_Monica,unknown,sadness,sadness,2,No.,1.088,16000,113,9,dev
+meld_dev_dia113_utt10,data/raw/MELD_hf/dev/dia113_utt10.flac,meld,meld_Rachel,unknown,sadness,sadness,2,What? Oh my God! I'm gonna miss you so much!,2.752,16000,113,10,dev
+meld_dev_dia113_utt11,data/raw/MELD_hf/dev/dia113_utt11.flac,meld,meld_Monica,unknown,sadness,sadness,2,I'm gonna miss you!,1.792,16000,113,11,dev
+meld_dev_dia113_utt12,data/raw/MELD_hf/dev/dia113_utt12.flac,meld,meld_Rachel,unknown,sadness,sadness,2,I mean it's the end of an era!,1.835,16000,113,12,dev
+meld_dev_dia113_utt13,data/raw/MELD_hf/dev/dia113_utt13.flac,meld,meld_Monica,unknown,sadness,sadness,2,I know!,1.515,16000,113,13,dev

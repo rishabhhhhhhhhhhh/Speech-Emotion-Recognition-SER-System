@@ -1,0 +1,10 @@
+# Hard constraints for the Mac env. Pass via -c to EVERY pip install:
+#     .venv/bin/pip install -c env/constraints-mac.txt <pkg>
+#
+# numpy  : the anchor. numba 0.60 accepts >=1.22,<2.1; librosa 0.10.2 prefers 1.x.
+#          If anything ever hard-requires numpy>=2, migrate the WHOLE env
+#          (numpy 2.1.x + numba 0.61 + librosa 0.11) — never mix.
+# scipy  : capped by audiomentations 0.37.0 (requires scipy<1.13). Pinned so the
+#          resolved version is a decision, not an accident.
+numpy==1.26.4
+scipy==1.12.0
