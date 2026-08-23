@@ -1,0 +1,44 @@
+# RunPod A40 env — install ON TOP of the image's existing torch. DO NOT reinstall torch.
+#
+# PROCEDURE (in this exact order):
+#
+#   1) Read the image's torch versions FIRST:
+#        python -c "import torch; print(torch.__version__, torch.version.cuda)"
+#        python -c "import torchvision, torchaudio; print(torchvision.__version__, torchaudio.__version__)"
+#
+#   2) Write those EXACT strings into env/constraints-pod.txt, e.g.:
+#        torch==2.4.0
+#        torchvision==0.19.0
+#        torchaudio==2.4.0
+#        numpy==1.26.4
+#
+#   3) Install with the constraints file so pip is FORBIDDEN from touching torch:
+#        pip install -c env/constraints-pod.txt -r env/requirements-pod.txt
+#
+#   4) RE-VERIFY torch did not move:
+#        python -c "import torch; print(torch.__version__, torch.version.cuda)"
+#      If it changed, the CUDA stack is broken — RESTART THE POD, do not try to repair it.
+#
+# NEVER install: tensorflow, keras, vllm, bitsandbytes, flash-attn.
+#   - vllm hard-pins torch and will rewrite the image's CUDA stack. HF `generate` with
+#     left-padded batching costs ~$1.50 more in total and cannot break the environment.
+#   - flash-attn needs 30-60 min of PAID compile time. Use attn_implementation="sdpa".
+#   - bitsandbytes is unnecessary: bf16 Qwen2-Audio-7B is ~17 GB, fits 48 GB with room.
+#
+# Set before running anything:
+#   export USE_TF=0 TRANSFORMERS_NO_TF=1
+
+transformers==4.51.3
+accelerate==1.6.0
+peft==0.15.2
+trl==0.16.1
+datasets==3.5.0
+
+librosa==0.10.2.post1
+numba==0.60.0
+soundfile==0.12.1
+
+pandas
+pyarrow
+scikit-learn
+wandb

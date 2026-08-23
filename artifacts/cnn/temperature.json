@@ -1,0 +1,12 @@
+{
+  "temperature": 0.9915292263031006,
+  "split": "meld_dev",
+  "ece_before": 0.053595665210205735,
+  "ece_after": 0.05292081364870932,
+  "n": 1108,
+  "ckpts": [
+    "/Users/rishabh/Python/SER Project/artifacts/cnn/meld_seed0.pt"
+  ],
+  "ua": 25.49921819795758,
+  "wa": 40.794223826714806
+}
