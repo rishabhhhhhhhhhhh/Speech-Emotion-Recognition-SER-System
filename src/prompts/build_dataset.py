@@ -83,6 +83,10 @@ def main():
     ap.add_argument("--prior-wa", type=float, required=True, help="CNN standalone WA on this corpus")
     ap.add_argument("--seed", type=int, default=1337)
     ap.add_argument("--subset", type=int, default=0, help="stratified subset size (0 = all)")
+    ap.add_argument("--force-schema", choices=["IR", "EUR"], default=None,
+                    help="emit Paper B's IR or EUR baseline instead of ESR/PC_ESR. "
+                         "Used to reproduce the ESR > EUR > IR ordering; these carry no "
+                         "prior, so they isolate the reasoning FORMAT from the prior.")
     a = ap.parse_args()
 
     man = pd.read_csv(ROOT / f"data/manifests/{a.split}.csv")
@@ -108,14 +112,17 @@ def main():
         variants = [(np.full(len(df), c), c) for c in ("true", "none", "shuffled")]
 
     for cond_arr, tag in variants:
-        path = OUT / f"{a.split}_{tag}.jsonl"
+        suffix = a.force_schema.lower() if a.force_schema else tag
+        path = OUT / f"{a.split}_{suffix}.jsonl"
         counts = {}
         with open(path, "w") as fh:
             for i, row in enumerate(df.itertuples(index=False)):
                 cond = cond_arr[i]
                 counts[cond] = counts.get(cond, 0) + 1
                 p = P[i]
-                if cond == "none":
+                if a.force_schema:
+                    mode, top3 = a.force_schema, None
+                elif cond == "none":
                     mode, top3 = "ESR", None
                 else:
                     mode = "PC_ESR"

@@ -1,0 +1,8 @@
+# EXACT versions from the pod image runpod/pytorch:1.0.2-cu1281-torch280-ubuntu2404.
+# Passed via -c to EVERY pip install so pip can NEVER move the CUDA stack.
+# numpy is 2.1.2 here, NOT the Mac's 1.26.4 — torch 2.8 is built against numpy 2 and
+# downgrading would risk breaking it. The anchor rule is per-environment.
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+numpy==2.1.2

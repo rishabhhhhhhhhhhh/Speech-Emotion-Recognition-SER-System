@@ -110,6 +110,24 @@ def format_confusion(cm, labels=None) -> str:
     return "\n".join(out)
 
 
-def canon_predictions(raw_answers):
-    """Map raw <answer> strings to canonical labels (None if unmappable)."""
-    return [canonicalize(a) if a is not None else None for a in raw_answers]
+def canon_predictions(raw_answers, fallback_texts=None):
+    """Map raw <answer> strings to canonical labels (None if unmappable).
+
+    `fallback_texts` (the full responses) are consulted ONLY when no <answer> tag was
+    produced. Zero-shot Qwen2-Audio often replies with a bare label like "angry" and no
+    tags at all - that is a real prediction and scoring it 0 would understate the model
+    rather than measure it. Format compliance is scored separately and stays strict, so
+    the leniency here never inflates the format number.
+    """
+    out = []
+    for i, a in enumerate(raw_answers):
+        lab = canonicalize(a) if a is not None else None
+        if lab is None and fallback_texts is not None:
+            txt = (fallback_texts[i] or "").strip()
+            lab = canonicalize(txt)
+            if lab is None:
+                tail = [ln for ln in txt.splitlines() if ln.strip()]
+                if tail:
+                    lab = canonicalize(tail[-1])
+        out.append(lab)
+    return out

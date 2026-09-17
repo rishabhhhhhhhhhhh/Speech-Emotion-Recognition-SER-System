@@ -1,0 +1,16 @@
+{
+  "prompts": "artifacts/prompts/meld_dev_true.jsonl",
+  "adapter": null,
+  "n": 1108,
+  "UA": 26.81,
+  "WA": 53.19,
+  "F1": 28.96,
+  "eswr_soft": 63.27,
+  "format_compliance": 22.38,
+  "parse_rate": 83.48,
+  "verdict_counts": {
+    "null": 616,
+    "AGREE": 59,
+    "CONFLICT": 433
+  }
+}

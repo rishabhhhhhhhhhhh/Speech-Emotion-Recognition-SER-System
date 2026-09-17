@@ -1,0 +1,285 @@
+########## ir_audio_text ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 998.93it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 105/876 [00:00<00:00, 1046.36it/s]Loading weights:  24%|██▍       | 210/876 [00:00<00:00, 941.16it/s] Loading weights:  35%|███▍      | 305/876 [00:00<00:00, 936.66it/s]Loading weights:  46%|████▌     | 400/876 [00:00<00:00, 936.49it/s]Loading weights:  56%|█████▋    | 494/876 [00:00<00:01, 369.75it/s]Loading weights:  64%|██████▍   | 561/876 [00:01<00:01, 247.95it/s]Loading weights:  70%|██████▉   | 610/876 [00:01<00:01, 197.57it/s]Loading weights:  74%|███████▍  | 647/876 [00:02<00:01, 167.32it/s]Loading weights:  77%|███████▋  | 675/876 [00:02<00:01, 153.44it/s]Loading weights:  80%|███████▉  | 698/876 [00:02<00:01, 144.25it/s]Loading weights:  82%|████████▏ | 718/876 [00:02<00:01, 143.97it/s]Loading weights:  84%|████████▍ | 736/876 [00:03<00:01, 117.89it/s]Loading weights:  86%|████████▌ | 751/876 [00:03<00:01, 115.86it/s]Loading weights:  87%|████████▋ | 765/876 [00:03<00:00, 116.90it/s]Loading weights:  89%|████████▉ | 779/876 [00:03<00:00, 119.35it/s]Loading weights:  90%|█████████ | 792/876 [00:03<00:00, 120.04it/s]Loading weights:  92%|█████████▏| 805/876 [00:03<00:00, 117.51it/s]Loading weights:  93%|█████████▎| 818/876 [00:03<00:00, 115.81it/s]Loading weights:  95%|█████████▍| 832/876 [00:03<00:00, 120.50it/s]Loading weights:  96%|█████████▋| 845/876 [00:04<00:00, 118.50it/s]Loading weights:  98%|█████████▊| 858/876 [00:04<00:00, 119.96it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 204.10it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/300  3s  0.42s/item  eta 2.1min
+  16/300  6s  0.40s/item  eta 1.9min
+  24/300  9s  0.38s/item  eta 1.7min
+  32/300  11s  0.36s/item  eta 1.6min
+  40/300  15s  0.38s/item  eta 1.6min
+  48/300  17s  0.36s/item  eta 1.5min
+  56/300  20s  0.36s/item  eta 1.5min
+  64/300  23s  0.36s/item  eta 1.4min
+  72/300  25s  0.35s/item  eta 1.3min
+  80/300  29s  0.36s/item  eta 1.3min
+  88/300  31s  0.36s/item  eta 1.3min
+  96/300  34s  0.35s/item  eta 1.2min
+  104/300  37s  0.35s/item  eta 1.1min
+  112/300  39s  0.35s/item  eta 1.1min
+  120/300  42s  0.35s/item  eta 1.0min
+  128/300  44s  0.34s/item  eta 1.0min
+  136/300  47s  0.34s/item  eta 0.9min
+  144/300  51s  0.35s/item  eta 0.9min
+  152/300  53s  0.35s/item  eta 0.9min
+  160/300  56s  0.35s/item  eta 0.8min
+  168/300  59s  0.35s/item  eta 0.8min
+  176/300  62s  0.35s/item  eta 0.7min
+  184/300  65s  0.35s/item  eta 0.7min
+  192/300  67s  0.35s/item  eta 0.6min
+  200/300  70s  0.35s/item  eta 0.6min
+  208/300  72s  0.35s/item  eta 0.5min
+  216/300  75s  0.35s/item  eta 0.5min
+  224/300  77s  0.34s/item  eta 0.4min
+  232/300  80s  0.34s/item  eta 0.4min
+  240/300  82s  0.34s/item  eta 0.3min
+  248/300  85s  0.34s/item  eta 0.3min
+  256/300  87s  0.34s/item  eta 0.2min
+  264/300  90s  0.34s/item  eta 0.2min
+  272/300  93s  0.34s/item  eta 0.2min
+  280/300  96s  0.34s/item  eta 0.1min
+  288/300  99s  0.34s/item  eta 0.1min
+  296/300  101s  0.34s/item  eta 0.0min
+  300/300  103s  0.34s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_dev_ir.jsonl",
+  "adapter": null,
+  "n": 300,
+  "silent_audio": false,
+  "no_transcript": false,
+  "UA": 51.54,
+  "WA": 57.58,
+  "F1": 48.22,
+  "eswr_soft": 78.58,
+  "format_compliance": 0.0,
+  "parse_rate": 99.0,
+  "verdict_counts": {
+    "null": 300
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral       72     8     4     6    18     1     4    63.7%
+joy           11    18     1     2     1     0     0    54.5%
+sadness        1     2    22     1     3     1     1    71.0%
+anger         12     3    12    22     3     1     4    38.6%
+surprise       2     2     7     2    33     2     0    68.8%
+fear           0     1     2     1     4     2     1    18.2%
+disgust        1     0     1     0     1     1     3    42.9%
+
+-> artifacts/results/diag_ir_audio_text.json
+########## ir_SILENT_text ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 1122.67it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 117/876 [00:00<00:00, 1167.90it/s]Loading weights:  27%|██▋       | 234/876 [00:00<00:00, 1015.94it/s]Loading weights:  38%|███▊      | 337/876 [00:00<00:00, 1000.33it/s]Loading weights:  50%|█████     | 438/876 [00:00<00:00, 975.46it/s] Loading weights:  61%|██████    | 536/876 [00:01<00:01, 288.61it/s]Loading weights:  69%|██████▉   | 603/876 [00:01<00:01, 209.22it/s]Loading weights:  74%|███████▍  | 652/876 [00:02<00:01, 181.43it/s]Loading weights:  79%|███████▊  | 689/876 [00:02<00:01, 164.54it/s]Loading weights:  82%|████████▏ | 718/876 [00:02<00:01, 157.57it/s]Loading weights:  85%|████████▍ | 742/876 [00:02<00:00, 146.21it/s]Loading weights:  87%|████████▋ | 762/876 [00:03<00:00, 136.79it/s]Loading weights:  89%|████████▉ | 779/876 [00:03<00:00, 133.54it/s]Loading weights:  91%|█████████ | 795/876 [00:03<00:00, 127.89it/s]Loading weights:  92%|█████████▏| 809/876 [00:03<00:00, 126.01it/s]Loading weights:  94%|█████████▍| 823/876 [00:03<00:00, 125.05it/s]Loading weights:  95%|█████████▌| 836/876 [00:03<00:00, 125.86it/s]Loading weights:  97%|█████████▋| 849/876 [00:03<00:00, 123.20it/s]Loading weights:  98%|█████████▊| 862/876 [00:04<00:00, 123.23it/s]Loading weights: 100%|█████████▉| 875/876 [00:04<00:00, 124.07it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 211.65it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/300  3s  0.41s/item  eta 2.0min
+  16/300  7s  0.42s/item  eta 2.0min
+  24/300  9s  0.39s/item  eta 1.8min
+  32/300  12s  0.37s/item  eta 1.6min
+  40/300  15s  0.39s/item  eta 1.7min
+  48/300  18s  0.38s/item  eta 1.6min
+  56/300  21s  0.37s/item  eta 1.5min
+  64/300  24s  0.37s/item  eta 1.5min
+  72/300  26s  0.36s/item  eta 1.4min
+  80/300  28s  0.36s/item  eta 1.3min
+  88/300  31s  0.35s/item  eta 1.2min
+  96/300  33s  0.35s/item  eta 1.2min
+  104/300  36s  0.35s/item  eta 1.1min
+  112/300  39s  0.34s/item  eta 1.1min
+  120/300  41s  0.34s/item  eta 1.0min
+  128/300  44s  0.34s/item  eta 1.0min
+  136/300  47s  0.34s/item  eta 0.9min
+  144/300  52s  0.36s/item  eta 0.9min
+  152/300  55s  0.36s/item  eta 0.9min
+  160/300  58s  0.36s/item  eta 0.8min
+  168/300  60s  0.36s/item  eta 0.8min
+  176/300  63s  0.36s/item  eta 0.7min
+  184/300  66s  0.36s/item  eta 0.7min
+  192/300  68s  0.35s/item  eta 0.6min
+  200/300  71s  0.35s/item  eta 0.6min
+  208/300  73s  0.35s/item  eta 0.5min
+  216/300  76s  0.35s/item  eta 0.5min
+  224/300  78s  0.35s/item  eta 0.4min
+  232/300  81s  0.35s/item  eta 0.4min
+  240/300  84s  0.35s/item  eta 0.3min
+  248/300  86s  0.35s/item  eta 0.3min
+  256/300  89s  0.35s/item  eta 0.3min
+  264/300  92s  0.35s/item  eta 0.2min
+  272/300  95s  0.35s/item  eta 0.2min
+  280/300  98s  0.35s/item  eta 0.1min
+  288/300  100s  0.35s/item  eta 0.1min
+  296/300  103s  0.35s/item  eta 0.0min
+  300/300  105s  0.35s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_dev_ir.jsonl",
+  "adapter": null,
+  "n": 300,
+  "silent_audio": true,
+  "no_transcript": false,
+  "UA": 50.95,
+  "WA": 56.33,
+  "F1": 47.96,
+  "eswr_soft": 78.91,
+  "format_compliance": 0.0,
+  "parse_rate": 100.0,
+  "verdict_counts": {
+    "null": 300
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral       74     7     6     3    14     1     8    65.5%
+joy            9    23     0     1     0     0     0    69.7%
+sadness        5     1    17     2     2     1     3    54.8%
+anger         13     3    15    17     4     1     4    29.8%
+surprise       6     2     5     2    32     1     0    66.7%
+fear           1     2     1     2     2     3     0    27.3%
+disgust        1     0     2     1     0     0     3    42.9%
+
+-> artifacts/results/diag_ir_SILENT_text.json
+########## ir_audio_NOTEXT ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 991.00it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 101/876 [00:00<00:00, 1008.10it/s]Loading weights:  23%|██▎       | 202/876 [00:00<00:00, 891.54it/s] Loading weights:  33%|███▎      | 293/876 [00:00<00:00, 861.39it/s]Loading weights:  43%|████▎     | 380/876 [00:00<00:00, 855.42it/s]Loading weights:  53%|█████▎    | 466/876 [00:00<00:00, 838.76it/s]Loading weights:  63%|██████▎   | 551/876 [00:01<00:01, 227.79it/s]Loading weights:  70%|██████▉   | 610/876 [00:01<00:01, 185.99it/s]Loading weights:  75%|███████▍  | 654/876 [00:02<00:01, 161.31it/s]Loading weights:  78%|███████▊  | 687/876 [00:02<00:01, 146.80it/s]Loading weights:  81%|████████▏ | 713/876 [00:02<00:01, 139.42it/s]Loading weights:  84%|████████▍ | 735/876 [00:03<00:01, 134.66it/s]Loading weights:  86%|████████▌ | 754/876 [00:03<00:00, 135.40it/s]Loading weights:  88%|████████▊ | 771/876 [00:03<00:00, 126.79it/s]Loading weights:  90%|████████▉ | 786/876 [00:03<00:00, 124.05it/s]Loading weights:  91%|█████████▏| 800/876 [00:03<00:00, 124.70it/s]Loading weights:  93%|█████████▎| 814/876 [00:03<00:00, 123.26it/s]Loading weights:  94%|█████████▍| 827/876 [00:03<00:00, 116.77it/s]Loading weights:  96%|█████████▌| 840/876 [00:04<00:00, 113.09it/s]Loading weights:  97%|█████████▋| 852/876 [00:04<00:00, 113.77it/s]Loading weights:  99%|█████████▊| 864/876 [00:04<00:00, 114.92it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 202.94it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/300  3s  0.38s/item  eta 1.8min
+  16/300  6s  0.35s/item  eta 1.6min
+  24/300  8s  0.32s/item  eta 1.5min
+  32/300  10s  0.32s/item  eta 1.4min
+  40/300  13s  0.33s/item  eta 1.4min
+  48/300  16s  0.32s/item  eta 1.4min
+  56/300  18s  0.32s/item  eta 1.3min
+  64/300  21s  0.33s/item  eta 1.3min
+  72/300  23s  0.32s/item  eta 1.2min
+  80/300  25s  0.32s/item  eta 1.2min
+  88/300  28s  0.32s/item  eta 1.1min
+  96/300  30s  0.31s/item  eta 1.1min
+  104/300  32s  0.31s/item  eta 1.0min
+  112/300  34s  0.31s/item  eta 1.0min
+  120/300  37s  0.31s/item  eta 0.9min
+  128/300  39s  0.31s/item  eta 0.9min
+  136/300  42s  0.31s/item  eta 0.8min
+  144/300  44s  0.30s/item  eta 0.8min
+  152/300  46s  0.30s/item  eta 0.7min
+  160/300  49s  0.30s/item  eta 0.7min
+  168/300  51s  0.30s/item  eta 0.7min
+  176/300  54s  0.30s/item  eta 0.6min
+  184/300  56s  0.30s/item  eta 0.6min
+  192/300  58s  0.30s/item  eta 0.5min
+  200/300  61s  0.30s/item  eta 0.5min
+  208/300  63s  0.30s/item  eta 0.5min
+  216/300  65s  0.30s/item  eta 0.4min
+  224/300  67s  0.30s/item  eta 0.4min
+  232/300  70s  0.30s/item  eta 0.3min
+  240/300  72s  0.30s/item  eta 0.3min
+  248/300  75s  0.30s/item  eta 0.3min
+  256/300  77s  0.30s/item  eta 0.2min
+  264/300  80s  0.30s/item  eta 0.2min
+  272/300  83s  0.30s/item  eta 0.1min
+  280/300  85s  0.30s/item  eta 0.1min
+  288/300  88s  0.30s/item  eta 0.1min
+  296/300  90s  0.30s/item  eta 0.0min
+  300/300  92s  0.31s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_dev_ir.jsonl",
+  "adapter": null,
+  "n": 300,
+  "silent_audio": false,
+  "no_transcript": true,
+  "UA": 42.63,
+  "WA": 53.67,
+  "F1": 40.73,
+  "eswr_soft": 75.69,
+  "format_compliance": 0.0,
+  "parse_rate": 100.0,
+  "verdict_counts": {
+    "null": 300
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral       76     3     5     9     8    10     2    67.3%
+joy           16    10     2     2     1     1     1    30.3%
+sadness        3     1    22     4     1     0     0    71.0%
+anger          7     2    10    26     4     4     4    45.6%
+surprise       8     1     7     6    23     3     0    47.9%
+fear           0     1     2     2     2     4     0    36.4%
+disgust        2     1     2     0     0     2     0     0.0%
+
+-> artifacts/results/diag_ir_audio_NOTEXT.json
+########## ir_SILENT_NOTEXT ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 1088.13it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  12%|█▏        | 109/876 [00:00<00:00, 1088.96it/s]Loading weights:  25%|██▍       | 218/876 [00:00<00:00, 997.61it/s] Loading weights:  36%|███▋      | 319/876 [00:00<00:00, 934.33it/s]Loading weights:  47%|████▋     | 413/876 [00:00<00:00, 913.05it/s]Loading weights:  58%|█████▊    | 505/876 [00:01<00:01, 340.96it/s]Loading weights:  65%|██████▌   | 570/876 [00:01<00:01, 234.25it/s]Loading weights:  70%|███████   | 617/876 [00:01<00:01, 193.51it/s]Loading weights:  75%|███████▍  | 653/876 [00:02<00:01, 171.53it/s]Loading weights:  78%|███████▊  | 681/876 [00:02<00:01, 154.22it/s]Loading weights:  80%|████████  | 704/876 [00:02<00:01, 142.27it/s]Loading weights:  83%|████████▎ | 723/876 [00:02<00:01, 140.23it/s]Loading weights:  84%|████████▍ | 740/876 [00:03<00:00, 143.76it/s]Loading weights:  86%|████████▋ | 757/876 [00:03<00:00, 137.32it/s]Loading weights:  88%|████████▊ | 773/876 [00:03<00:00, 136.53it/s]Loading weights:  90%|████████▉ | 788/876 [00:03<00:00, 134.46it/s]Loading weights:  92%|█████████▏| 803/876 [00:03<00:00, 127.80it/s]Loading weights:  93%|█████████▎| 817/876 [00:03<00:00, 116.61it/s]Loading weights:  95%|█████████▍| 829/876 [00:03<00:00, 116.47it/s]Loading weights:  96%|█████████▌| 842/876 [00:03<00:00, 119.62it/s]Loading weights:  98%|█████████▊| 856/876 [00:04<00:00, 123.94it/s]Loading weights:  99%|█████████▉| 869/876 [00:04<00:00, 123.30it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 211.66it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/300  3s  0.42s/item  eta 2.1min
+  16/300  6s  0.39s/item  eta 1.9min
+  24/300  9s  0.38s/item  eta 1.7min
+  32/300  12s  0.36s/item  eta 1.6min
+  40/300  15s  0.39s/item  eta 1.7min
+  48/300  18s  0.38s/item  eta 1.6min
+  56/300  21s  0.37s/item  eta 1.5min
+  64/300  23s  0.37s/item  eta 1.4min
+  72/300  26s  0.36s/item  eta 1.4min
+  80/300  28s  0.35s/item  eta 1.3min
+  88/300  31s  0.35s/item  eta 1.2min
+  96/300  33s  0.35s/item  eta 1.2min
+  104/300  36s  0.35s/item  eta 1.1min
+  112/300  39s  0.34s/item  eta 1.1min
+  120/300  41s  0.34s/item  eta 1.0min
+  128/300  44s  0.34s/item  eta 1.0min
+  136/300  46s  0.34s/item  eta 0.9min
+  144/300  49s  0.34s/item  eta 0.9min
+  152/300  52s  0.34s/item  eta 0.8min
+  160/300  54s  0.34s/item  eta 0.8min
+  168/300  57s  0.34s/item  eta 0.7min
+  176/300  60s  0.34s/item  eta 0.7min
+  184/300  62s  0.34s/item  eta 0.7min
+  192/300  65s  0.34s/item  eta 0.6min
+  200/300  67s  0.34s/item  eta 0.6min
+  208/300  70s  0.34s/item  eta 0.5min
+  216/300  72s  0.33s/item  eta 0.5min
+  224/300  75s  0.33s/item  eta 0.4min
+  232/300  77s  0.33s/item  eta 0.4min
+  240/300  80s  0.33s/item  eta 0.3min
+  248/300  83s  0.33s/item  eta 0.3min
+  256/300  85s  0.33s/item  eta 0.2min
+  264/300  88s  0.33s/item  eta 0.2min
+  272/300  91s  0.34s/item  eta 0.2min
+  280/300  94s  0.34s/item  eta 0.1min
+  288/300  97s  0.34s/item  eta 0.1min
+  296/300  99s  0.34s/item  eta 0.0min
+  300/300  101s  0.34s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_dev_ir.jsonl",
+  "adapter": null,
+  "n": 300,
+  "silent_audio": true,
+  "no_transcript": true,
+  "UA": 14.26,
+  "WA": 28.33,
+  "F1": 7.91,
+  "eswr_soft": 63.16,
+  "format_compliance": 0.0,
+  "parse_rate": 100.0,
+  "verdict_counts": {
+    "null": 300
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral       82     0     0     0     0    31     0    72.6%
+joy           25     0     0     0     0     8     0     0.0%
+sadness       26     0     0     0     0     5     0     0.0%
+anger         46     0     0     0     0    11     0     0.0%
+surprise      37     0     0     0     0    11     0     0.0%
+fear           8     0     0     0     0     3     0    27.3%
+disgust        3     0     0     0     0     4     0     0.0%
+
+-> artifacts/results/diag_ir_SILENT_NOTEXT.json
+ALL_DIAG_DONE

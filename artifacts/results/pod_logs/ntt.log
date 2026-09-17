@@ -1,0 +1,1445 @@
+########## pcesr_TRUE ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 1005.30it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  13%|█▎        | 116/876 [00:00<00:00, 1151.17it/s]Loading weights:  26%|██▋       | 232/876 [00:00<00:00, 1084.03it/s]Loading weights:  39%|███▉      | 341/876 [00:00<00:00, 993.90it/s] Loading weights:  50%|█████     | 442/876 [00:00<00:00, 974.29it/s]Loading weights:  62%|██████▏   | 540/876 [00:01<00:01, 285.58it/s]Loading weights:  69%|██████▉   | 607/876 [00:01<00:01, 213.75it/s]Loading weights:  75%|███████▍  | 656/876 [00:02<00:01, 182.03it/s]Loading weights:  79%|███████▉  | 693/876 [00:02<00:01, 163.07it/s]Loading weights:  82%|████████▏ | 722/876 [00:02<00:01, 149.95it/s]Loading weights:  85%|████████▌ | 745/876 [00:03<00:00, 143.37it/s]Loading weights:  87%|████████▋ | 765/876 [00:03<00:00, 144.77it/s]Loading weights:  89%|████████▉ | 784/876 [00:03<00:00, 134.94it/s]Loading weights:  91%|█████████▏| 800/876 [00:03<00:00, 133.69it/s]Loading weights:  93%|█████████▎| 815/876 [00:03<00:00, 128.02it/s]Loading weights:  95%|█████████▍| 829/876 [00:03<00:00, 118.91it/s]Loading weights:  96%|█████████▌| 843/876 [00:03<00:00, 123.12it/s]Loading weights:  98%|█████████▊| 856/876 [00:03<00:00, 123.76it/s]Loading weights:  99%|█████████▉| 871/876 [00:04<00:00, 129.06it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 215.03it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/2610  11s  1.32s/item  eta 57.2min
+  16/2610  30s  1.84s/item  eta 79.8min
+  24/2610  43s  1.78s/item  eta 76.9min
+  32/2610  52s  1.63s/item  eta 70.2min
+  40/2610  62s  1.55s/item  eta 66.6min
+  48/2610  70s  1.45s/item  eta 62.0min
+  56/2610  79s  1.42s/item  eta 60.3min
+  64/2610  89s  1.39s/item  eta 59.0min
+  72/2610  99s  1.37s/item  eta 57.9min
+  80/2610  108s  1.35s/item  eta 57.0min
+  88/2610  122s  1.39s/item  eta 58.3min
+  96/2610  133s  1.39s/item  eta 58.1min
+  104/2610  144s  1.39s/item  eta 57.9min
+  112/2610  150s  1.34s/item  eta 55.9min
+  120/2610  161s  1.34s/item  eta 55.6min
+  128/2610  169s  1.32s/item  eta 54.5min
+  136/2610  177s  1.30s/item  eta 53.8min
+  144/2610  192s  1.33s/item  eta 54.8min
+  152/2610  200s  1.31s/item  eta 53.8min
+  160/2610  208s  1.30s/item  eta 53.1min
+  168/2610  216s  1.28s/item  eta 52.2min
+  176/2610  227s  1.29s/item  eta 52.4min
+  184/2610  237s  1.29s/item  eta 52.1min
+  192/2610  246s  1.28s/item  eta 51.7min
+  200/2610  256s  1.28s/item  eta 51.4min
+  208/2610  268s  1.29s/item  eta 51.6min
+  216/2610  277s  1.28s/item  eta 51.1min
+  224/2610  283s  1.26s/item  eta 50.3min
+  232/2610  295s  1.27s/item  eta 50.4min
+  240/2610  315s  1.31s/item  eta 51.9min
+  248/2610  323s  1.30s/item  eta 51.2min
+  256/2610  331s  1.29s/item  eta 50.7min
+  264/2610  345s  1.31s/item  eta 51.1min
+  272/2610  354s  1.30s/item  eta 50.7min
+  280/2610  362s  1.29s/item  eta 50.2min
+  288/2610  374s  1.30s/item  eta 50.2min
+  296/2610  387s  1.31s/item  eta 50.4min
+  304/2610  399s  1.31s/item  eta 50.5min
+  312/2610  412s  1.32s/item  eta 50.6min
+  320/2610  422s  1.32s/item  eta 50.4min
+  328/2610  434s  1.32s/item  eta 50.3min
+  336/2610  444s  1.32s/item  eta 50.1min
+  344/2610  480s  1.40s/item  eta 52.7min
+  352/2610  494s  1.40s/item  eta 52.8min
+  360/2610  506s  1.40s/item  eta 52.7min
+  368/2610  515s  1.40s/item  eta 52.3min
+  376/2610  522s  1.39s/item  eta 51.7min
+  384/2610  533s  1.39s/item  eta 51.5min
+  392/2610  545s  1.39s/item  eta 51.4min
+  400/2610  555s  1.39s/item  eta 51.1min
+  408/2610  568s  1.39s/item  eta 51.1min
+  416/2610  579s  1.39s/item  eta 50.9min
+  424/2610  592s  1.40s/item  eta 50.9min
+  432/2610  600s  1.39s/item  eta 50.4min
+  440/2610  608s  1.38s/item  eta 49.9min
+  448/2610  626s  1.40s/item  eta 50.4min
+  456/2610  635s  1.39s/item  eta 50.0min
+  464/2610  646s  1.39s/item  eta 49.8min
+  472/2610  655s  1.39s/item  eta 49.5min
+  480/2610  668s  1.39s/item  eta 49.4min
+  488/2610  677s  1.39s/item  eta 49.0min
+  496/2610  688s  1.39s/item  eta 48.8min
+  504/2610  702s  1.39s/item  eta 48.9min
+  512/2610  713s  1.39s/item  eta 48.7min
+  520/2610  723s  1.39s/item  eta 48.4min
+  528/2610  733s  1.39s/item  eta 48.2min
+  536/2610  743s  1.39s/item  eta 47.9min
+  544/2610  752s  1.38s/item  eta 47.6min
+  552/2610  765s  1.39s/item  eta 47.5min
+  560/2610  778s  1.39s/item  eta 47.5min
+  568/2610  788s  1.39s/item  eta 47.2min
+  576/2610  797s  1.38s/item  eta 46.9min
+  584/2610  805s  1.38s/item  eta 46.6min
+  592/2610  816s  1.38s/item  eta 46.4min
+  600/2610  830s  1.38s/item  eta 46.3min
+  608/2610  840s  1.38s/item  eta 46.1min
+  616/2610  849s  1.38s/item  eta 45.8min
+  624/2610  857s  1.37s/item  eta 45.4min
+  632/2610  866s  1.37s/item  eta 45.2min
+  640/2610  874s  1.36s/item  eta 44.8min
+  648/2610  883s  1.36s/item  eta 44.5min
+  656/2610  894s  1.36s/item  eta 44.4min
+  664/2610  905s  1.36s/item  eta 44.2min
+  672/2610  914s  1.36s/item  eta 43.9min
+  680/2610  925s  1.36s/item  eta 43.7min
+  688/2610  935s  1.36s/item  eta 43.5min
+  696/2610  944s  1.36s/item  eta 43.3min
+  704/2610  957s  1.36s/item  eta 43.2min
+  712/2610  968s  1.36s/item  eta 43.0min
+  720/2610  979s  1.36s/item  eta 42.8min
+  728/2610  988s  1.36s/item  eta 42.6min
+  736/2610  997s  1.35s/item  eta 42.3min
+  744/2610  1006s  1.35s/item  eta 42.1min
+  752/2610  1016s  1.35s/item  eta 41.8min
+  760/2610  1025s  1.35s/item  eta 41.6min
+  768/2610  1033s  1.34s/item  eta 41.3min
+  776/2610  1042s  1.34s/item  eta 41.0min
+  784/2610  1051s  1.34s/item  eta 40.8min
+  792/2610  1062s  1.34s/item  eta 40.6min
+  800/2610  1073s  1.34s/item  eta 40.5min
+  808/2610  1081s  1.34s/item  eta 40.2min
+  816/2610  1089s  1.33s/item  eta 39.9min
+  824/2610  1098s  1.33s/item  eta 39.7min
+  832/2610  1106s  1.33s/item  eta 39.4min
+  840/2610  1114s  1.33s/item  eta 39.1min
+  848/2610  1127s  1.33s/item  eta 39.0min
+  856/2610  1136s  1.33s/item  eta 38.8min
+  864/2610  1150s  1.33s/item  eta 38.7min
+  872/2610  1185s  1.36s/item  eta 39.4min
+  880/2610  1194s  1.36s/item  eta 39.1min
+  888/2610  1202s  1.35s/item  eta 38.9min
+  896/2610  1213s  1.35s/item  eta 38.7min
+  904/2610  1220s  1.35s/item  eta 38.4min
+  912/2610  1228s  1.35s/item  eta 38.1min
+  920/2610  1240s  1.35s/item  eta 38.0min
+  928/2610  1279s  1.38s/item  eta 38.6min
+  936/2610  1294s  1.38s/item  eta 38.6min
+  944/2610  1301s  1.38s/item  eta 38.3min
+  952/2610  1312s  1.38s/item  eta 38.1min
+  960/2610  1324s  1.38s/item  eta 37.9min
+  968/2610  1334s  1.38s/item  eta 37.7min
+  976/2610  1346s  1.38s/item  eta 37.6min
+  984/2610  1355s  1.38s/item  eta 37.3min
+  992/2610  1363s  1.37s/item  eta 37.1min
+  1000/2610  1374s  1.37s/item  eta 36.9min
+  1008/2610  1386s  1.37s/item  eta 36.7min
+  1016/2610  1395s  1.37s/item  eta 36.5min
+  1024/2610  1404s  1.37s/item  eta 36.2min
+  1032/2610  1416s  1.37s/item  eta 36.1min
+  1040/2610  1428s  1.37s/item  eta 35.9min
+  1048/2610  1437s  1.37s/item  eta 35.7min
+  1056/2610  1446s  1.37s/item  eta 35.5min
+  1064/2610  1483s  1.39s/item  eta 35.9min
+  1072/2610  1494s  1.39s/item  eta 35.7min
+  1080/2610  1504s  1.39s/item  eta 35.5min
+  1088/2610  1513s  1.39s/item  eta 35.3min
+  1096/2610  1524s  1.39s/item  eta 35.1min
+  1104/2610  1533s  1.39s/item  eta 34.9min
+  1112/2610  1545s  1.39s/item  eta 34.7min
+  1120/2610  1558s  1.39s/item  eta 34.5min
+  1128/2610  1570s  1.39s/item  eta 34.4min
+  1136/2610  1579s  1.39s/item  eta 34.2min
+  1144/2610  1592s  1.39s/item  eta 34.0min
+  1152/2610  1600s  1.39s/item  eta 33.7min
+  1160/2610  1609s  1.39s/item  eta 33.5min
+  1168/2610  1645s  1.41s/item  eta 33.9min
+  1176/2610  1653s  1.41s/item  eta 33.6min
+  1184/2610  1663s  1.40s/item  eta 33.4min
+  1192/2610  1699s  1.43s/item  eta 33.7min
+  1200/2610  1708s  1.42s/item  eta 33.4min
+  1208/2610  1722s  1.43s/item  eta 33.3min
+  1216/2610  1736s  1.43s/item  eta 33.2min
+  1224/2610  1745s  1.43s/item  eta 32.9min
+  1232/2610  1758s  1.43s/item  eta 32.8min
+  1240/2610  1769s  1.43s/item  eta 32.6min
+  1248/2610  1779s  1.43s/item  eta 32.4min
+  1256/2610  1789s  1.42s/item  eta 32.1min
+  1264/2610  1798s  1.42s/item  eta 31.9min
+  1272/2610  1810s  1.42s/item  eta 31.7min
+  1280/2610  1846s  1.44s/item  eta 32.0min
+  1288/2610  1854s  1.44s/item  eta 31.7min
+  1296/2610  1862s  1.44s/item  eta 31.5min
+  1304/2610  1873s  1.44s/item  eta 31.3min
+  1312/2610  1884s  1.44s/item  eta 31.1min
+  1320/2610  1893s  1.43s/item  eta 30.8min
+  1328/2610  1908s  1.44s/item  eta 30.7min
+  1336/2610  1917s  1.44s/item  eta 30.5min
+  1344/2610  1929s  1.44s/item  eta 30.3min
+  1352/2610  1939s  1.43s/item  eta 30.1min
+  1360/2610  1949s  1.43s/item  eta 29.9min
+  1368/2610  1962s  1.43s/item  eta 29.7min
+  1376/2610  1975s  1.44s/item  eta 29.5min
+  1384/2610  1983s  1.43s/item  eta 29.3min
+  1392/2610  1991s  1.43s/item  eta 29.0min
+  1400/2610  2027s  1.45s/item  eta 29.2min
+  1408/2610  2036s  1.45s/item  eta 29.0min
+  1416/2610  2048s  1.45s/item  eta 28.8min
+  1424/2610  2059s  1.45s/item  eta 28.6min
+  1432/2610  2070s  1.45s/item  eta 28.4min
+  1440/2610  2082s  1.45s/item  eta 28.2min
+  1448/2610  2090s  1.44s/item  eta 28.0min
+  1456/2610  2103s  1.44s/item  eta 27.8min
+  1464/2610  2114s  1.44s/item  eta 27.6min
+  1472/2610  2123s  1.44s/item  eta 27.4min
+  1480/2610  2133s  1.44s/item  eta 27.1min
+  1488/2610  2145s  1.44s/item  eta 27.0min
+  1496/2610  2160s  1.44s/item  eta 26.8min
+  1504/2610  2168s  1.44s/item  eta 26.6min
+  1512/2610  2204s  1.46s/item  eta 26.7min
+  1520/2610  2215s  1.46s/item  eta 26.5min
+  1528/2610  2224s  1.46s/item  eta 26.2min
+  1536/2610  2260s  1.47s/item  eta 26.3min
+  1544/2610  2269s  1.47s/item  eta 26.1min
+  1552/2610  2277s  1.47s/item  eta 25.9min
+  1560/2610  2294s  1.47s/item  eta 25.7min
+  1568/2610  2303s  1.47s/item  eta 25.5min
+  1576/2610  2313s  1.47s/item  eta 25.3min
+  1584/2610  2322s  1.47s/item  eta 25.1min
+  1592/2610  2336s  1.47s/item  eta 24.9min
+  1600/2610  2348s  1.47s/item  eta 24.7min
+  1608/2610  2358s  1.47s/item  eta 24.5min
+  1616/2610  2367s  1.46s/item  eta 24.3min
+  1624/2610  2382s  1.47s/item  eta 24.1min
+  1632/2610  2393s  1.47s/item  eta 23.9min
+  1640/2610  2407s  1.47s/item  eta 23.7min
+  1648/2610  2416s  1.47s/item  eta 23.5min
+  1656/2610  2424s  1.46s/item  eta 23.3min
+  1664/2610  2433s  1.46s/item  eta 23.1min
+  1672/2610  2442s  1.46s/item  eta 22.8min
+  1680/2610  2450s  1.46s/item  eta 22.6min
+  1688/2610  2466s  1.46s/item  eta 22.4min
+  1696/2610  2478s  1.46s/item  eta 22.3min
+  1704/2610  2488s  1.46s/item  eta 22.0min
+  1712/2610  2496s  1.46s/item  eta 21.8min
+  1720/2610  2508s  1.46s/item  eta 21.6min
+  1728/2610  2516s  1.46s/item  eta 21.4min
+  1736/2610  2528s  1.46s/item  eta 21.2min
+  1744/2610  2537s  1.45s/item  eta 21.0min
+  1752/2610  2549s  1.45s/item  eta 20.8min
+  1760/2610  2559s  1.45s/item  eta 20.6min
+  1768/2610  2567s  1.45s/item  eta 20.4min
+  1776/2610  2577s  1.45s/item  eta 20.2min
+  1784/2610  2586s  1.45s/item  eta 20.0min
+  1792/2610  2595s  1.45s/item  eta 19.7min
+  1800/2610  2605s  1.45s/item  eta 19.5min
+  1808/2610  2616s  1.45s/item  eta 19.3min
+  1816/2610  2625s  1.45s/item  eta 19.1min
+  1824/2610  2662s  1.46s/item  eta 19.1min
+  1832/2610  2674s  1.46s/item  eta 18.9min
+  1840/2610  2685s  1.46s/item  eta 18.7min
+  1848/2610  2701s  1.46s/item  eta 18.6min
+  1856/2610  2709s  1.46s/item  eta 18.3min
+  1864/2610  2720s  1.46s/item  eta 18.1min
+  1872/2610  2731s  1.46s/item  eta 17.9min
+  1880/2610  2740s  1.46s/item  eta 17.7min
+  1888/2610  2747s  1.45s/item  eta 17.5min
+  1896/2610  2755s  1.45s/item  eta 17.3min
+  1904/2610  2765s  1.45s/item  eta 17.1min
+  1912/2610  2774s  1.45s/item  eta 16.9min
+  1920/2610  2786s  1.45s/item  eta 16.7min
+  1928/2610  2793s  1.45s/item  eta 16.5min
+  1936/2610  2803s  1.45s/item  eta 16.3min
+  1944/2610  2814s  1.45s/item  eta 16.1min
+  1952/2610  2825s  1.45s/item  eta 15.9min
+  1960/2610  2836s  1.45s/item  eta 15.7min
+  1968/2610  2848s  1.45s/item  eta 15.5min
+  1976/2610  2858s  1.45s/item  eta 15.3min
+  1984/2610  2870s  1.45s/item  eta 15.1min
+  1992/2610  2882s  1.45s/item  eta 14.9min
+  2000/2610  2895s  1.45s/item  eta 14.7min
+  2008/2610  2904s  1.45s/item  eta 14.5min
+  2016/2610  2918s  1.45s/item  eta 14.3min
+  2024/2610  2933s  1.45s/item  eta 14.2min
+  2032/2610  2944s  1.45s/item  eta 14.0min
+  2040/2610  2956s  1.45s/item  eta 13.8min
+  2048/2610  2964s  1.45s/item  eta 13.6min
+  2056/2610  2977s  1.45s/item  eta 13.4min
+  2064/2610  2987s  1.45s/item  eta 13.2min
+  2072/2610  2997s  1.45s/item  eta 13.0min
+  2080/2610  3008s  1.45s/item  eta 12.8min
+  2088/2610  3017s  1.45s/item  eta 12.6min
+  2096/2610  3025s  1.44s/item  eta 12.4min
+  2104/2610  3036s  1.44s/item  eta 12.2min
+  2112/2610  3046s  1.44s/item  eta 12.0min
+  2120/2610  3061s  1.44s/item  eta 11.8min
+  2128/2610  3072s  1.44s/item  eta 11.6min
+  2136/2610  3084s  1.44s/item  eta 11.4min
+  2144/2610  3096s  1.44s/item  eta 11.2min
+  2152/2610  3109s  1.44s/item  eta 11.0min
+  2160/2610  3118s  1.44s/item  eta 10.8min
+  2168/2610  3131s  1.44s/item  eta 10.6min
+  2176/2610  3147s  1.45s/item  eta 10.5min
+  2184/2610  3154s  1.44s/item  eta 10.3min
+  2192/2610  3165s  1.44s/item  eta 10.1min
+  2200/2610  3177s  1.44s/item  eta 9.9min
+  2208/2610  3190s  1.44s/item  eta 9.7min
+  2216/2610  3199s  1.44s/item  eta 9.5min
+  2224/2610  3209s  1.44s/item  eta 9.3min
+  2232/2610  3219s  1.44s/item  eta 9.1min
+  2240/2610  3229s  1.44s/item  eta 8.9min
+  2248/2610  3238s  1.44s/item  eta 8.7min
+  2256/2610  3247s  1.44s/item  eta 8.5min
+  2264/2610  3258s  1.44s/item  eta 8.3min
+  2272/2610  3268s  1.44s/item  eta 8.1min
+  2280/2610  3278s  1.44s/item  eta 7.9min
+  2288/2610  3286s  1.44s/item  eta 7.7min
+  2296/2610  3300s  1.44s/item  eta 7.5min
+  2304/2610  3312s  1.44s/item  eta 7.3min
+  2312/2610  3350s  1.45s/item  eta 7.2min
+  2320/2610  3359s  1.45s/item  eta 7.0min
+  2328/2610  3369s  1.45s/item  eta 6.8min
+  2336/2610  3379s  1.45s/item  eta 6.6min
+  2344/2610  3389s  1.45s/item  eta 6.4min
+  2352/2610  3401s  1.45s/item  eta 6.2min
+  2360/2610  3411s  1.45s/item  eta 6.0min
+  2368/2610  3420s  1.44s/item  eta 5.8min
+  2376/2610  3428s  1.44s/item  eta 5.6min
+  2384/2610  3437s  1.44s/item  eta 5.4min
+  2392/2610  3449s  1.44s/item  eta 5.2min
+  2400/2610  3457s  1.44s/item  eta 5.0min
+  2408/2610  3495s  1.45s/item  eta 4.9min
+  2416/2610  3503s  1.45s/item  eta 4.7min
+  2424/2610  3511s  1.45s/item  eta 4.5min
+  2432/2610  3523s  1.45s/item  eta 4.3min
+  2440/2610  3535s  1.45s/item  eta 4.1min
+  2448/2610  3545s  1.45s/item  eta 3.9min
+  2456/2610  3555s  1.45s/item  eta 3.7min
+  2464/2610  3564s  1.45s/item  eta 3.5min
+  2472/2610  3577s  1.45s/item  eta 3.3min
+  2480/2610  3586s  1.45s/item  eta 3.1min
+  2488/2610  3598s  1.45s/item  eta 2.9min
+  2496/2610  3612s  1.45s/item  eta 2.7min
+  2504/2610  3621s  1.45s/item  eta 2.6min
+  2512/2610  3631s  1.45s/item  eta 2.4min
+  2520/2610  3641s  1.44s/item  eta 2.2min
+  2528/2610  3652s  1.44s/item  eta 2.0min
+  2536/2610  3664s  1.44s/item  eta 1.8min
+  2544/2610  3674s  1.44s/item  eta 1.6min
+  2552/2610  3683s  1.44s/item  eta 1.4min
+  2560/2610  3693s  1.44s/item  eta 1.2min
+  2568/2610  3703s  1.44s/item  eta 1.0min
+  2576/2610  3714s  1.44s/item  eta 0.8min
+  2584/2610  3725s  1.44s/item  eta 0.6min
+  2592/2610  3734s  1.44s/item  eta 0.4min
+  2600/2610  3742s  1.44s/item  eta 0.2min
+  2608/2610  3754s  1.44s/item  eta 0.0min
+  2610/2610  3761s  1.44s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_test_true.jsonl",
+  "adapter": null,
+  "n": 2610,
+  "silent_audio": false,
+  "no_transcript": true,
+  "UA": 28.7,
+  "WA": 52.08,
+  "F1": 29.54,
+  "eswr_soft": 65.45,
+  "format_compliance": 0.15,
+  "parse_rate": 87.32,
+  "verdict_counts": {
+    "null": 2242,
+    "AGREE": 261,
+    "CONFLICT": 107
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral     1040    91    28    20    22    46     9    82.8%
+joy          248   116     9     9     8    10     2    28.9%
+sadness      136    11    23    11     5    18     4    11.1%
+anger        214    19    10    59    12    22     9    17.1%
+surprise     157    22     5    11    58    25     3    20.6%
+fear          34     2     3     2     0     9     0    18.0%
+disgust       46     5     1     6     3     3     4     5.9%
+
+-> artifacts/results/ntt_pcesr_TRUE.json
+########## pcesr_SHUFFLED ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 1051.57it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 144/876 [00:00<00:00, 1421.53it/s]Loading weights:  33%|███▎      | 287/876 [00:00<00:00, 1329.50it/s]Loading weights:  49%|████▉     | 430/876 [00:00<00:00, 1367.61it/s]Loading weights:  65%|██████▍   | 568/876 [00:01<00:01, 292.59it/s] Loading weights:  75%|███████▌  | 657/876 [00:02<00:01, 214.99it/s]Loading weights:  82%|████████▏ | 718/876 [00:02<00:00, 182.46it/s]Loading weights:  87%|████████▋ | 763/876 [00:03<00:00, 163.51it/s]Loading weights:  91%|█████████ | 797/876 [00:03<00:00, 151.20it/s]Loading weights:  94%|█████████▍| 824/876 [00:03<00:00, 146.87it/s]Loading weights:  97%|█████████▋| 846/876 [00:03<00:00, 140.65it/s]Loading weights:  99%|█████████▊| 865/876 [00:03<00:00, 132.78it/s]Loading weights: 100%|██████████| 876/876 [00:03<00:00, 220.14it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/2610  9s  1.16s/item  eta 50.4min
+  16/2610  25s  1.54s/item  eta 66.5min
+  24/2610  47s  1.95s/item  eta 84.1min
+  32/2610  56s  1.75s/item  eta 75.3min
+  40/2610  68s  1.69s/item  eta 72.4min
+  48/2610  79s  1.65s/item  eta 70.6min
+  56/2610  89s  1.58s/item  eta 67.4min
+  64/2610  100s  1.57s/item  eta 66.6min
+  72/2610  118s  1.64s/item  eta 69.3min
+  80/2610  129s  1.61s/item  eta 67.9min
+  88/2610  142s  1.62s/item  eta 67.9min
+  96/2610  151s  1.58s/item  eta 66.1min
+  104/2610  163s  1.57s/item  eta 65.6min
+  112/2610  170s  1.51s/item  eta 63.1min
+  120/2610  183s  1.52s/item  eta 63.2min
+  128/2610  193s  1.50s/item  eta 62.2min
+  136/2610  203s  1.50s/item  eta 61.7min
+  144/2610  216s  1.50s/item  eta 61.6min
+  152/2610  224s  1.48s/item  eta 60.4min
+  160/2610  234s  1.46s/item  eta 59.6min
+  168/2610  242s  1.44s/item  eta 58.6min
+  176/2610  256s  1.46s/item  eta 59.1min
+  184/2610  272s  1.48s/item  eta 59.8min
+  192/2610  280s  1.46s/item  eta 58.8min
+  200/2610  290s  1.45s/item  eta 58.2min
+  208/2610  300s  1.44s/item  eta 57.7min
+  216/2610  309s  1.43s/item  eta 57.0min
+  224/2610  316s  1.41s/item  eta 56.1min
+  232/2610  352s  1.52s/item  eta 60.2min
+  240/2610  363s  1.51s/item  eta 59.7min
+  248/2610  399s  1.61s/item  eta 63.4min
+  256/2610  408s  1.60s/item  eta 62.6min
+  264/2610  418s  1.59s/item  eta 62.0min
+  272/2610  427s  1.57s/item  eta 61.1min
+  280/2610  435s  1.55s/item  eta 60.3min
+  288/2610  447s  1.55s/item  eta 60.1min
+  296/2610  467s  1.58s/item  eta 60.8min
+  304/2610  479s  1.58s/item  eta 60.5min
+  312/2610  491s  1.57s/item  eta 60.3min
+  320/2610  503s  1.57s/item  eta 60.0min
+  328/2610  514s  1.57s/item  eta 59.6min
+  336/2610  524s  1.56s/item  eta 59.1min
+  344/2610  534s  1.55s/item  eta 58.6min
+  352/2610  545s  1.55s/item  eta 58.2min
+  360/2610  556s  1.54s/item  eta 57.9min
+  368/2610  566s  1.54s/item  eta 57.4min
+  376/2610  573s  1.52s/item  eta 56.7min
+  384/2610  583s  1.52s/item  eta 56.3min
+  392/2610  594s  1.51s/item  eta 56.0min
+  400/2610  606s  1.52s/item  eta 55.8min
+  408/2610  620s  1.52s/item  eta 55.8min
+  416/2610  632s  1.52s/item  eta 55.5min
+  424/2610  642s  1.51s/item  eta 55.2min
+  432/2610  651s  1.51s/item  eta 54.7min
+  440/2610  659s  1.50s/item  eta 54.1min
+  448/2610  670s  1.50s/item  eta 53.9min
+  456/2610  680s  1.49s/item  eta 53.5min
+  464/2610  691s  1.49s/item  eta 53.3min
+  472/2610  701s  1.49s/item  eta 52.9min
+  480/2610  713s  1.49s/item  eta 52.7min
+  488/2610  722s  1.48s/item  eta 52.4min
+  496/2610  732s  1.48s/item  eta 52.0min
+  504/2610  743s  1.47s/item  eta 51.8min
+  512/2610  752s  1.47s/item  eta 51.4min
+  520/2610  761s  1.46s/item  eta 51.0min
+  528/2610  796s  1.51s/item  eta 52.3min
+  536/2610  805s  1.50s/item  eta 51.9min
+  544/2610  817s  1.50s/item  eta 51.7min
+  552/2610  826s  1.50s/item  eta 51.3min
+  560/2610  864s  1.54s/item  eta 52.7min
+  568/2610  872s  1.53s/item  eta 52.2min
+  576/2610  882s  1.53s/item  eta 51.9min
+  584/2610  888s  1.52s/item  eta 51.4min
+  592/2610  899s  1.52s/item  eta 51.1min
+  600/2610  911s  1.52s/item  eta 50.9min
+  608/2610  921s  1.51s/item  eta 50.5min
+  616/2610  930s  1.51s/item  eta 50.2min
+  624/2610  941s  1.51s/item  eta 49.9min
+  632/2610  950s  1.50s/item  eta 49.6min
+  640/2610  960s  1.50s/item  eta 49.3min
+  648/2610  969s  1.49s/item  eta 48.9min
+  656/2610  982s  1.50s/item  eta 48.7min
+  664/2610  991s  1.49s/item  eta 48.4min
+  672/2610  1000s  1.49s/item  eta 48.1min
+  680/2610  1009s  1.48s/item  eta 47.7min
+  688/2610  1020s  1.48s/item  eta 47.5min
+  696/2610  1030s  1.48s/item  eta 47.2min
+  704/2610  1038s  1.47s/item  eta 46.8min
+  712/2610  1049s  1.47s/item  eta 46.6min
+  720/2610  1060s  1.47s/item  eta 46.4min
+  728/2610  1069s  1.47s/item  eta 46.1min
+  736/2610  1080s  1.47s/item  eta 45.9min
+  744/2610  1099s  1.48s/item  eta 45.9min
+  752/2610  1110s  1.48s/item  eta 45.7min
+  760/2610  1120s  1.47s/item  eta 45.4min
+  768/2610  1129s  1.47s/item  eta 45.1min
+  776/2610  1139s  1.47s/item  eta 44.8min
+  784/2610  1148s  1.46s/item  eta 44.5min
+  792/2610  1157s  1.46s/item  eta 44.3min
+  800/2610  1168s  1.46s/item  eta 44.0min
+  808/2610  1176s  1.46s/item  eta 43.7min
+  816/2610  1185s  1.45s/item  eta 43.4min
+  824/2610  1195s  1.45s/item  eta 43.2min
+  832/2610  1206s  1.45s/item  eta 42.9min
+  840/2610  1215s  1.45s/item  eta 42.7min
+  848/2610  1223s  1.44s/item  eta 42.4min
+  856/2610  1233s  1.44s/item  eta 42.1min
+  864/2610  1242s  1.44s/item  eta 41.8min
+  872/2610  1250s  1.43s/item  eta 41.5min
+  880/2610  1258s  1.43s/item  eta 41.2min
+  888/2610  1267s  1.43s/item  eta 41.0min
+  896/2610  1276s  1.42s/item  eta 40.7min
+  904/2610  1283s  1.42s/item  eta 40.4min
+  912/2610  1292s  1.42s/item  eta 40.1min
+  920/2610  1306s  1.42s/item  eta 40.0min
+  928/2610  1317s  1.42s/item  eta 39.8min
+  936/2610  1329s  1.42s/item  eta 39.6min
+  944/2610  1341s  1.42s/item  eta 39.5min
+  952/2610  1351s  1.42s/item  eta 39.2min
+  960/2610  1362s  1.42s/item  eta 39.0min
+  968/2610  1374s  1.42s/item  eta 38.8min
+  976/2610  1384s  1.42s/item  eta 38.6min
+  984/2610  1402s  1.42s/item  eta 38.6min
+  992/2610  1409s  1.42s/item  eta 38.3min
+  1000/2610  1433s  1.43s/item  eta 38.5min
+  1008/2610  1449s  1.44s/item  eta 38.4min
+  1016/2610  1459s  1.44s/item  eta 38.1min
+  1024/2610  1467s  1.43s/item  eta 37.9min
+  1032/2610  1482s  1.44s/item  eta 37.8min
+  1040/2610  1490s  1.43s/item  eta 37.5min
+  1048/2610  1504s  1.44s/item  eta 37.4min
+  1056/2610  1517s  1.44s/item  eta 37.2min
+  1064/2610  1554s  1.46s/item  eta 37.6min
+  1072/2610  1566s  1.46s/item  eta 37.5min
+  1080/2610  1577s  1.46s/item  eta 37.2min
+  1088/2610  1589s  1.46s/item  eta 37.0min
+  1096/2610  1598s  1.46s/item  eta 36.8min
+  1104/2610  1607s  1.46s/item  eta 36.5min
+  1112/2610  1617s  1.45s/item  eta 36.3min
+  1120/2610  1626s  1.45s/item  eta 36.1min
+  1128/2610  1639s  1.45s/item  eta 35.9min
+  1136/2610  1649s  1.45s/item  eta 35.7min
+  1144/2610  1662s  1.45s/item  eta 35.5min
+  1152/2610  1669s  1.45s/item  eta 35.2min
+  1160/2610  1678s  1.45s/item  eta 35.0min
+  1168/2610  1714s  1.47s/item  eta 35.3min
+  1176/2610  1723s  1.46s/item  eta 35.0min
+  1184/2610  1732s  1.46s/item  eta 34.8min
+  1192/2610  1742s  1.46s/item  eta 34.5min
+  1200/2610  1751s  1.46s/item  eta 34.3min
+  1208/2610  1765s  1.46s/item  eta 34.1min
+  1216/2610  1776s  1.46s/item  eta 33.9min
+  1224/2610  1784s  1.46s/item  eta 33.7min
+  1232/2610  1796s  1.46s/item  eta 33.5min
+  1240/2610  1808s  1.46s/item  eta 33.3min
+  1248/2610  1817s  1.46s/item  eta 33.0min
+  1256/2610  1825s  1.45s/item  eta 32.8min
+  1264/2610  1832s  1.45s/item  eta 32.5min
+  1272/2610  1844s  1.45s/item  eta 32.3min
+  1280/2610  1854s  1.45s/item  eta 32.1min
+  1288/2610  1869s  1.45s/item  eta 32.0min
+  1296/2610  1878s  1.45s/item  eta 31.7min
+  1304/2610  1888s  1.45s/item  eta 31.5min
+  1312/2610  1898s  1.45s/item  eta 31.3min
+  1320/2610  1909s  1.45s/item  eta 31.1min
+  1328/2610  1918s  1.44s/item  eta 30.9min
+  1336/2610  1926s  1.44s/item  eta 30.6min
+  1344/2610  1938s  1.44s/item  eta 30.4min
+  1352/2610  1947s  1.44s/item  eta 30.2min
+  1360/2610  1955s  1.44s/item  eta 30.0min
+  1368/2610  1965s  1.44s/item  eta 29.7min
+  1376/2610  1975s  1.44s/item  eta 29.5min
+  1384/2610  1983s  1.43s/item  eta 29.3min
+  1392/2610  1998s  1.44s/item  eta 29.1min
+  1400/2610  2034s  1.45s/item  eta 29.3min
+  1408/2610  2043s  1.45s/item  eta 29.1min
+  1416/2610  2054s  1.45s/item  eta 28.9min
+  1424/2610  2068s  1.45s/item  eta 28.7min
+  1432/2610  2077s  1.45s/item  eta 28.5min
+  1440/2610  2091s  1.45s/item  eta 28.3min
+  1448/2610  2101s  1.45s/item  eta 28.1min
+  1456/2610  2113s  1.45s/item  eta 27.9min
+  1464/2610  2125s  1.45s/item  eta 27.7min
+  1472/2610  2135s  1.45s/item  eta 27.5min
+  1480/2610  2146s  1.45s/item  eta 27.3min
+  1488/2610  2156s  1.45s/item  eta 27.1min
+  1496/2610  2167s  1.45s/item  eta 26.9min
+  1504/2610  2178s  1.45s/item  eta 26.7min
+  1512/2610  2188s  1.45s/item  eta 26.5min
+  1520/2610  2194s  1.44s/item  eta 26.2min
+  1528/2610  2204s  1.44s/item  eta 26.0min
+  1536/2610  2214s  1.44s/item  eta 25.8min
+  1544/2610  2226s  1.44s/item  eta 25.6min
+  1552/2610  2234s  1.44s/item  eta 25.4min
+  1560/2610  2245s  1.44s/item  eta 25.2min
+  1568/2610  2252s  1.44s/item  eta 24.9min
+  1576/2610  2261s  1.43s/item  eta 24.7min
+  1584/2610  2271s  1.43s/item  eta 24.5min
+  1592/2610  2280s  1.43s/item  eta 24.3min
+  1600/2610  2290s  1.43s/item  eta 24.1min
+  1608/2610  2297s  1.43s/item  eta 23.9min
+  1616/2610  2313s  1.43s/item  eta 23.7min
+  1624/2610  2324s  1.43s/item  eta 23.5min
+  1632/2610  2335s  1.43s/item  eta 23.3min
+  1640/2610  2347s  1.43s/item  eta 23.1min
+  1648/2610  2359s  1.43s/item  eta 23.0min
+  1656/2610  2368s  1.43s/item  eta 22.7min
+  1664/2610  2378s  1.43s/item  eta 22.5min
+  1672/2610  2389s  1.43s/item  eta 22.3min
+  1680/2610  2401s  1.43s/item  eta 22.1min
+  1688/2610  2411s  1.43s/item  eta 21.9min
+  1696/2610  2421s  1.43s/item  eta 21.7min
+  1704/2610  2434s  1.43s/item  eta 21.6min
+  1712/2610  2442s  1.43s/item  eta 21.3min
+  1720/2610  2451s  1.42s/item  eta 21.1min
+  1728/2610  2458s  1.42s/item  eta 20.9min
+  1736/2610  2467s  1.42s/item  eta 20.7min
+  1744/2610  2476s  1.42s/item  eta 20.5min
+  1752/2610  2489s  1.42s/item  eta 20.3min
+  1760/2610  2500s  1.42s/item  eta 20.1min
+  1768/2610  2517s  1.42s/item  eta 20.0min
+  1776/2610  2526s  1.42s/item  eta 19.8min
+  1784/2610  2534s  1.42s/item  eta 19.6min
+  1792/2610  2543s  1.42s/item  eta 19.3min
+  1800/2610  2550s  1.42s/item  eta 19.1min
+  1808/2610  2559s  1.42s/item  eta 18.9min
+  1816/2610  2566s  1.41s/item  eta 18.7min
+  1824/2610  2576s  1.41s/item  eta 18.5min
+  1832/2610  2585s  1.41s/item  eta 18.3min
+  1840/2610  2595s  1.41s/item  eta 18.1min
+  1848/2610  2608s  1.41s/item  eta 17.9min
+  1856/2610  2617s  1.41s/item  eta 17.7min
+  1864/2610  2632s  1.41s/item  eta 17.6min
+  1872/2610  2644s  1.41s/item  eta 17.4min
+  1880/2610  2655s  1.41s/item  eta 17.2min
+  1888/2610  2663s  1.41s/item  eta 17.0min
+  1896/2610  2671s  1.41s/item  eta 16.8min
+  1904/2610  2680s  1.41s/item  eta 16.6min
+  1912/2610  2691s  1.41s/item  eta 16.4min
+  1920/2610  2702s  1.41s/item  eta 16.2min
+  1928/2610  2714s  1.41s/item  eta 16.0min
+  1936/2610  2723s  1.41s/item  eta 15.8min
+  1944/2610  2734s  1.41s/item  eta 15.6min
+  1952/2610  2745s  1.41s/item  eta 15.4min
+  1960/2610  2754s  1.41s/item  eta 15.2min
+  1968/2610  2765s  1.41s/item  eta 15.0min
+  1976/2610  2779s  1.41s/item  eta 14.9min
+  1984/2610  2789s  1.41s/item  eta 14.7min
+  1992/2610  2797s  1.40s/item  eta 14.5min
+  2000/2610  2808s  1.40s/item  eta 14.3min
+  2008/2610  2819s  1.40s/item  eta 14.1min
+  2016/2610  2837s  1.41s/item  eta 13.9min
+  2024/2610  2848s  1.41s/item  eta 13.7min
+  2032/2610  2860s  1.41s/item  eta 13.6min
+  2040/2610  2872s  1.41s/item  eta 13.4min
+  2048/2610  2881s  1.41s/item  eta 13.2min
+  2056/2610  2898s  1.41s/item  eta 13.0min
+  2064/2610  2909s  1.41s/item  eta 12.8min
+  2072/2610  2917s  1.41s/item  eta 12.6min
+  2080/2610  2928s  1.41s/item  eta 12.4min
+  2088/2610  2940s  1.41s/item  eta 12.3min
+  2096/2610  2950s  1.41s/item  eta 12.1min
+  2104/2610  2963s  1.41s/item  eta 11.9min
+  2112/2610  2973s  1.41s/item  eta 11.7min
+  2120/2610  2987s  1.41s/item  eta 11.5min
+  2128/2610  2995s  1.41s/item  eta 11.3min
+  2136/2610  3002s  1.41s/item  eta 11.1min
+  2144/2610  3013s  1.41s/item  eta 10.9min
+  2152/2610  3024s  1.41s/item  eta 10.7min
+  2160/2610  3032s  1.40s/item  eta 10.5min
+  2168/2610  3040s  1.40s/item  eta 10.3min
+  2176/2610  3050s  1.40s/item  eta 10.1min
+  2184/2610  3064s  1.40s/item  eta 10.0min
+  2192/2610  3074s  1.40s/item  eta 9.8min
+  2200/2610  3086s  1.40s/item  eta 9.6min
+  2208/2610  3102s  1.41s/item  eta 9.4min
+  2216/2610  3110s  1.40s/item  eta 9.2min
+  2224/2610  3121s  1.40s/item  eta 9.0min
+  2232/2610  3132s  1.40s/item  eta 8.8min
+  2240/2610  3142s  1.40s/item  eta 8.7min
+  2248/2610  3151s  1.40s/item  eta 8.5min
+  2256/2610  3160s  1.40s/item  eta 8.3min
+  2264/2610  3171s  1.40s/item  eta 8.1min
+  2272/2610  3181s  1.40s/item  eta 7.9min
+  2280/2610  3192s  1.40s/item  eta 7.7min
+  2288/2610  3202s  1.40s/item  eta 7.5min
+  2296/2610  3214s  1.40s/item  eta 7.3min
+  2304/2610  3225s  1.40s/item  eta 7.1min
+  2312/2610  3263s  1.41s/item  eta 7.0min
+  2320/2610  3272s  1.41s/item  eta 6.8min
+  2328/2610  3282s  1.41s/item  eta 6.6min
+  2336/2610  3294s  1.41s/item  eta 6.4min
+  2344/2610  3307s  1.41s/item  eta 6.3min
+  2352/2610  3316s  1.41s/item  eta 6.1min
+  2360/2610  3325s  1.41s/item  eta 5.9min
+  2368/2610  3334s  1.41s/item  eta 5.7min
+  2376/2610  3346s  1.41s/item  eta 5.5min
+  2384/2610  3356s  1.41s/item  eta 5.3min
+  2392/2610  3367s  1.41s/item  eta 5.1min
+  2400/2610  3376s  1.41s/item  eta 4.9min
+  2408/2610  3393s  1.41s/item  eta 4.7min
+  2416/2610  3407s  1.41s/item  eta 4.6min
+  2424/2610  3416s  1.41s/item  eta 4.4min
+  2432/2610  3426s  1.41s/item  eta 4.2min
+  2440/2610  3437s  1.41s/item  eta 4.0min
+  2448/2610  3449s  1.41s/item  eta 3.8min
+  2456/2610  3458s  1.41s/item  eta 3.6min
+  2464/2610  3467s  1.41s/item  eta 3.4min
+  2472/2610  3477s  1.41s/item  eta 3.2min
+  2480/2610  3488s  1.41s/item  eta 3.0min
+  2488/2610  3497s  1.41s/item  eta 2.9min
+  2496/2610  3504s  1.40s/item  eta 2.7min
+  2504/2610  3514s  1.40s/item  eta 2.5min
+  2512/2610  3523s  1.40s/item  eta 2.3min
+  2520/2610  3532s  1.40s/item  eta 2.1min
+  2528/2610  3541s  1.40s/item  eta 1.9min
+  2536/2610  3550s  1.40s/item  eta 1.7min
+  2544/2610  3561s  1.40s/item  eta 1.5min
+  2552/2610  3571s  1.40s/item  eta 1.4min
+  2560/2610  3581s  1.40s/item  eta 1.2min
+  2568/2610  3591s  1.40s/item  eta 1.0min
+  2576/2610  3604s  1.40s/item  eta 0.8min
+  2584/2610  3616s  1.40s/item  eta 0.6min
+  2592/2610  3628s  1.40s/item  eta 0.4min
+  2600/2610  3637s  1.40s/item  eta 0.2min
+  2608/2610  3646s  1.40s/item  eta 0.0min
+  2610/2610  3651s  1.40s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_test_shuffled.jsonl",
+  "adapter": null,
+  "n": 2610,
+  "silent_audio": false,
+  "no_transcript": true,
+  "UA": 27.39,
+  "WA": 48.83,
+  "F1": 27.21,
+  "eswr_soft": 62.53,
+  "format_compliance": 0.04,
+  "parse_rate": 85.44,
+  "verdict_counts": {
+    "null": 2267,
+    "AGREE": 234,
+    "CONFLICT": 109
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral     1030    68    17    22    21    77    21    82.0%
+joy          247    97    10    10    10    21     7    24.1%
+sadness      137     7    27    12     5    13     7    13.0%
+anger        210    11    12    43    16    41    12    12.5%
+surprise     171    17     1    10    37    40     5    13.2%
+fear          38     3     0     0     0     9     0    18.0%
+disgust       44     4     0     6     3     3     8    11.8%
+
+-> artifacts/results/ntt_pcesr_SHUFFLED.json
+########## esr_noprior ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 953.64it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  16%|█▋        | 144/876 [00:00<00:00, 1393.14it/s]Loading weights:  32%|███▏      | 284/876 [00:00<00:00, 1231.15it/s]Loading weights:  47%|████▋     | 409/876 [00:00<00:00, 1186.62it/s]Loading weights:  60%|██████    | 529/876 [00:01<00:01, 326.64it/s] Loading weights:  69%|██████▉   | 607/876 [00:01<00:01, 221.08it/s]Loading weights:  75%|███████▌  | 661/876 [00:02<00:01, 177.44it/s]Loading weights:  80%|███████▉  | 700/876 [00:02<00:01, 160.09it/s]Loading weights:  83%|████████▎ | 730/876 [00:02<00:00, 152.27it/s]Loading weights:  86%|████████▌ | 755/876 [00:03<00:00, 142.68it/s]Loading weights:  88%|████████▊ | 775/876 [00:03<00:00, 136.73it/s]Loading weights:  91%|█████████ | 793/876 [00:03<00:00, 128.31it/s]Loading weights:  92%|█████████▏| 808/876 [00:03<00:00, 127.55it/s]Loading weights:  94%|█████████▍| 823/876 [00:03<00:00, 124.96it/s]Loading weights:  96%|█████████▌| 837/876 [00:03<00:00, 125.28it/s]Loading weights:  97%|█████████▋| 851/876 [00:04<00:00, 122.26it/s]Loading weights:  99%|█████████▊| 864/876 [00:04<00:00, 117.11it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 205.22it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/2610  9s  1.07s/item  eta 46.3min
+  16/2610  15s  0.96s/item  eta 41.6min
+  24/2610  24s  1.00s/item  eta 42.9min
+  32/2610  29s  0.90s/item  eta 38.6min
+  40/2610  40s  0.99s/item  eta 42.5min
+  48/2610  46s  0.95s/item  eta 40.6min
+  56/2610  52s  0.93s/item  eta 39.4min
+  64/2610  62s  0.96s/item  eta 40.9min
+  72/2610  67s  0.93s/item  eta 39.2min
+  80/2610  76s  0.95s/item  eta 39.9min
+  88/2610  87s  0.99s/item  eta 41.5min
+  96/2610  99s  1.03s/item  eta 43.2min
+  104/2610  106s  1.02s/item  eta 42.7min
+  112/2610  112s  1.00s/item  eta 41.5min
+  120/2610  119s  0.99s/item  eta 41.2min
+  128/2610  127s  0.99s/item  eta 41.0min
+  136/2610  131s  0.96s/item  eta 39.7min
+  144/2610  139s  0.96s/item  eta 39.5min
+  152/2610  145s  0.96s/item  eta 39.2min
+  160/2610  151s  0.94s/item  eta 38.6min
+  168/2610  158s  0.94s/item  eta 38.3min
+  176/2610  172s  0.98s/item  eta 39.6min
+  184/2610  180s  0.98s/item  eta 39.5min
+  192/2610  187s  0.97s/item  eta 39.2min
+  200/2610  205s  1.02s/item  eta 41.1min
+  208/2610  211s  1.02s/item  eta 40.7min
+  216/2610  218s  1.01s/item  eta 40.3min
+  224/2610  234s  1.04s/item  eta 41.6min
+  232/2610  240s  1.04s/item  eta 41.1min
+  240/2610  247s  1.03s/item  eta 40.6min
+  248/2610  256s  1.03s/item  eta 40.7min
+  256/2610  262s  1.02s/item  eta 40.2min
+  264/2610  268s  1.02s/item  eta 39.7min
+  272/2610  274s  1.01s/item  eta 39.3min
+  280/2610  283s  1.01s/item  eta 39.3min
+  288/2610  291s  1.01s/item  eta 39.1min
+  296/2610  298s  1.01s/item  eta 38.9min
+  304/2610  307s  1.01s/item  eta 38.8min
+  312/2610  313s  1.00s/item  eta 38.5min
+  320/2610  320s  1.00s/item  eta 38.1min
+  328/2610  324s  0.99s/item  eta 37.6min
+  336/2610  331s  0.99s/item  eta 37.3min
+  344/2610  335s  0.97s/item  eta 36.8min
+  352/2610  348s  0.99s/item  eta 37.2min
+  360/2610  355s  0.99s/item  eta 37.0min
+  368/2610  359s  0.98s/item  eta 36.5min
+  376/2610  362s  0.96s/item  eta 35.8min
+  384/2610  367s  0.96s/item  eta 35.4min
+  392/2610  374s  0.95s/item  eta 35.3min
+  400/2610  384s  0.96s/item  eta 35.3min
+  408/2610  391s  0.96s/item  eta 35.2min
+  416/2610  399s  0.96s/item  eta 35.1min
+  424/2610  404s  0.95s/item  eta 34.8min
+  432/2610  411s  0.95s/item  eta 34.5min
+  440/2610  419s  0.95s/item  eta 34.4min
+  448/2610  425s  0.95s/item  eta 34.2min
+  456/2610  437s  0.96s/item  eta 34.4min
+  464/2610  444s  0.96s/item  eta 34.3min
+  472/2610  452s  0.96s/item  eta 34.1min
+  480/2610  458s  0.95s/item  eta 33.9min
+  488/2610  463s  0.95s/item  eta 33.5min
+  496/2610  468s  0.94s/item  eta 33.2min
+  504/2610  475s  0.94s/item  eta 33.1min
+  512/2610  481s  0.94s/item  eta 32.9min
+  520/2610  491s  0.94s/item  eta 32.9min
+  528/2610  498s  0.94s/item  eta 32.7min
+  536/2610  504s  0.94s/item  eta 32.5min
+  544/2610  511s  0.94s/item  eta 32.3min
+  552/2610  518s  0.94s/item  eta 32.2min
+  560/2610  525s  0.94s/item  eta 32.0min
+  568/2610  530s  0.93s/item  eta 31.8min
+  576/2610  536s  0.93s/item  eta 31.6min
+  584/2610  541s  0.93s/item  eta 31.3min
+  592/2610  548s  0.93s/item  eta 31.1min
+  600/2610  553s  0.92s/item  eta 30.9min
+  608/2610  561s  0.92s/item  eta 30.8min
+  616/2610  569s  0.92s/item  eta 30.7min
+  624/2610  574s  0.92s/item  eta 30.5min
+  632/2610  581s  0.92s/item  eta 30.3min
+  640/2610  586s  0.92s/item  eta 30.0min
+  648/2610  591s  0.91s/item  eta 29.8min
+  656/2610  596s  0.91s/item  eta 29.6min
+  664/2610  603s  0.91s/item  eta 29.4min
+  672/2610  609s  0.91s/item  eta 29.3min
+  680/2610  615s  0.90s/item  eta 29.1min
+  688/2610  622s  0.90s/item  eta 28.9min
+  696/2610  629s  0.90s/item  eta 28.8min
+  704/2610  638s  0.91s/item  eta 28.8min
+  712/2610  645s  0.91s/item  eta 28.7min
+  720/2610  650s  0.90s/item  eta 28.5min
+  728/2610  658s  0.90s/item  eta 28.4min
+  736/2610  666s  0.90s/item  eta 28.2min
+  744/2610  673s  0.90s/item  eta 28.1min
+  752/2610  683s  0.91s/item  eta 28.1min
+  760/2610  690s  0.91s/item  eta 28.0min
+  768/2610  705s  0.92s/item  eta 28.2min
+  776/2610  712s  0.92s/item  eta 28.0min
+  784/2610  720s  0.92s/item  eta 27.9min
+  792/2610  727s  0.92s/item  eta 27.8min
+  800/2610  734s  0.92s/item  eta 27.7min
+  808/2610  742s  0.92s/item  eta 27.6min
+  816/2610  750s  0.92s/item  eta 27.5min
+  824/2610  756s  0.92s/item  eta 27.3min
+  832/2610  764s  0.92s/item  eta 27.2min
+  840/2610  772s  0.92s/item  eta 27.1min
+  848/2610  782s  0.92s/item  eta 27.1min
+  856/2610  790s  0.92s/item  eta 27.0min
+  864/2610  800s  0.93s/item  eta 26.9min
+  872/2610  807s  0.93s/item  eta 26.8min
+  880/2610  813s  0.92s/item  eta 26.6min
+  888/2610  820s  0.92s/item  eta 26.5min
+  896/2610  826s  0.92s/item  eta 26.3min
+  904/2610  832s  0.92s/item  eta 26.2min
+  912/2610  840s  0.92s/item  eta 26.1min
+  920/2610  844s  0.92s/item  eta 25.9min
+  928/2610  854s  0.92s/item  eta 25.8min
+  936/2610  861s  0.92s/item  eta 25.7min
+  944/2610  867s  0.92s/item  eta 25.5min
+  952/2610  873s  0.92s/item  eta 25.4min
+  960/2610  883s  0.92s/item  eta 25.3min
+  968/2610  891s  0.92s/item  eta 25.2min
+  976/2610  899s  0.92s/item  eta 25.1min
+  984/2610  905s  0.92s/item  eta 24.9min
+  992/2610  914s  0.92s/item  eta 24.8min
+  1000/2610  919s  0.92s/item  eta 24.6min
+  1008/2610  929s  0.92s/item  eta 24.6min
+  1016/2610  938s  0.92s/item  eta 24.5min
+  1024/2610  946s  0.92s/item  eta 24.4min
+  1032/2610  983s  0.95s/item  eta 25.1min
+  1040/2610  995s  0.96s/item  eta 25.0min
+  1048/2610  1001s  0.95s/item  eta 24.9min
+  1056/2610  1009s  0.96s/item  eta 24.7min
+  1064/2610  1017s  0.96s/item  eta 24.6min
+  1072/2610  1024s  0.96s/item  eta 24.5min
+  1080/2610  1031s  0.96s/item  eta 24.4min
+  1088/2610  1038s  0.95s/item  eta 24.2min
+  1096/2610  1047s  0.96s/item  eta 24.1min
+  1104/2610  1052s  0.95s/item  eta 23.9min
+  1112/2610  1063s  0.96s/item  eta 23.9min
+  1120/2610  1069s  0.95s/item  eta 23.7min
+  1128/2610  1076s  0.95s/item  eta 23.6min
+  1136/2610  1083s  0.95s/item  eta 23.4min
+  1144/2610  1092s  0.95s/item  eta 23.3min
+  1152/2610  1099s  0.95s/item  eta 23.2min
+  1160/2610  1108s  0.96s/item  eta 23.1min
+  1168/2610  1119s  0.96s/item  eta 23.0min
+  1176/2610  1124s  0.96s/item  eta 22.9min
+  1184/2610  1131s  0.96s/item  eta 22.7min
+  1192/2610  1137s  0.95s/item  eta 22.5min
+  1200/2610  1143s  0.95s/item  eta 22.4min
+  1208/2610  1150s  0.95s/item  eta 22.2min
+  1216/2610  1158s  0.95s/item  eta 22.1min
+  1224/2610  1165s  0.95s/item  eta 22.0min
+  1232/2610  1178s  0.96s/item  eta 22.0min
+  1240/2610  1184s  0.96s/item  eta 21.8min
+  1248/2610  1191s  0.95s/item  eta 21.7min
+  1256/2610  1196s  0.95s/item  eta 21.5min
+  1264/2610  1203s  0.95s/item  eta 21.3min
+  1272/2610  1209s  0.95s/item  eta 21.2min
+  1280/2610  1216s  0.95s/item  eta 21.1min
+  1288/2610  1222s  0.95s/item  eta 20.9min
+  1296/2610  1229s  0.95s/item  eta 20.8min
+  1304/2610  1236s  0.95s/item  eta 20.6min
+  1312/2610  1249s  0.95s/item  eta 20.6min
+  1320/2610  1257s  0.95s/item  eta 20.5min
+  1328/2610  1265s  0.95s/item  eta 20.4min
+  1336/2610  1273s  0.95s/item  eta 20.2min
+  1344/2610  1278s  0.95s/item  eta 20.1min
+  1352/2610  1286s  0.95s/item  eta 19.9min
+  1360/2610  1293s  0.95s/item  eta 19.8min
+  1368/2610  1301s  0.95s/item  eta 19.7min
+  1376/2610  1305s  0.95s/item  eta 19.5min
+  1384/2610  1315s  0.95s/item  eta 19.4min
+  1392/2610  1324s  0.95s/item  eta 19.3min
+  1400/2610  1332s  0.95s/item  eta 19.2min
+  1408/2610  1340s  0.95s/item  eta 19.1min
+  1416/2610  1348s  0.95s/item  eta 18.9min
+  1424/2610  1354s  0.95s/item  eta 18.8min
+  1432/2610  1360s  0.95s/item  eta 18.6min
+  1440/2610  1368s  0.95s/item  eta 18.5min
+  1448/2610  1376s  0.95s/item  eta 18.4min
+  1456/2610  1385s  0.95s/item  eta 18.3min
+  1464/2610  1392s  0.95s/item  eta 18.2min
+  1472/2610  1399s  0.95s/item  eta 18.0min
+  1480/2610  1415s  0.96s/item  eta 18.0min
+  1488/2610  1421s  0.95s/item  eta 17.9min
+  1496/2610  1426s  0.95s/item  eta 17.7min
+  1504/2610  1433s  0.95s/item  eta 17.6min
+  1512/2610  1442s  0.95s/item  eta 17.5min
+  1520/2610  1451s  0.95s/item  eta 17.3min
+  1528/2610  1456s  0.95s/item  eta 17.2min
+  1536/2610  1464s  0.95s/item  eta 17.1min
+  1544/2610  1474s  0.95s/item  eta 17.0min
+  1552/2610  1481s  0.95s/item  eta 16.8min
+  1560/2610  1490s  0.96s/item  eta 16.7min
+  1568/2610  1497s  0.95s/item  eta 16.6min
+  1576/2610  1508s  0.96s/item  eta 16.5min
+  1584/2610  1515s  0.96s/item  eta 16.4min
+  1592/2610  1523s  0.96s/item  eta 16.2min
+  1600/2610  1529s  0.96s/item  eta 16.1min
+  1608/2610  1536s  0.96s/item  eta 15.9min
+  1616/2610  1544s  0.96s/item  eta 15.8min
+  1624/2610  1551s  0.96s/item  eta 15.7min
+  1632/2610  1557s  0.95s/item  eta 15.6min
+  1640/2610  1566s  0.95s/item  eta 15.4min
+  1648/2610  1571s  0.95s/item  eta 15.3min
+  1656/2610  1579s  0.95s/item  eta 15.2min
+  1664/2610  1586s  0.95s/item  eta 15.0min
+  1672/2610  1593s  0.95s/item  eta 14.9min
+  1680/2610  1600s  0.95s/item  eta 14.8min
+  1688/2610  1606s  0.95s/item  eta 14.6min
+  1696/2610  1611s  0.95s/item  eta 14.5min
+  1704/2610  1618s  0.95s/item  eta 14.3min
+  1712/2610  1624s  0.95s/item  eta 14.2min
+  1720/2610  1631s  0.95s/item  eta 14.1min
+  1728/2610  1638s  0.95s/item  eta 13.9min
+  1736/2610  1642s  0.95s/item  eta 13.8min
+  1744/2610  1647s  0.94s/item  eta 13.6min
+  1752/2610  1656s  0.95s/item  eta 13.5min
+  1760/2610  1661s  0.94s/item  eta 13.4min
+  1768/2610  1669s  0.94s/item  eta 13.2min
+  1776/2610  1675s  0.94s/item  eta 13.1min
+  1784/2610  1680s  0.94s/item  eta 13.0min
+  1792/2610  1688s  0.94s/item  eta 12.8min
+  1800/2610  1693s  0.94s/item  eta 12.7min
+  1808/2610  1699s  0.94s/item  eta 12.6min
+  1816/2610  1704s  0.94s/item  eta 12.4min
+  1824/2610  1713s  0.94s/item  eta 12.3min
+  1832/2610  1720s  0.94s/item  eta 12.2min
+  1840/2610  1728s  0.94s/item  eta 12.1min
+  1848/2610  1737s  0.94s/item  eta 11.9min
+  1856/2610  1745s  0.94s/item  eta 11.8min
+  1864/2610  1754s  0.94s/item  eta 11.7min
+  1872/2610  1760s  0.94s/item  eta 11.6min
+  1880/2610  1768s  0.94s/item  eta 11.4min
+  1888/2610  1778s  0.94s/item  eta 11.3min
+  1896/2610  1790s  0.94s/item  eta 11.2min
+  1904/2610  1803s  0.95s/item  eta 11.1min
+  1912/2610  1810s  0.95s/item  eta 11.0min
+  1920/2610  1822s  0.95s/item  eta 10.9min
+  1928/2610  1828s  0.95s/item  eta 10.8min
+  1936/2610  1834s  0.95s/item  eta 10.6min
+  1944/2610  1840s  0.95s/item  eta 10.5min
+  1952/2610  1846s  0.95s/item  eta 10.4min
+  1960/2610  1852s  0.94s/item  eta 10.2min
+  1968/2610  1857s  0.94s/item  eta 10.1min
+  1976/2610  1866s  0.94s/item  eta 10.0min
+  1984/2610  1871s  0.94s/item  eta 9.8min
+  1992/2610  1877s  0.94s/item  eta 9.7min
+  2000/2610  1884s  0.94s/item  eta 9.6min
+  2008/2610  1891s  0.94s/item  eta 9.4min
+  2016/2610  1903s  0.94s/item  eta 9.3min
+  2024/2610  1909s  0.94s/item  eta 9.2min
+  2032/2610  1918s  0.94s/item  eta 9.1min
+  2040/2610  1925s  0.94s/item  eta 9.0min
+  2048/2610  1933s  0.94s/item  eta 8.8min
+  2056/2610  1940s  0.94s/item  eta 8.7min
+  2064/2610  1956s  0.95s/item  eta 8.6min
+  2072/2610  1960s  0.95s/item  eta 8.5min
+  2080/2610  1967s  0.95s/item  eta 8.4min
+  2088/2610  1978s  0.95s/item  eta 8.2min
+  2096/2610  1985s  0.95s/item  eta 8.1min
+  2104/2610  1991s  0.95s/item  eta 8.0min
+  2112/2610  2001s  0.95s/item  eta 7.9min
+  2120/2610  2007s  0.95s/item  eta 7.7min
+  2128/2610  2013s  0.95s/item  eta 7.6min
+  2136/2610  2019s  0.95s/item  eta 7.5min
+  2144/2610  2025s  0.94s/item  eta 7.3min
+  2152/2610  2033s  0.94s/item  eta 7.2min
+  2160/2610  2038s  0.94s/item  eta 7.1min
+  2168/2610  2045s  0.94s/item  eta 6.9min
+  2176/2610  2049s  0.94s/item  eta 6.8min
+  2184/2610  2063s  0.94s/item  eta 6.7min
+  2192/2610  2070s  0.94s/item  eta 6.6min
+  2200/2610  2077s  0.94s/item  eta 6.5min
+  2208/2610  2089s  0.95s/item  eta 6.3min
+  2216/2610  2100s  0.95s/item  eta 6.2min
+  2224/2610  2105s  0.95s/item  eta 6.1min
+  2232/2610  2110s  0.95s/item  eta 6.0min
+  2240/2610  2122s  0.95s/item  eta 5.8min
+  2248/2610  2130s  0.95s/item  eta 5.7min
+  2256/2610  2137s  0.95s/item  eta 5.6min
+  2264/2610  2144s  0.95s/item  eta 5.5min
+  2272/2610  2151s  0.95s/item  eta 5.3min
+  2280/2610  2161s  0.95s/item  eta 5.2min
+  2288/2610  2166s  0.95s/item  eta 5.1min
+  2296/2610  2173s  0.95s/item  eta 5.0min
+  2304/2610  2181s  0.95s/item  eta 4.8min
+  2312/2610  2190s  0.95s/item  eta 4.7min
+  2320/2610  2196s  0.95s/item  eta 4.6min
+  2328/2610  2203s  0.95s/item  eta 4.4min
+  2336/2610  2210s  0.95s/item  eta 4.3min
+  2344/2610  2217s  0.95s/item  eta 4.2min
+  2352/2610  2225s  0.95s/item  eta 4.1min
+  2360/2610  2232s  0.95s/item  eta 3.9min
+  2368/2610  2238s  0.95s/item  eta 3.8min
+  2376/2610  2245s  0.94s/item  eta 3.7min
+  2384/2610  2253s  0.95s/item  eta 3.6min
+  2392/2610  2259s  0.94s/item  eta 3.4min
+  2400/2610  2266s  0.94s/item  eta 3.3min
+  2408/2610  2274s  0.94s/item  eta 3.2min
+  2416/2610  2279s  0.94s/item  eta 3.1min
+  2424/2610  2288s  0.94s/item  eta 2.9min
+  2432/2610  2294s  0.94s/item  eta 2.8min
+  2440/2610  2300s  0.94s/item  eta 2.7min
+  2448/2610  2308s  0.94s/item  eta 2.5min
+  2456/2610  2314s  0.94s/item  eta 2.4min
+  2464/2610  2319s  0.94s/item  eta 2.3min
+  2472/2610  2324s  0.94s/item  eta 2.2min
+  2480/2610  2329s  0.94s/item  eta 2.0min
+  2488/2610  2338s  0.94s/item  eta 1.9min
+  2496/2610  2344s  0.94s/item  eta 1.8min
+  2504/2610  2348s  0.94s/item  eta 1.7min
+  2512/2610  2356s  0.94s/item  eta 1.5min
+  2520/2610  2367s  0.94s/item  eta 1.4min
+  2528/2610  2376s  0.94s/item  eta 1.3min
+  2536/2610  2382s  0.94s/item  eta 1.2min
+  2544/2610  2390s  0.94s/item  eta 1.0min
+  2552/2610  2396s  0.94s/item  eta 0.9min
+  2560/2610  2404s  0.94s/item  eta 0.8min
+  2568/2610  2414s  0.94s/item  eta 0.7min
+  2576/2610  2425s  0.94s/item  eta 0.5min
+  2584/2610  2433s  0.94s/item  eta 0.4min
+  2592/2610  2438s  0.94s/item  eta 0.3min
+  2600/2610  2444s  0.94s/item  eta 0.2min
+  2608/2610  2452s  0.94s/item  eta 0.0min
+  2610/2610  2455s  0.94s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_test_none.jsonl",
+  "adapter": null,
+  "n": 2610,
+  "silent_audio": false,
+  "no_transcript": true,
+  "UA": 34.44,
+  "WA": 51.3,
+  "F1": 34.83,
+  "eswr_soft": 57.44,
+  "format_compliance": 0.38,
+  "parse_rate": 76.86,
+  "verdict_counts": {
+    "null": 2610
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral      983    69    43    56    73    13    19    78.3%
+joy          231   113     4    24    18     2    10    28.1%
+sadness      140     4    31    15    13     1     4    14.9%
+anger        193     7    12    89    22     6    16    25.8%
+surprise     146     9     5    20    90     4     7    32.0%
+fear          38     1     3     3     3     2     0     4.0%
+disgust       38     3     0     9     1     0    17    25.0%
+
+-> artifacts/results/ntt_esr_noprior.json
+########## ir_noprior ##########
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 965.54it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  16%|█▌        | 137/876 [00:00<00:00, 1368.80it/s]Loading weights:  31%|███▏      | 274/876 [00:00<00:00, 1192.71it/s]Loading weights:  45%|████▌     | 395/876 [00:00<00:00, 1153.03it/s]Loading weights:  58%|█████▊    | 511/876 [00:01<00:00, 371.78it/s] Loading weights:  67%|██████▋   | 588/876 [00:01<00:01, 232.34it/s]Loading weights:  73%|███████▎  | 642/876 [00:02<00:01, 194.55it/s]Loading weights:  78%|███████▊  | 682/876 [00:02<00:01, 174.26it/s]Loading weights:  81%|████████▏ | 713/876 [00:02<00:01, 155.63it/s]Loading weights:  84%|████████▍ | 737/876 [00:02<00:00, 148.38it/s]Loading weights:  87%|████████▋ | 758/876 [00:03<00:00, 141.41it/s]Loading weights:  89%|████████▊ | 776/876 [00:03<00:00, 143.43it/s]Loading weights:  91%|█████████ | 793/876 [00:03<00:00, 130.44it/s]Loading weights:  92%|█████████▏| 808/876 [00:03<00:00, 130.85it/s]Loading weights:  94%|█████████▍| 823/876 [00:03<00:00, 128.91it/s]Loading weights:  96%|█████████▌| 837/876 [00:03<00:00, 128.25it/s]Loading weights:  97%|█████████▋| 851/876 [00:03<00:00, 121.07it/s]Loading weights:  99%|█████████▊| 865/876 [00:04<00:00, 123.76it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 213.43it/s]
+generation: bad_words=[[151644]]  eos_ids=[151645]  max_new=700
+  8/2610  2s  0.23s/item  eta 9.9min
+  16/2610  3s  0.18s/item  eta 7.9min
+  24/2610  4s  0.16s/item  eta 7.1min
+  32/2610  5s  0.16s/item  eta 6.9min
+  40/2610  7s  0.16s/item  eta 7.0min
+  48/2610  8s  0.16s/item  eta 6.7min
+  56/2610  9s  0.16s/item  eta 6.7min
+  64/2610  10s  0.16s/item  eta 6.8min
+  72/2610  12s  0.16s/item  eta 6.8min
+  80/2610  13s  0.16s/item  eta 6.9min
+  88/2610  14s  0.16s/item  eta 6.9min
+  96/2610  16s  0.16s/item  eta 6.9min
+  104/2610  17s  0.17s/item  eta 6.9min
+  112/2610  18s  0.16s/item  eta 6.8min
+  120/2610  20s  0.17s/item  eta 6.9min
+  128/2610  21s  0.17s/item  eta 6.8min
+  136/2610  22s  0.16s/item  eta 6.8min
+  144/2610  24s  0.16s/item  eta 6.7min
+  152/2610  25s  0.16s/item  eta 6.7min
+  160/2610  26s  0.16s/item  eta 6.6min
+  168/2610  27s  0.16s/item  eta 6.6min
+  176/2610  29s  0.16s/item  eta 6.6min
+  184/2610  30s  0.16s/item  eta 6.6min
+  192/2610  31s  0.16s/item  eta 6.5min
+  200/2610  33s  0.16s/item  eta 6.5min
+  208/2610  34s  0.16s/item  eta 6.5min
+  216/2610  35s  0.16s/item  eta 6.5min
+  224/2610  36s  0.16s/item  eta 6.5min
+  232/2610  38s  0.16s/item  eta 6.4min
+  240/2610  39s  0.16s/item  eta 6.4min
+  248/2610  40s  0.16s/item  eta 6.4min
+  256/2610  42s  0.16s/item  eta 6.4min
+  264/2610  43s  0.16s/item  eta 6.4min
+  272/2610  44s  0.16s/item  eta 6.3min
+  280/2610  45s  0.16s/item  eta 6.3min
+  288/2610  47s  0.16s/item  eta 6.3min
+  296/2610  48s  0.16s/item  eta 6.3min
+  304/2610  50s  0.16s/item  eta 6.3min
+  312/2610  51s  0.16s/item  eta 6.3min
+  320/2610  52s  0.16s/item  eta 6.2min
+  328/2610  53s  0.16s/item  eta 6.2min
+  336/2610  55s  0.16s/item  eta 6.2min
+  344/2610  56s  0.16s/item  eta 6.2min
+  352/2610  58s  0.17s/item  eta 6.2min
+  360/2610  60s  0.17s/item  eta 6.2min
+  368/2610  61s  0.17s/item  eta 6.2min
+  376/2610  62s  0.16s/item  eta 6.1min
+  384/2610  63s  0.16s/item  eta 6.1min
+  392/2610  64s  0.16s/item  eta 6.1min
+  400/2610  66s  0.16s/item  eta 6.0min
+  408/2610  67s  0.16s/item  eta 6.0min
+  416/2610  69s  0.17s/item  eta 6.0min
+  424/2610  70s  0.16s/item  eta 6.0min
+  432/2610  71s  0.16s/item  eta 6.0min
+  440/2610  72s  0.16s/item  eta 5.9min
+  448/2610  74s  0.16s/item  eta 5.9min
+  456/2610  75s  0.16s/item  eta 5.9min
+  464/2610  76s  0.16s/item  eta 5.9min
+  472/2610  78s  0.16s/item  eta 5.9min
+  480/2610  79s  0.16s/item  eta 5.8min
+  488/2610  80s  0.16s/item  eta 5.8min
+  496/2610  81s  0.16s/item  eta 5.8min
+  504/2610  83s  0.16s/item  eta 5.7min
+  512/2610  84s  0.16s/item  eta 5.8min
+  520/2610  86s  0.16s/item  eta 5.7min
+  528/2610  87s  0.16s/item  eta 5.7min
+  536/2610  88s  0.16s/item  eta 5.7min
+  544/2610  89s  0.16s/item  eta 5.7min
+  552/2610  91s  0.16s/item  eta 5.6min
+  560/2610  92s  0.16s/item  eta 5.6min
+  568/2610  93s  0.16s/item  eta 5.6min
+  576/2610  95s  0.16s/item  eta 5.6min
+  584/2610  96s  0.16s/item  eta 5.5min
+  592/2610  97s  0.16s/item  eta 5.5min
+  600/2610  98s  0.16s/item  eta 5.5min
+  608/2610  100s  0.16s/item  eta 5.5min
+  616/2610  101s  0.16s/item  eta 5.4min
+  624/2610  102s  0.16s/item  eta 5.4min
+  632/2610  104s  0.16s/item  eta 5.4min
+  640/2610  105s  0.16s/item  eta 5.4min
+  648/2610  106s  0.16s/item  eta 5.4min
+  656/2610  108s  0.16s/item  eta 5.3min
+  664/2610  109s  0.16s/item  eta 5.3min
+  672/2610  110s  0.16s/item  eta 5.3min
+  680/2610  111s  0.16s/item  eta 5.3min
+  688/2610  112s  0.16s/item  eta 5.2min
+  696/2610  113s  0.16s/item  eta 5.2min
+  704/2610  115s  0.16s/item  eta 5.2min
+  712/2610  116s  0.16s/item  eta 5.2min
+  720/2610  117s  0.16s/item  eta 5.1min
+  728/2610  119s  0.16s/item  eta 5.1min
+  736/2610  120s  0.16s/item  eta 5.1min
+  744/2610  121s  0.16s/item  eta 5.1min
+  752/2610  123s  0.16s/item  eta 5.0min
+  760/2610  124s  0.16s/item  eta 5.0min
+  768/2610  125s  0.16s/item  eta 5.0min
+  776/2610  126s  0.16s/item  eta 5.0min
+  784/2610  128s  0.16s/item  eta 5.0min
+  792/2610  129s  0.16s/item  eta 5.0min
+  800/2610  131s  0.16s/item  eta 4.9min
+  808/2610  132s  0.16s/item  eta 4.9min
+  816/2610  133s  0.16s/item  eta 4.9min
+  824/2610  134s  0.16s/item  eta 4.9min
+  832/2610  136s  0.16s/item  eta 4.8min
+  840/2610  137s  0.16s/item  eta 4.8min
+  848/2610  138s  0.16s/item  eta 4.8min
+  856/2610  140s  0.16s/item  eta 4.8min
+  864/2610  141s  0.16s/item  eta 4.7min
+  872/2610  142s  0.16s/item  eta 4.7min
+  880/2610  143s  0.16s/item  eta 4.7min
+  888/2610  145s  0.16s/item  eta 4.7min
+  896/2610  146s  0.16s/item  eta 4.6min
+  904/2610  147s  0.16s/item  eta 4.6min
+  912/2610  148s  0.16s/item  eta 4.6min
+  920/2610  149s  0.16s/item  eta 4.6min
+  928/2610  151s  0.16s/item  eta 4.6min
+  936/2610  153s  0.16s/item  eta 4.5min
+  944/2610  154s  0.16s/item  eta 4.5min
+  952/2610  155s  0.16s/item  eta 4.5min
+  960/2610  156s  0.16s/item  eta 4.5min
+  968/2610  158s  0.16s/item  eta 4.5min
+  976/2610  159s  0.16s/item  eta 4.4min
+  984/2610  160s  0.16s/item  eta 4.4min
+  992/2610  162s  0.16s/item  eta 4.4min
+  1000/2610  163s  0.16s/item  eta 4.4min
+  1008/2610  164s  0.16s/item  eta 4.3min
+  1016/2610  165s  0.16s/item  eta 4.3min
+  1024/2610  167s  0.16s/item  eta 4.3min
+  1032/2610  169s  0.16s/item  eta 4.3min
+  1040/2610  170s  0.16s/item  eta 4.3min
+  1048/2610  171s  0.16s/item  eta 4.3min
+  1056/2610  172s  0.16s/item  eta 4.2min
+  1064/2610  174s  0.16s/item  eta 4.2min
+  1072/2610  175s  0.16s/item  eta 4.2min
+  1080/2610  176s  0.16s/item  eta 4.2min
+  1088/2610  178s  0.16s/item  eta 4.1min
+  1096/2610  179s  0.16s/item  eta 4.1min
+  1104/2610  180s  0.16s/item  eta 4.1min
+  1112/2610  182s  0.16s/item  eta 4.1min
+  1120/2610  183s  0.16s/item  eta 4.1min
+  1128/2610  184s  0.16s/item  eta 4.0min
+  1136/2610  186s  0.16s/item  eta 4.0min
+  1144/2610  187s  0.16s/item  eta 4.0min
+  1152/2610  189s  0.16s/item  eta 4.0min
+  1160/2610  190s  0.16s/item  eta 4.0min
+  1168/2610  191s  0.16s/item  eta 3.9min
+  1176/2610  192s  0.16s/item  eta 3.9min
+  1184/2610  194s  0.16s/item  eta 3.9min
+  1192/2610  195s  0.16s/item  eta 3.9min
+  1200/2610  196s  0.16s/item  eta 3.8min
+  1208/2610  198s  0.16s/item  eta 3.8min
+  1216/2610  199s  0.16s/item  eta 3.8min
+  1224/2610  200s  0.16s/item  eta 3.8min
+  1232/2610  201s  0.16s/item  eta 3.8min
+  1240/2610  203s  0.16s/item  eta 3.7min
+  1248/2610  204s  0.16s/item  eta 3.7min
+  1256/2610  205s  0.16s/item  eta 3.7min
+  1264/2610  206s  0.16s/item  eta 3.7min
+  1272/2610  208s  0.16s/item  eta 3.6min
+  1280/2610  209s  0.16s/item  eta 3.6min
+  1288/2610  211s  0.16s/item  eta 3.6min
+  1296/2610  212s  0.16s/item  eta 3.6min
+  1304/2610  213s  0.16s/item  eta 3.6min
+  1312/2610  214s  0.16s/item  eta 3.5min
+  1320/2610  216s  0.16s/item  eta 3.5min
+  1328/2610  217s  0.16s/item  eta 3.5min
+  1336/2610  219s  0.16s/item  eta 3.5min
+  1344/2610  220s  0.16s/item  eta 3.4min
+  1352/2610  221s  0.16s/item  eta 3.4min
+  1360/2610  222s  0.16s/item  eta 3.4min
+  1368/2610  224s  0.16s/item  eta 3.4min
+  1376/2610  225s  0.16s/item  eta 3.4min
+  1384/2610  226s  0.16s/item  eta 3.3min
+  1392/2610  227s  0.16s/item  eta 3.3min
+  1400/2610  228s  0.16s/item  eta 3.3min
+  1408/2610  230s  0.16s/item  eta 3.3min
+  1416/2610  231s  0.16s/item  eta 3.2min
+  1424/2610  232s  0.16s/item  eta 3.2min
+  1432/2610  234s  0.16s/item  eta 3.2min
+  1440/2610  235s  0.16s/item  eta 3.2min
+  1448/2610  236s  0.16s/item  eta 3.2min
+  1456/2610  238s  0.16s/item  eta 3.1min
+  1464/2610  239s  0.16s/item  eta 3.1min
+  1472/2610  240s  0.16s/item  eta 3.1min
+  1480/2610  242s  0.16s/item  eta 3.1min
+  1488/2610  243s  0.16s/item  eta 3.1min
+  1496/2610  244s  0.16s/item  eta 3.0min
+  1504/2610  245s  0.16s/item  eta 3.0min
+  1512/2610  247s  0.16s/item  eta 3.0min
+  1520/2610  248s  0.16s/item  eta 3.0min
+  1528/2610  249s  0.16s/item  eta 2.9min
+  1536/2610  250s  0.16s/item  eta 2.9min
+  1544/2610  252s  0.16s/item  eta 2.9min
+  1552/2610  253s  0.16s/item  eta 2.9min
+  1560/2610  254s  0.16s/item  eta 2.9min
+  1568/2610  256s  0.16s/item  eta 2.8min
+  1576/2610  257s  0.16s/item  eta 2.8min
+  1584/2610  258s  0.16s/item  eta 2.8min
+  1592/2610  259s  0.16s/item  eta 2.8min
+  1600/2610  261s  0.16s/item  eta 2.7min
+  1608/2610  262s  0.16s/item  eta 2.7min
+  1616/2610  263s  0.16s/item  eta 2.7min
+  1624/2610  265s  0.16s/item  eta 2.7min
+  1632/2610  266s  0.16s/item  eta 2.7min
+  1640/2610  267s  0.16s/item  eta 2.6min
+  1648/2610  269s  0.16s/item  eta 2.6min
+  1656/2610  270s  0.16s/item  eta 2.6min
+  1664/2610  271s  0.16s/item  eta 2.6min
+  1672/2610  272s  0.16s/item  eta 2.5min
+  1680/2610  274s  0.16s/item  eta 2.5min
+  1688/2610  275s  0.16s/item  eta 2.5min
+  1696/2610  276s  0.16s/item  eta 2.5min
+  1704/2610  277s  0.16s/item  eta 2.5min
+  1712/2610  279s  0.16s/item  eta 2.4min
+  1720/2610  280s  0.16s/item  eta 2.4min
+  1728/2610  281s  0.16s/item  eta 2.4min
+  1736/2610  282s  0.16s/item  eta 2.4min
+  1744/2610  284s  0.16s/item  eta 2.3min
+  1752/2610  285s  0.16s/item  eta 2.3min
+  1760/2610  286s  0.16s/item  eta 2.3min
+  1768/2610  288s  0.16s/item  eta 2.3min
+  1776/2610  289s  0.16s/item  eta 2.3min
+  1784/2610  291s  0.16s/item  eta 2.2min
+  1792/2610  292s  0.16s/item  eta 2.2min
+  1800/2610  293s  0.16s/item  eta 2.2min
+  1808/2610  295s  0.16s/item  eta 2.2min
+  1816/2610  296s  0.16s/item  eta 2.2min
+  1824/2610  297s  0.16s/item  eta 2.1min
+  1832/2610  299s  0.16s/item  eta 2.1min
+  1840/2610  300s  0.16s/item  eta 2.1min
+  1848/2610  301s  0.16s/item  eta 2.1min
+  1856/2610  302s  0.16s/item  eta 2.0min
+  1864/2610  304s  0.16s/item  eta 2.0min
+  1872/2610  305s  0.16s/item  eta 2.0min
+  1880/2610  307s  0.16s/item  eta 2.0min
+  1888/2610  308s  0.16s/item  eta 2.0min
+  1896/2610  309s  0.16s/item  eta 1.9min
+  1904/2610  311s  0.16s/item  eta 1.9min
+  1912/2610  312s  0.16s/item  eta 1.9min
+  1920/2610  313s  0.16s/item  eta 1.9min
+  1928/2610  315s  0.16s/item  eta 1.9min
+  1936/2610  316s  0.16s/item  eta 1.8min
+  1944/2610  317s  0.16s/item  eta 1.8min
+  1952/2610  319s  0.16s/item  eta 1.8min
+  1960/2610  320s  0.16s/item  eta 1.8min
+  1968/2610  322s  0.16s/item  eta 1.7min
+  1976/2610  323s  0.16s/item  eta 1.7min
+  1984/2610  324s  0.16s/item  eta 1.7min
+  1992/2610  325s  0.16s/item  eta 1.7min
+  2000/2610  327s  0.16s/item  eta 1.7min
+  2008/2610  328s  0.16s/item  eta 1.6min
+  2016/2610  329s  0.16s/item  eta 1.6min
+  2024/2610  331s  0.16s/item  eta 1.6min
+  2032/2610  332s  0.16s/item  eta 1.6min
+  2040/2610  333s  0.16s/item  eta 1.6min
+  2048/2610  335s  0.16s/item  eta 1.5min
+  2056/2610  337s  0.16s/item  eta 1.5min
+  2064/2610  338s  0.16s/item  eta 1.5min
+  2072/2610  340s  0.16s/item  eta 1.5min
+  2080/2610  341s  0.16s/item  eta 1.5min
+  2088/2610  343s  0.16s/item  eta 1.4min
+  2096/2610  344s  0.16s/item  eta 1.4min
+  2104/2610  345s  0.16s/item  eta 1.4min
+  2112/2610  347s  0.16s/item  eta 1.4min
+  2120/2610  348s  0.16s/item  eta 1.3min
+  2128/2610  350s  0.16s/item  eta 1.3min
+  2136/2610  351s  0.16s/item  eta 1.3min
+  2144/2610  352s  0.16s/item  eta 1.3min
+  2152/2610  353s  0.16s/item  eta 1.3min
+  2160/2610  354s  0.16s/item  eta 1.2min
+  2168/2610  356s  0.16s/item  eta 1.2min
+  2176/2610  357s  0.16s/item  eta 1.2min
+  2184/2610  358s  0.16s/item  eta 1.2min
+  2192/2610  359s  0.16s/item  eta 1.1min
+  2200/2610  361s  0.16s/item  eta 1.1min
+  2208/2610  362s  0.16s/item  eta 1.1min
+  2216/2610  363s  0.16s/item  eta 1.1min
+  2224/2610  365s  0.16s/item  eta 1.1min
+  2232/2610  366s  0.16s/item  eta 1.0min
+  2240/2610  367s  0.16s/item  eta 1.0min
+  2248/2610  369s  0.16s/item  eta 1.0min
+  2256/2610  371s  0.16s/item  eta 1.0min
+  2264/2610  372s  0.16s/item  eta 0.9min
+  2272/2610  374s  0.16s/item  eta 0.9min
+  2280/2610  375s  0.16s/item  eta 0.9min
+  2288/2610  376s  0.16s/item  eta 0.9min
+  2296/2610  379s  0.16s/item  eta 0.9min
+  2304/2610  380s  0.16s/item  eta 0.8min
+  2312/2610  382s  0.17s/item  eta 0.8min
+  2320/2610  383s  0.17s/item  eta 0.8min
+  2328/2610  385s  0.17s/item  eta 0.8min
+  2336/2610  386s  0.17s/item  eta 0.8min
+  2344/2610  387s  0.17s/item  eta 0.7min
+  2352/2610  389s  0.17s/item  eta 0.7min
+  2360/2610  390s  0.17s/item  eta 0.7min
+  2368/2610  391s  0.17s/item  eta 0.7min
+  2376/2610  392s  0.16s/item  eta 0.6min
+  2384/2610  393s  0.16s/item  eta 0.6min
+  2392/2610  394s  0.16s/item  eta 0.6min
+  2400/2610  396s  0.16s/item  eta 0.6min
+  2408/2610  397s  0.16s/item  eta 0.6min
+  2416/2610  398s  0.16s/item  eta 0.5min
+  2424/2610  400s  0.16s/item  eta 0.5min
+  2432/2610  401s  0.16s/item  eta 0.5min
+  2440/2610  402s  0.16s/item  eta 0.5min
+  2448/2610  404s  0.17s/item  eta 0.4min
+  2456/2610  405s  0.17s/item  eta 0.4min
+  2464/2610  407s  0.17s/item  eta 0.4min
+  2472/2610  408s  0.17s/item  eta 0.4min
+  2480/2610  409s  0.17s/item  eta 0.4min
+  2488/2610  411s  0.17s/item  eta 0.3min
+  2496/2610  412s  0.17s/item  eta 0.3min
+  2504/2610  413s  0.17s/item  eta 0.3min
+  2512/2610  415s  0.17s/item  eta 0.3min
+  2520/2610  416s  0.17s/item  eta 0.2min
+  2528/2610  417s  0.17s/item  eta 0.2min
+  2536/2610  419s  0.17s/item  eta 0.2min
+  2544/2610  420s  0.17s/item  eta 0.2min
+  2552/2610  422s  0.17s/item  eta 0.2min
+  2560/2610  423s  0.17s/item  eta 0.1min
+  2568/2610  424s  0.17s/item  eta 0.1min
+  2576/2610  426s  0.17s/item  eta 0.1min
+  2584/2610  427s  0.17s/item  eta 0.1min
+  2592/2610  428s  0.17s/item  eta 0.0min
+  2600/2610  430s  0.17s/item  eta 0.0min
+  2608/2610  431s  0.17s/item  eta 0.0min
+  2610/2610  432s  0.17s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_test_ir.jsonl",
+  "adapter": null,
+  "n": 2610,
+  "silent_audio": false,
+  "no_transcript": true,
+  "UA": 35.53,
+  "WA": 48.29,
+  "F1": 33.55,
+  "eswr_soft": 72.25,
+  "format_compliance": 0.0,
+  "parse_rate": 99.66,
+  "verdict_counts": {
+    "null": 2610
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral      813    28   155    86    61    91    22    64.7%
+joy          209    73    19    29    38    29     5    18.2%
+sadness       55     5   109    19    10     8     2    52.4%
+anger         85    10    49   136    24    28    13    39.4%
+surprise      86     9    15    39   108    17     7    38.4%
+fear          19     0     9     9     2    10     1    20.0%
+disgust       20     1     9    19     4     5    10    14.7%
+
+-> artifacts/results/ntt_ir_noprior.json
+ALL_NTT_DONE

@@ -1,0 +1,16 @@
+{
+  "prompts": "artifacts/prompts/meld_dev_ir.jsonl",
+  "adapter": null,
+  "n": 300,
+  "silent_audio": true,
+  "no_transcript": true,
+  "UA": 14.26,
+  "WA": 28.33,
+  "F1": 7.91,
+  "eswr_soft": 63.16,
+  "format_compliance": 0.0,
+  "parse_rate": 100.0,
+  "verdict_counts": {
+    "null": 300
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "prompts": "artifacts/prompts/meld_test_ir.jsonl",
+  "adapter": null,
+  "n": 2610,
+  "UA": 48.84,
+  "WA": 57.39,
+  "F1": 44.59,
+  "eswr_soft": 75.65,
+  "format_compliance": 0.0,
+  "parse_rate": 98.47,
+  "verdict_counts": {
+    "null": 2610
+  }
+}

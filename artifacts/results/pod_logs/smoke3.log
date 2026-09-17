@@ -1,0 +1,32 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files: 100%|██████████| 5/5 [00:00<00:00, 985.32it/s]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:  15%|█▌        | 135/876 [00:00<00:00, 1338.53it/s]Loading weights:  31%|███       | 269/876 [00:00<00:00, 1311.93it/s]Loading weights:  46%|████▌     | 401/876 [00:00<00:00, 1266.05it/s]Loading weights:  60%|██████    | 528/876 [00:01<00:00, 351.54it/s] Loading weights:  70%|██████▉   | 612/876 [00:01<00:01, 230.76it/s]Loading weights:  76%|███████▋  | 670/876 [00:02<00:01, 193.75it/s]Loading weights:  81%|████████▏ | 712/876 [00:02<00:00, 170.79it/s]Loading weights:  85%|████████▍ | 744/876 [00:02<00:00, 159.39it/s]Loading weights:  88%|████████▊ | 770/876 [00:03<00:00, 150.33it/s]Loading weights:  90%|█████████ | 792/876 [00:03<00:00, 143.77it/s]Loading weights:  93%|█████████▎| 811/876 [00:03<00:00, 139.62it/s]Loading weights:  95%|█████████▍| 828/876 [00:03<00:00, 132.42it/s]Loading weights:  96%|█████████▌| 843/876 [00:03<00:00, 130.17it/s]Loading weights:  98%|█████████▊| 857/876 [00:03<00:00, 128.44it/s]Loading weights:  99%|█████████▉| 871/876 [00:04<00:00, 128.42it/s]Loading weights: 100%|██████████| 876/876 [00:04<00:00, 217.56it/s]
+  8/24  3s  0.32s/item  eta 0.1min
+  16/24  7s  0.47s/item  eta 0.1min
+  24/24  9s  0.38s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_dev_true.jsonl",
+  "adapter": null,
+  "n": 24,
+  "UA": 100.0,
+  "WA": 100.0,
+  "F1": 100.0,
+  "eswr_soft": 4.17,
+  "format_compliance": 0.0,
+  "parse_rate": 4.17,
+  "verdict_counts": {
+    "null": 24
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral       11     0     0     0     0     0     0   100.0%
+joy            4     0     0     0     0     0     0     0.0%
+sadness        2     0     0     0     0     0     0     0.0%
+anger          1     0     0     0     0     0     0     0.0%
+surprise       6     0     0     0     0     0     0     0.0%
+fear           0     0     0     0     0     0     0     0.0%
+disgust        0     0     0     0     0     0     0     0.0%
+
+-> artifacts/results/smoke_true.json

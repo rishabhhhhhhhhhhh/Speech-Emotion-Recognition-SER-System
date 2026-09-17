@@ -17,16 +17,36 @@ SYNONYMS = {
     "fearful": "fear", "afraid": "fear", "scared": "fear",
     "surprised": "surprise", "disgusted": "disgust",
     "calm": "neutral", "neutral state": "neutral",
+    # Qwen2-Audio is bilingual and drifts into Chinese on some clips (observed on the
+    # 20-clip smoke test). Without these the answer is unparseable and scores 0, which
+    # would understate the model rather than measure it.
+    "惊讶": "surprise", "震惊": "surprise",
+    "快乐": "joy", "高兴": "joy", "喜悦": "joy",
+    "悲伤": "sadness", "难过": "sadness", "伤心": "sadness",
+    "愤怒": "anger", "生气": "anger",
+    "恐惧": "fear", "害怕": "fear",
+    "厌恶": "disgust",
+    "中性": "neutral", "平静": "neutral",
 }
 
 def canonicalize(raw: str) -> str | None:
-    """Normalise a free-text emotion string to CANONICAL, or None if unmappable."""
+    """Normalise a free-text emotion string to CANONICAL, or None if unmappable.
+
+    Also handles the case where the model wraps the label in a sentence rather than
+    emitting it bare (e.g. "the emotion is anger") - we look for exactly one canonical
+    label as a substring. If several appear, it is genuinely ambiguous and we return None
+    rather than guessing, so the parse-rate metric stays honest.
+    """
     if raw is None:
         return None
-    s = raw.strip().strip(".<>[]()\"'").lower()
+    s = raw.strip().strip(".<>[]()\"' \n\t").lower()
     if s in LABEL2ID:
         return s
-    return SYNONYMS.get(s)
+    if s in SYNONYMS:
+        return SYNONYMS[s]
+    hits = {c for c in CANONICAL if c in s}
+    hits |= {v for k, v in SYNONYMS.items() if k in s}
+    return hits.pop() if len(hits) == 1 else None
 
 # --- RAVDESS: 03-01-05-01-02-01-16.wav -----------------------------------
 # modality-vocalChannel-EMOTION-intensity-statement-repetition-ACTOR

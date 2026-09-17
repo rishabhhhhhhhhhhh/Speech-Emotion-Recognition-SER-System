@@ -1,0 +1,18 @@
+{
+  "prompts": "artifacts/prompts/meld_dev_shuffled.jsonl",
+  "adapter": null,
+  "n": 400,
+  "silent_audio": false,
+  "no_transcript": true,
+  "UA": 23.14,
+  "WA": 43.38,
+  "F1": 25.24,
+  "eswr_soft": 53.23,
+  "format_compliance": 16.25,
+  "parse_rate": 75.5,
+  "verdict_counts": {
+    "null": 194,
+    "AGREE": 46,
+    "CONFLICT": 160
+  }
+}

@@ -1,0 +1,35 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Fetching 5 files:  20%|██        | 1/5 [00:10<00:42, 10.55s/it]Fetching 5 files:  40%|████      | 2/5 [00:17<00:25,  8.44s/it]Fetching 5 files:  80%|████████  | 4/5 [00:17<00:03,  3.28s/it]Fetching 5 files: 100%|██████████| 5/5 [00:24<00:00,  4.14s/it]Fetching 5 files: 100%|██████████| 5/5 [00:24<00:00,  4.80s/it]
+Loading weights:   0%|          | 0/876 [00:00<?, ?it/s]Loading weights:   9%|▉         | 78/876 [00:00<00:01, 773.48it/s]Loading weights:  18%|█▊        | 156/876 [00:00<00:01, 634.53it/s]Loading weights:  28%|██▊       | 241/876 [00:00<00:00, 717.65it/s]Loading weights:  36%|███▌      | 315/876 [00:00<00:00, 620.06it/s]Loading weights:  43%|████▎     | 380/876 [00:00<00:00, 589.21it/s]Loading weights:  50%|█████     | 441/876 [00:00<00:00, 566.35it/s]Loading weights:  57%|█████▋    | 499/876 [00:01<00:01, 205.58it/s]Loading weights:  62%|██████▏   | 541/876 [00:01<00:02, 153.95it/s]Loading weights:  65%|██████▌   | 572/876 [00:02<00:02, 129.63it/s]Loading weights:  68%|██████▊   | 596/876 [00:02<00:02, 127.88it/s]Loading weights:  70%|███████   | 617/876 [00:02<00:02, 111.38it/s]Loading weights:  72%|███████▏  | 634/876 [00:03<00:02, 98.26it/s] Loading weights:  74%|███████▍  | 648/876 [00:03<00:02, 80.98it/s]Loading weights:  75%|███████▌  | 659/876 [00:03<00:02, 76.85it/s]Loading weights:  76%|███████▋  | 669/876 [00:03<00:02, 72.16it/s]Loading weights:  77%|███████▋  | 678/876 [00:03<00:03, 65.46it/s]Loading weights:  78%|███████▊  | 686/876 [00:04<00:03, 58.46it/s]Loading weights:  79%|███████▉  | 696/876 [00:04<00:02, 62.43it/s]Loading weights:  80%|████████  | 705/876 [00:04<00:02, 67.33it/s]Loading weights:  81%|████████▏ | 713/876 [00:04<00:02, 67.35it/s]Loading weights:  84%|████████▎ | 732/876 [00:04<00:01, 93.53it/s]Loading weights:  85%|████████▌ | 745/876 [00:04<00:01, 97.63it/s]Loading weights:  86%|████████▋ | 757/876 [00:04<00:01, 102.62it/s]Loading weights:  88%|████████▊ | 768/876 [00:04<00:01, 98.79it/s] Loading weights:  89%|████████▉ | 779/876 [00:05<00:01, 91.19it/s]Loading weights:  90%|█████████ | 789/876 [00:05<00:01, 78.30it/s]Loading weights:  91%|█████████ | 798/876 [00:05<00:01, 64.99it/s]Loading weights:  92%|█████████▏| 806/876 [00:05<00:01, 59.47it/s]Loading weights:  93%|█████████▎| 815/876 [00:05<00:00, 62.26it/s]Loading weights:  94%|█████████▍| 822/876 [00:05<00:00, 58.02it/s]Loading weights:  95%|█████████▍| 829/876 [00:06<00:00, 48.92it/s]Loading weights:  96%|█████████▌| 839/876 [00:06<00:00, 57.58it/s]Loading weights:  97%|█████████▋| 851/876 [00:06<00:00, 67.47it/s]Loading weights:  99%|█████████▊| 863/876 [00:06<00:00, 71.04it/s]Loading weights: 100%|██████████| 876/876 [00:06<00:00, 132.02it/s]
+  4/20  7s  1.87s/item  eta 0.5min
+  8/20  14s  1.70s/item  eta 0.3min
+  12/20  19s  1.59s/item  eta 0.2min
+  16/20  27s  1.68s/item  eta 0.1min
+  20/20  34s  1.68s/item  eta 0.0min
+
+{
+  "prompts": "artifacts/prompts/meld_dev_true.jsonl",
+  "adapter": null,
+  "n": 20,
+  "UA": 37.5,
+  "WA": 75.0,
+  "F1": 42.86,
+  "eswr_soft": 17.5,
+  "format_compliance": 0.0,
+  "parse_rate": 20.0,
+  "verdict_counts": {
+    "null": 15,
+    "AGREE": 5
+  }
+}
+
+            neut   joy  sadn  ange  surp  fear  disg   recall
+neutral        9     1     0     0     0     0     0    90.0%
+joy            3     0     0     0     0     0     0     0.0%
+sadness        2     0     0     0     0     0     0     0.0%
+anger          1     0     0     0     0     0     0     0.0%
+surprise       4     0     0     0     0     0     0     0.0%
+fear           0     0     0     0     0     0     0     0.0%
+disgust        0     0     0     0     0     0     0     0.0%
+
+-> artifacts/results/smoke_true.json
